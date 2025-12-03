@@ -1,0 +1,269 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Administración - Catálogo y Requisiciones</title>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+<style>
+  body { background-color: #f4f6f8; font-family: 'Inter', 'Segoe UI', system-ui; }
+  .strawberry-bar {
+    background-color: #3e5f8a; color: #fff; border-bottom: 3px solid #4f7ab3;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.15);
+  }
+  .strawberry-bar .navbar-brand { color: #fff; font-weight: 600; }
+  .card { border-radius: 14px; border: 1px solid #e0e6ec; box-shadow: 0 2px 8px rgba(0,0,0,0.05); }
+  .product-row { background:#fff; padding:12px; border-radius:10px; margin-bottom:10px; border:1px solid #e0e6ec; }
+  .btn-outline-primary:hover { background-color:#4f7ab3; color:#fff; }
+  .small-input { width: 120px; display:inline-block; }
+  .table-fixed { table-layout: fixed; word-wrap:break-word; }
+</style>
+</head>
+<body>
+<nav class="navbar shadow-sm strawberry-bar">
+  <div class="container d-flex justify-content-between align-items-center">
+    <a class="navbar-brand d-flex align-items-center text-white fw-semibold" href="#">
+      <img src="{{ url_for('static', filename='logo.png') }}" style="height:34px" class="me-2">Admin Catálogo
+    </a>
+    <div class="d-flex gap-2">
+      <a class="btn btn-light btn-sm fw-semibold" href="/solicitud">Volver a Solicitud</a>
+      <a class="btn btn-danger btn-sm fw-semibold" href="/logout">Salir</a>
+    </div>
+  </div>
+</nav>
+
+<div class="container mt-4">
+  <div class="card p-4 mb-4">
+    <h4 class="mb-3">Administrar Productos</h4>
+
+    <div id="productsContainer"></div>
+
+    <div class="d-flex justify-content-between align-items-center mb-3">
+      <div>
+        <button type="button" id="addProduct" class="btn btn-outline-primary">+ Agregar Producto</button>
+        <button type="button" id="resetProducts" class="btn btn-outline-secondary">Restablecer</button>
+      </div>
+      <div>
+        <button type="button" id="saveProducts" class="btn btn-success">Guardar Cambios</button>
+      </div>
+    </div>
+
+    <hr>
+    <h5>Unidades Disponibles</h5>
+    <div id="unitsContainer" class="mb-3">
+      {% for u in units %}
+      <div class="input-group mb-2 unit-row">
+        <input type="text" class="form-control unit-input" value="{{u}}">
+        <button type="button" class="btn btn-outline-danger remove-unit">Eliminar</button>
+      </div>
+      {% endfor %}
+    </div>
+    <div class="d-flex gap-2 mb-2">
+      <button type="button" id="addUnit" class="btn btn-outline-primary">+ Agregar Unidad</button>
+      <button type="button" id="saveUnits" class="btn btn-success">Guardar Unidades</button>
+    </div>
+    <small class="text-muted">Nota: las unidades se guardarán mediante la acción que tu backend soporte (/admin/save_units o similar).</small>
+  </div>
+
+  <!-- Nueva sección: Gestión de requisiciones (solo visible si el servidor inyecta 'requisiciones') -->
+  <div class="card p-4">
+    <h4 class="mb-3">Gestionar Requisiciones</h4>
+    <div class="table-responsive">
+      <table class="table table-fixed align-middle">
+        <thead class="bg-light">
+          <tr>
+            <th style="width:9%">ID</th>
+            <th style="width:12%">Fecha</th>
+            <th style="width:14%">Solicitante</th>
+            <th style="width:10%">Depto</th>
+            <th style="width:12%">Proyecto</th>
+            <th style="width:14%">Producto(s)</th>
+            <th style="width:6%">Unidad</th>
+            <th style="width:6%">Cant.</th>
+            <th style="width:8%">Imagen</th>
+            <th style="width:9%">Acciones</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% if requisiciones %}
+            {% for r in requisiciones %}
+            <tr>
+              <td><strong>{{ r[0] }}</strong></td>
+              <td>{{ r[1] }}</td>
+              <td>{{ r[3] }}</td>
+              <td>{{ r[4] }}</td>
+              <td>{{ r[6] }}</td>
+              <td>{{ r[7] }}</td>
+              <td>{{ r[8] }}</td>
+              <td>{{ r[9] }}</td>
+              <td>
+                {% if r[16] %}
+                  <a href="/uploads/{{ r[16] }}" target="_blank" class="d-block">Ver / Descargar</a>
+                {% else %}
+                  <span class="text-muted">Sin imagen</span>
+                {% endif %}
+              </td>
+              <td>
+                <!-- Editar ID (envía a /mis_requisiciones con action=update_id) -->
+                <form method="post" action="/mis_requisiciones" class="mb-2 d-flex gap-1" style="align-items:center;">
+                  <input type="hidden" name="action" value="update_id">
+                  <input type="hidden" name="old_id" value="{{ r[0] }}">
+                  <input name="new_id" placeholder="Nuevo ID" class="form-control form-control-sm small-input" required>
+                  <button class="btn btn-sm btn-outline-primary" type="submit" title="Actualizar ID"><i class="bi bi-pencil"></i></button>
+                </form>
+
+                <!-- Subir / Reemplazar imagen -->
+                <form method="post" action="/admin/upload_image" enctype="multipart/form-data" class="mb-2">
+                  <input type="hidden" name="req_id" value="{{ r[0] }}">
+                  <div class="d-flex gap-1">
+                    <input type="file" name="file" accept="image/*" class="form-control form-control-sm" required>
+                    <button class="btn btn-sm btn-success" type="submit" title="Subir imagen"><i class="bi bi-upload"></i></button>
+                  </div>
+                </form>
+
+                <!-- Descargar CSV de requisición -->
+                <a href="/admin/download_requisition/{{ r[0] }}" class="btn btn-sm btn-outline-secondary w-100">Descargar</a>
+              </td>
+            </tr>
+            {% endfor %}
+          {% else %}
+            <tr><td colspan="10" class="text-muted">No hay requisiciones para mostrar.</td></tr>
+          {% endif %}
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+
+<!-- iconos bootstrap -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" rel="stylesheet">
+
+<script>
+  // Datos iniciales inyectados por el servidor
+  const originalProducts = Array.isArray({{ products|tojson }}) ? {{ products|tojson }} : [];
+  let products = structuredClone(originalProducts);
+  let units = Array.isArray({{ units|tojson }}) ? {{ units|tojson }} : [];
+
+  function renderProducts(){
+    const container = document.getElementById('productsContainer');
+    container.innerHTML = '';
+    products.forEach((p,i)=>{
+      const div = document.createElement('div');
+      div.className = 'product-row row g-2 align-items-center';
+      div.innerHTML = `
+        <div class="col-md-8">
+          <input type="text" class="form-control prod-name" value="${(p||'').replace(/"/g,'&quot;')}" placeholder="Nombre Producto">
+        </div>
+        <div class="col-md-4 text-end">
+          <button type="button" class="btn btn-outline-danger remove-btn">Eliminar</button>
+        </div>`;
+      container.appendChild(div);
+      div.querySelector('.remove-btn').addEventListener('click', ()=>{
+        // eliminar por índice (recalcular)
+        products.splice(i,1);
+        renderProducts();
+      });
+    });
+  }
+
+  document.addEventListener('DOMContentLoaded', ()=>{
+    renderProducts();
+
+    document.getElementById('addProduct').addEventListener('click',()=>{
+      products.push('');
+      renderProducts();
+    });
+
+    document.getElementById('resetProducts').addEventListener('click', ()=>{
+      if(confirm('Restablecer la lista de productos a la original?')) {
+        products = structuredClone(originalProducts);
+        renderProducts();
+      }
+    });
+
+    // Guardar productos: enviamos cambios al endpoint /admin/products por item (add/delete)
+    document.getElementById('saveProducts').addEventListener('click', async ()=>{
+      // Normalizar lista actual
+      const current = [...document.querySelectorAll('.prod-name')].map(n=>n.value.trim()).filter(x=>x);
+      // Calcular adiciones y eliminaciones
+      const toAdd = current.filter(x=> !originalProducts.includes(x));
+      const toDelete = originalProducts.filter(x=> !current.includes(x));
+
+      if(toAdd.length===0 && toDelete.length===0){
+        alert('No hay cambios para guardar.');
+        return;
+      }
+
+      // Ejecutar peticiones secuenciales (para evitar conflictos)
+      try {
+        for(const p of toAdd){
+          const form = new FormData();
+          form.append('action','add');
+          form.append('name', p);
+          const res = await fetch('/admin/products', { method:'POST', body: form });
+          // no asumimos JSON, revisamos estatus
+          if(!res.ok) throw new Error('Error al agregar '+p);
+        }
+        for(const p of toDelete){
+          const form = new FormData();
+          form.append('action','delete');
+          form.append('name', p);
+          const res = await fetch('/admin/products', { method:'POST', body: form });
+          if(!res.ok) throw new Error('Error al eliminar '+p);
+        }
+        alert('Cambios guardados correctamente. Recargando...');
+        // recargar la página para que servidor entregue productos actualizados
+        location.reload();
+      } catch(err){
+        console.error(err);
+        alert('Ocurrió un error guardando los cambios: '+err.message);
+      }
+    });
+
+    // UNIDADES
+    const unitsContainer = document.getElementById('unitsContainer');
+    document.getElementById('addUnit').addEventListener('click', ()=>{
+      const div = document.createElement('div');
+      div.className='input-group mb-2 unit-row';
+      div.innerHTML=`<input type="text" class="form-control unit-input" value="">
+                     <button type="button" class="btn btn-outline-danger remove-unit">Eliminar</button>`;
+      unitsContainer.appendChild(div);
+      div.querySelector('.remove-unit').addEventListener('click',()=>div.remove());
+    });
+
+    document.querySelectorAll('.remove-unit').forEach(btn=>{
+      btn.addEventListener('click', (e)=>{
+        btn.parentElement.remove();
+      });
+    });
+
+    document.getElementById('saveUnits').addEventListener('click', async ()=>{
+      const currentUnits = [...document.querySelectorAll('.unit-input')].map(u=>u.value.trim()).filter(x=>x);
+      if(currentUnits.length===0){
+        if(!confirm('No quedan unidades, continuar y guardar?')) return;
+      }
+      // Intentamos enviar al endpoint esperado (/admin/save_units). Si no existe, el servidor debe implementarlo.
+      try{
+        const res = await fetch('/admin/save_units', {
+          method: 'POST',
+          headers: {'Content-Type':'application/json'},
+          body: JSON.stringify({units: currentUnits})
+        });
+        if(res.ok){
+          const data = await res.json().catch(()=>({message:'Guardado (respuesta no JSON)'}));
+          alert(data.message || 'Unidades guardadas');
+          location.reload();
+        } else {
+          const text = await res.text();
+          alert('Error guardando unidades: '+text);
+        }
+      }catch(e){
+        console.error(e);
+        alert('Error de conexión al guardar unidades. Revisa que el endpoint /admin/save_units exista.');
+      }
+    });
+
+  });
+</script>
+</body>
+</html>

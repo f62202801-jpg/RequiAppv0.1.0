@@ -1,0 +1,229 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Nueva Requisición</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+  <style>
+    :root {
+      --azul-principal: #3e5f8a;
+      --azul-claro: #4f7ab3;
+      --gris-fondo: #f4f6f8;
+      --borde-suave: #e0e6ec;
+    }
+
+    body {
+      background-color: var(--gris-fondo);
+      font-family: 'Inter', 'Segoe UI', system-ui;
+    }
+
+    .strawberry-bar {
+      background-color: var(--azul-principal);
+      background-image: linear-gradient(135deg, rgba(255,255,255,0.08), rgba(255,255,255,0.05)), 
+        url("{{ url_for('static', filename='img/fresa_pattern.svg') }}");
+      background-size: 220px;
+      background-repeat: repeat;
+      background-position: center;
+      color: #fff !important;
+      border-bottom: 3px solid var(--azul-claro);
+      box-shadow: 0 3px 6px rgba(0,0,0,0.15);
+      animation: movePattern 60s linear infinite;
+    }
+
+    .strawberry-bar .navbar-brand {
+      font-weight: 600;
+      color: #fff !important;
+      letter-spacing: 0.5px;
+    }
+
+    .strawberry-bar .btn-light {
+      background-color: rgba(255,255,255,0.9);
+      border: none;
+      color: var(--azul-principal);
+    }
+
+    .strawberry-bar .btn-light:hover {
+      background-color: #fff;
+      transform: translateY(-1px);
+      box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+    }
+
+    .strawberry-bar .btn-danger {
+      background-color: #e63946;
+      border: none;
+    }
+
+    .strawberry-bar .btn-danger:hover {
+      background-color: #c62835;
+    }
+
+    @keyframes movePattern {
+      from { background-position:0 0; }
+      to { background-position:400px 300px; }
+    }
+
+    .tabla-container {
+      background: #fff;
+      border-radius: 14px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+      padding: 15px;
+      overflow-x: auto;
+      margin-top: 25px;
+    }
+
+    table {
+      border-collapse: separate;
+      border-spacing: 0;
+      width: 100%;
+      font-size: 0.95rem;
+      color: #333;
+    }
+
+    thead th {
+      background-color: var(--azul-principal);
+      color: #fff;
+      text-align: center;
+      padding: 12px 8px;
+      font-weight: 600;
+      position: sticky;
+      top: 0;
+      z-index: 2;
+      border-bottom: 2px solid var(--azul-claro);
+    }
+
+    tbody tr:nth-child(even) { background-color: #f9fbfc; }
+    tbody tr:hover { background-color: #eef3fa; }
+
+    td {
+      text-align: center;
+      padding: 10px 8px;
+      border-bottom: 1px solid #e6e9ef;
+      vertical-align: middle;
+    }
+
+    .btn-success {
+      background-color: var(--azul-principal);
+      border: none;
+      color: #fff;
+      font-weight: 500;
+      transition: 0.2s ease;
+    }
+
+    .btn-success:hover {
+      background-color: var(--azul-claro);
+      box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+    }
+
+    .btn-outline-danger {
+      border-color: var(--azul-principal);
+      color: var(--azul-principal);
+      font-weight: 500;
+      transition: 0.2s ease;
+    }
+
+    .btn-outline-danger:hover {
+      background-color: var(--azul-principal);
+      color: #fff;
+      border-color: var(--azul-claro);
+      box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+    }
+
+    footer {
+      background-color: var(--azul-principal);
+      color: #fff;
+      text-align: center;
+      padding: 10px 0;
+      margin-top: 30px;
+      font-size: 0.95rem;
+    }
+
+    .comentario-input {
+      width: 100%;
+      border-radius: 6px;
+      border: 1px solid #dcdcdc;
+      padding: 4px 6px;
+      font-size: 0.85rem;
+    }
+  </style>
+</head>
+
+<body>
+  <nav class="navbar shadow-sm strawberry-bar">
+    <div class="container d-flex justify-content-between align-items-center">
+      <a class="navbar-brand d-flex align-items-center text-white fw-semibold" href="#">
+        <img src="{{ url_for('static', filename='logo.png') }}" style="height:34px" class="me-2">
+        Autorizaciones pendientes
+      </a>
+      {% if requisiciones %}
+      <div class="d-flex gap-2">
+        <a class="btn btn-light btn-sm" href="/solicitud">Nueva requisición</a>
+        <a class="btn btn-light btn-sm" href="/mis_requisiciones">Mis requisiciones</a>
+        <a class="btn btn-danger btn-sm" href="/logout">Salir</a>
+      </div>
+    </div>
+  </nav>
+
+  <div class="container tabla-container">
+    <table class="table table-hover align-middle">
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>Solicitante</th>
+          <th>Departamento</th>
+          <th>Proyecto</th>
+          <th>Producto</th>
+          <th>Cantidad</th>
+          <th>Unidad de Medida</th>
+          <th>Motivo</th>
+          <th>Acciones</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for r in requisiciones %}
+        <tr>
+          <td>{{ r[0] }}</td>
+          <td>{{ r[2] }}</td>
+          <td>{{ r[4] }}</td>
+          <td>{{ r[8] }}</td>
+          <td>{{ r[7] }}</td>
+          <td>{{ r[10] }}</td>
+          <td>{{ r[9] }}</td>
+          <td>{{ r[11] }}</td>
+          <td>
+            {% if session.get('role') == 'jefe' %}
+            <form method="POST" class="d-inline">
+              <input type="hidden" name="req_id" value="{{ r[0] }}">
+              <input type="hidden" name="decision" value="aprobar">
+              <input type="text" name="comentario" class="comentario-input mb-1" placeholder="Comentario (opcional)">
+              <button class="btn btn-success btn-sm">Aprobar</button>
+            </form>
+            <form method="POST" class="d-inline">
+              <input type="hidden" name="req_id" value="{{ r[0] }}">
+              <input type="hidden" name="decision" value="rechazar">
+              <input type="text" name="comentario" class="comentario-input mb-1" placeholder="Comentario (opcional)">
+              <button class="btn btn-outline-danger btn-sm">Rechazar</button>
+            </form>
+            {% elif session.get('role') == 'admin' %}
+              <span class="text-muted">Sin acciones</span>
+            {% endif %}
+          </td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+
+  {% else %}
+  <div class="alert alert-info m-4">No hay requisiciones pendientes.</div>
+  {% endif %}
+
+  <div class="container mt-3 d-flex justify-content-between">
+    <a class="btn btn-success" href="{{ url_for('solicitud') }}">Regresar</a>
+    {% if session.get('role') == 'admin' %}
+      <a class="btn btn-success" href="{{ url_for('download_and_clear_requisitions') }}">Descargar solicitudes (y limpiar)</a>
+    {% endif %}
+  </div>
+</body>
+</html>
