@@ -1,0 +1,11168 @@
+[
+  {
+    "name": "ANALISIS"
+  },
+  {
+    "name": "ANTIVIRUS"
+  },
+  {
+    "name": "ANUNCIOS DE PERIFONEO"
+  },
+  {
+    "name": "ANUNCIOS DE RADIO"
+  },
+  {
+    "name": "AVALUO"
+  },
+  {
+    "name": "BORDADO"
+  },
+  {
+    "name": "CARGA DE GAS"
+  },
+  {
+    "name": "CARGO ADICIONAL COMBUSTIBLE DE ENVIOS"
+  },
+  {
+    "name": "COMIDA"
+  },
+  {
+    "name": "COMPOSTA"
+  },
+  {
+    "name": "CURSO DE INGLES"
+  },
+  {
+    "name": "CURSOS"
+  },
+  {
+    "name": "DISEÑO DE ARTICULOS PROMOCIONALES"
+  },
+  {
+    "name": "ESTACIÓN METEOROLOGICA PARA MONITOREO CLIMATICO"
+  },
+  {
+    "name": "FLETE DE PLANTA"
+  },
+  {
+    "name": "GUIA DE ENVIO"
+  },
+  {
+    "name": "HOSPEDAJE"
+  },
+  {
+    "name": "INSTALACION DE BAÑO"
+  },
+  {
+    "name": "LIMPIEZA DE BAÑOS"
+  },
+  {
+    "name": "LINEAS TELEFONICAS"
+  },
+  {
+    "name": "MANO DE OBRA"
+  },
+  {
+    "name": "MANTENIMEINTO A MAQUINARIA"
+  },
+  {
+    "name": "MANTENIMIENTO A EQUIPO DE CUARTOS FRIOS"
+  },
+  {
+    "name": "MANTENIMIENTO A EQUIPO DE OFICINA"
+  },
+  {
+    "name": "MANTENIMIENTO A HIDROLAVADORA"
+  },
+  {
+    "name": "MODELO DE ENFERMEDADES Y PLAGAS"
+  },
+  {
+    "name": "MONTACARGAS 1.5 TONS"
+  },
+  {
+    "name": "MONTACARGAS 2 TONS"
+  },
+  {
+    "name": "MONTACARGAS 3.5 TONS"
+  },
+  {
+    "name": "MUESTRAS DE LABORATORIO"
+  },
+  {
+    "name": "MUESTRAS DE PASTA DE SUELO INDOOR"
+  },
+  {
+    "name": "MUESTRAS DE PASTA DE SUELO OUTDOOR"
+  },
+  {
+    "name": "PLATAFORMA 12 METROS"
+  },
+  {
+    "name": "PLATAFORMA 14 METROS"
+  },
+  {
+    "name": "PLATAFORMA 53 PIES"
+  },
+  {
+    "name": "PLATAFORMA 6 METROS"
+  },
+  {
+    "name": "PLATAFORMA 7 METROS"
+  },
+  {
+    "name": "POLARIZADO DE VIDRIO"
+  },
+  {
+    "name": "POLIZA DE SEGURO"
+  },
+  {
+    "name": "PROGRAMAS"
+  },
+  {
+    "name": "PUBLICIDAD"
+  },
+  {
+    "name": "RECARGA DE OXIGENO"
+  },
+  {
+    "name": "RECLUTAMIENTO"
+  },
+  {
+    "name": "RECOLECCIÓN DE RESIDUOS ORGANICOS E INORGANICOS "
+  },
+  {
+    "name": "RECUPERACION DE BINS PLASTICOS"
+  },
+  {
+    "name": "REMOLQUE 1.5 TONS"
+  },
+  {
+    "name": "REMOLQUE 2 TONS"
+  },
+  {
+    "name": "REMOLQUE 3.5 TONS"
+  },
+  {
+    "name": "RENOVACION LICENCIA CONTPAQi NÓMINAS"
+  },
+  {
+    "name": "RENOVACION LICENCIA CONTPAQi CONTABILIDAD"
+  },
+  {
+    "name": "RENOVACION LICENCIA CONTPAQi COMERCIAL"
+  },
+  {
+    "name": "RENTA BOBCAT CHICO"
+  },
+  {
+    "name": "RENTA DE AUTOMOVIL"
+  },
+  {
+    "name": "RENTA DE BARREDORA"
+  },
+  {
+    "name": "RENTA DE BOBCAT GRANDE"
+  },
+  {
+    "name": "RENTA DE BULL DOZER"
+  },
+  {
+    "name": "RENTA DE CAMION DE VOLTEO 14 M3"
+  },
+  {
+    "name": "RENTA DE CAMION DE VOLTEO 7 M3"
+  },
+  {
+    "name": "RENTA DE CHAPEADORA VRISSIMO"
+  },
+  {
+    "name": "RENTA DE INVERNADERO "
+  },
+  {
+    "name": "RENTA DE MINICARGADOR"
+  },
+  {
+    "name": "RENTA DE MOBILIARIO "
+  },
+  {
+    "name": "RENTA DE OFICINAS"
+  },
+  {
+    "name": "RENTA DE OFICINAS MOVILES"
+  },
+  {
+    "name": "RENTA DE PALA DE TRACTOR"
+  },
+  {
+    "name": "RENTA DE PIPA"
+  },
+  {
+    "name": "RENTA DE PLANTA DE SOLDAR MÓVIL"
+  },
+  {
+    "name": "RENTA DE PLANTAS DE LUZ"
+  },
+  {
+    "name": "RENTA DE RETROEXCAVORA"
+  },
+  {
+    "name": "RENTA DE SANITARIOS"
+  },
+  {
+    "name": "RENTA DE SUBSUELO 3-5 PUNTAS"
+  },
+  {
+    "name": "RENTA DE TOLDO 6X6"
+  },
+  {
+    "name": "RENTA IMPLEMENTOS AGRICOLAS"
+  },
+  {
+    "name": "RENTA MAQUINARIA"
+  },
+  {
+    "name": "RENTA PALA"
+  },
+  {
+    "name": "RENTA RODILLO"
+  },
+  {
+    "name": "RENTA TRACTOR 150 HP FUMIGACION"
+  },
+  {
+    "name": "RENTA TRACTOR 200 HP COSECHA"
+  },
+  {
+    "name": "RENTA TRACTOR 75 HP PEOPLE MOVER"
+  },
+  {
+    "name": "REPARACIÓN DE INVERNADERO "
+  },
+  {
+    "name": "REVISION DE BIN CARRIER"
+  },
+  {
+    "name": "SERVICIO DE IMPORTACION"
+  },
+  {
+    "name": "SERVICIO ELECTRICO"
+  },
+  {
+    "name": "SERVICIO LOGISTICO"
+  },
+  {
+    "name": "SERVICIO MECANICO"
+  },
+  {
+    "name": "TALACHA"
+  },
+  {
+    "name": "SERVICIO DE TRAILER 48 PIES"
+  },
+  {
+    "name": "SERVICIO DE TRAILER 53 PIES"
+  },
+  {
+    "name": "SERVICIO DE  TRAILER REFRIGERADO 48 PIES"
+  },
+  {
+    "name": "SERVICIO DE TRAILER REFRIGERADO 53 PIES"
+  },
+  {
+    "name": "TRANSPORTE DE PERSONAL"
+  },
+  {
+    "name": "TRANSPORTE REFRIGERADO "
+  },
+  {
+    "name": "SERVICIO ELECTRICO A BIN CARRIER 1"
+  },
+  {
+    "name": "MANTENIMIENTO ELECTRICO DE EQUIPOS DE COSECHA"
+  },
+  {
+    "name": "SERVICIO ELECTRICO A COSECHADORA #1"
+  },
+  {
+    "name": "SERVICIO ELECTRICO A COSECHADORA #4"
+  },
+  {
+    "name": "SERVICIO ELECTRICO A COSECHADORA #5"
+  },
+  {
+    "name": "SERVICIO ELECTRICO A BIN CARRIER #3"
+  },
+  {
+    "name": "SERVICIO ELECTRICO A BIN CARRIER #4"
+  },
+  {
+    "name": "SERVICIO ELECTRICO A BIN CARRIER #5"
+  },
+  {
+    "name": "CONEXIÓN DE LUCES PARA COMBI DE PERSONAL"
+  },
+  {
+    "name": "SERVICIO ELECTRICO A BIN CARRIER #6"
+  },
+  {
+    "name": "SERVICIO ELECTRICO A COSECHADORA #2"
+  },
+  {
+    "name": "SERVICIO ELECTRICO A COSECHADORA #6"
+  },
+  {
+    "name": "SERVICIO ELECTRICO A COSECHADORA #3"
+  },
+  {
+    "name": "SERVICIO ELECTRICO A COSECHADORA #7"
+  },
+  {
+    "name": "SERVICIO ELECTRICO A BIN CARRIER #2"
+  },
+  {
+    "name": "SERVICIO DE ENLACE DE RED WIFI/ESTACION DE RED "
+  },
+  {
+    "name": "REPARACIÓN DE EQUIPO CELULAR"
+  },
+  {
+    "name": "SERVICIO DE DUPLICADO DE LLAVES"
+  },
+  {
+    "name": "TRAMITE PLACAS"
+  },
+  {
+    "name": "SERVICIO DE REPARACIÓN A SUPER DUTY"
+  },
+  {
+    "name": "MANTENIMIENTO A FLOTILLA"
+  },
+  {
+    "name": "SERVICIO DE CONSTRUCCION"
+  },
+  {
+    "name": "2,4-DEAMINA (SPERTO)"
+  },
+  {
+    "name": "ABAMECTINA (ANTEX GEL)"
+  },
+  {
+    "name": "ACEQUINOCYL (KANEMITE SC 15)"
+  },
+  {
+    "name": "ACETAMIPRID (CROW)"
+  },
+  {
+    "name": "ACIDO FULUICOS, CALSIO Y AZUFRE (CORDAGON)"
+  },
+  {
+    "name": "ACIDO GIBERELICO (PHYTO GIB AMINOL)"
+  },
+  {
+    "name": "ACIDO HÙMICO (BIO S.I.)"
+  },
+  {
+    "name": "ACIDO INDEL, NAFTALEN ACETICO (PHYTO ROOT PLUS)"
+  },
+  {
+    "name": "ACIDO PEROXIOCETICO (OXI AID)"
+  },
+  {
+    "name": "ACIDO, DILUYENTE (BALLECLEAN)"
+  },
+  {
+    "name": "ACIDO, INERTE (BIOBIG 10PS)"
+  },
+  {
+    "name": "AMONIACO, SILICIO, MATERIAL ORGANICO,NITROGENO Y FOSFORO (ARMUROX)"
+  },
+  {
+    "name": "AZABINACTINA (AZANIM)"
+  },
+  {
+    "name": "AZOTOBACTER, BACILLUS CEREUS (BIO STIMULER)"
+  },
+  {
+    "name": "AZOXISTROBIN METALAXIL (UNIFORM)"
+  },
+  {
+    "name": "AZOXYSTROBIN (SABLE 25 SC)"
+  },
+  {
+    "name": "AZUFRE ELEMENTAL (LUCAFLON)"
+  },
+  {
+    "name": "BACILLUS AMYLOLIQUEFACIENS (SERENADE)"
+  },
+  {
+    "name": "BACILLUS SUBTILIS QST 713 (SERENADE)"
+  },
+  {
+    "name": "BACILLUS THURINGIENSIS (GNATROL D6)"
+  },
+  {
+    "name": "BACILLUS, BURKHOLDERIA SP Y TRICHODERMA SP (BIO FUNGY)"
+  },
+  {
+    "name": "BENOMILO (PROMYL)"
+  },
+  {
+    "name": "BENZOATO DE EMAMETINA (PROCLAIM UPTI)"
+  },
+  {
+    "name": "BIFENTRINA (TAL STAR 960)"
+  },
+  {
+    "name": "BIFENTRINA (TAL STAR 120)"
+  },
+  {
+    "name": "BORO, COBRE, FIERRO, MANGANESO Y ZINC (MICRO 500)"
+  },
+  {
+    "name": "BORO, COMPLEJADO CON ETANOLAMINA (BORO PLUS)"
+  },
+  {
+    "name": "BORO, ZINC (TRIKEL)"
+  },
+  {
+    "name": "CALCIO, AZUFRE (YESOZUL)"
+  },
+  {
+    "name": "CALCIO, (PREMIUM CALCIUM 20 LTS)"
+  },
+  {
+    "name": "CALCIO, (PREMIUM CALCIUM 1 LTS)"
+  },
+  {
+    "name": "CAPTAN"
+  },
+  {
+    "name": "CARBAMATO DE PROPAMOCARB-HCI (PROPIANT)"
+  },
+  {
+    "name": "CARBENDAZIN (PROZYCAR )"
+  },
+  {
+    "name": "CERA Y AGUA (KUMO 20 LTS)"
+  },
+  {
+    "name": "CERA Y AGUA (KUMO 1 LTS)"
+  },
+  {
+    "name": "CIAZOFAMIDA (RANMAN)"
+  },
+  {
+    "name": "CITOCININAS (PHYTO HORMONAL XTRA)"
+  },
+  {
+    "name": "CLORANTRANILIPROL (CORAGEN)"
+  },
+  {
+    "name": "CLORPIRIFOS (LORSBAN)"
+  },
+  {
+    "name": "COUMATETRATIL (RACUMIN)"
+  },
+  {
+    "name": "CYFLUMETOFEN (DANISABARA)"
+  },
+  {
+    "name": "CYMOXANIL (CIMAX 1 LITRO)"
+  },
+  {
+    "name": "CYMOXANIL (CYMO MAX 1/2 KG)"
+  },
+  {
+    "name": "CYMOXANIL (CYMO MAX 1 KG)"
+  },
+  {
+    "name": "DIFECONAZOL (SCORE 250 CF)"
+  },
+  {
+    "name": "DIMETAMORF (FORUM SE)"
+  },
+  {
+    "name": "E13-18ALD, 213-18ALD, 211- 16ALD (PHERO-DF)"
+  },
+  {
+    "name": "ESTRACTO DE NIN, EXTRATO DE CANELA (NEE CARE)"
+  },
+  {
+    "name": "ETHEPHON (MADUTHRLE)"
+  },
+  {
+    "name": "EXTRACTO BOTANICO (BIOPIRETRIN PLUS)"
+  },
+  {
+    "name": "EXTRACTO DE CANELA (QANUM)"
+  },
+  {
+    "name": "EXTRACTO DE LARREA FRIDENTATA (BIO GOBER PLUS)"
+  },
+  {
+    "name": "EXTRACTO DE MIMOSA (SYSTEM MAX)"
+  },
+  {
+    "name": "EXTRATO DE CANELA (CIN NACAR)"
+  },
+  {
+    "name": "FENDEXAMID (ELEVANT KG)"
+  },
+  {
+    "name": "FENDEXAMID (ELEVANT LTS)"
+  },
+  {
+    "name": "FIVAZINAM (SHOGUN 500 FW)"
+  },
+  {
+    "name": "FLOMICAMID (BELCAF) 600 grs"
+  },
+  {
+    "name": "FLOMICAMID (BELCAF) 450 grs"
+  },
+  {
+    "name": "FLUBENDIAMIDE (BETL)"
+  },
+  {
+    "name": "FLUXAPYROXAD + PIRACIOSTROBINA (MERIVAN)"
+  },
+  {
+    "name": "FOSETIL + ALUMINIO (FORUNTO 80 WG 1 LTS)"
+  },
+  {
+    "name": "FOSETIL + ALUMINIO (FURONTO 80 1 KG)"
+  },
+  {
+    "name": "FOSETIL + ALUMINIO (ALIETTE) 1 KG"
+  },
+  {
+    "name": "FOSFORO NITROGEBO, ZINC (SUPER FOSFORICO)"
+  },
+  {
+    "name": "FOSFORO, POTASIO (VOLTA PK)"
+  },
+  {
+    "name": "GIBERALINICA, AUXINICA (BIOZYME T F)"
+  },
+  {
+    "name": "GLUCONATO DE COBRE (CU-BACK)"
+  },
+  {
+    "name": "HYMEXAZOL (TACH GARDEN)"
+  },
+  {
+    "name": "IMIDACLOPRIT (PATRON ULTRA) 100 GRS"
+  },
+  {
+    "name": "IMIDACLOPRIT (UNIPRID) 1 LTS"
+  },
+  {
+    "name": "IPRODIONA (ROVRAL 30 PT)"
+  },
+  {
+    "name": "IPRODIONA (ROVRAL)"
+  },
+  {
+    "name": "MANCOZEB (FLONEX MZ)"
+  },
+  {
+    "name": "METALAXIL (KATO 240)"
+  },
+  {
+    "name": "METALIXIL, CLOROTALONIL (TOKAT CLN)"
+  },
+  {
+    "name": "MYCLOBUTANIL (MYTALIN)"
+  },
+  {
+    "name": "NITROGENO AZUFRE Y POTASIO (ACADIAN)"
+  },
+  {
+    "name": "NITROGENO Y POTASIO (PRO MAX 20 LTS)"
+  },
+  {
+    "name": "NITROGENO Y POTASIO (PRO MAX 5 LTS)"
+  },
+  {
+    "name": "NITROGENO, EXTRACTO DE ALGAS, AMINOACIDOS (FERBIONA)"
+  },
+  {
+    "name": "NITROGENO, FOSFORO Y POTASIO (MAGNUN)"
+  },
+  {
+    "name": "NITROGENO, FOSFORO, COBRE (COPER MIN)"
+  },
+  {
+    "name": "NITROGENO, FOSFORO, MAGNESIO (POLYFOST MN)"
+  },
+  {
+    "name": "NITROGENO, FOSFORO, POTACIO (MICROCORRECTOR)"
+  },
+  {
+    "name": "NITROGENO, FOSFORO, POTACIO, BORO.HIERRO, MANGANESO, MOLIBDENO, ZINC Y ACIDO (GROW)"
+  },
+  {
+    "name": "NITROGENO, FOSFORO, POTASIO (BBIOCOSECH)"
+  },
+  {
+    "name": "NITROGENO, FOSFORO, POTASIO (HUMIFORTE)"
+  },
+  {
+    "name": "NITROGENO, FOSFORO, POTASIO (ESTOLON)"
+  },
+  {
+    "name": "NITROGENO, FOSFORO, POTASIO (PRO GERMINATOR 1 LTS)"
+  },
+  {
+    "name": "NITROGENO, FOSFORO, POTASIO (PRO GERMINATOR 20 LTS)"
+  },
+  {
+    "name": "NITROGENO, NITRATO, UREA (SUPER NITRO)"
+  },
+  {
+    "name": "NITROGENO, POTACIO, FITOHORMONAS (CRECI HUMOS)"
+  },
+  {
+    "name": "NITROGENO, POTASIO (RADIO MAX)"
+  },
+  {
+    "name": "NITROGENO, POTASIO, FOSFORO (RORT BASE)"
+  },
+  {
+    "name": "NITROGENO, POTASIO,FOSFORO (SURE K 1-6-2)"
+  },
+  {
+    "name": "NITROGENO, ZINC, MAGNESIO, HIERRO, COBRE, BORO, POTASIO Y FOSFORO (PETERS PROFESSIONAL)"
+  },
+  {
+    "name": "NITROGENO,AZUFRE COMBINADO,FOSFORO, BORO, HIERRO, ZINC, MANGANESO ACIDO (FORTE ROOT)"
+  },
+  {
+    "name": "NITROGENO,N FOSFORO, POTACIO Y (POLYSTIM GLOBAL)"
+  },
+  {
+    "name": "OXICLORURO DE COBRE (OXICOB)"
+  },
+  {
+    "name": "OXIDO DE SINK, CARBONATO DE MAGNESIO (BIOALUMINIUM)"
+  },
+  {
+    "name": "PEGA RATA (CASA FACIL CHICO)"
+  },
+  {
+    "name": "PEGA RATA (CASA FACIL GRANDE)"
+  },
+  {
+    "name": "PENTIOPIRAD (FONTELIS)"
+  },
+  {
+    "name": "PIDIFLUMETOFEN-DIFENOCONAZOL (MIRAVIS DUO)"
+  },
+  {
+    "name": "POLIALQUILENOXIDO (BLUT)"
+  },
+  {
+    "name": "POTASIO SOLUBLE (SUPER K)"
+  },
+  {
+    "name": "PROCLORAZ (MERGENT)"
+  },
+  {
+    "name": "PROPAMOCARB+FOSETIL (PREVICUR)"
+  },
+  {
+    "name": "PROPICANAZOL (AVALON)"
+  },
+  {
+    "name": "PROPICANAZOL (BUMPER 25 EC)"
+  },
+  {
+    "name": "PROPICONAZOL (PROTITIL)"
+  },
+  {
+    "name": "PROPICONAZOLE (SANAZOLE IMPETOR)"
+  },
+  {
+    "name": "QUINTOZENO, PENTACLORONITRO BENCENO (PENTACLOR 600 F)"
+  },
+  {
+    "name": "RECINA DE PINO (RECINAL)"
+  },
+  {
+    "name": "SALES CUATERNARIAS (ANIBAC)"
+  },
+  {
+    "name": "SALES POTASICAS DE ACIDOS GRASOS (IMPIDE)"
+  },
+  {
+    "name": "SOLVENTES Y DILUYENTE ADHESIVOS QUIMICOS (SPIDER PLUS)"
+  },
+  {
+    "name": "SPINOSAD, SPINOSEN A YD (SPINTOR)"
+  },
+  {
+    "name": "THIAMETOXAN (ACTARA)"
+  },
+  {
+    "name": "TIABENDAZAL (CINETO PH 600)"
+  },
+  {
+    "name": "TIABENDAZAL (TECTO 60)"
+  },
+  {
+    "name": "TRICHODERMA HARZIANUM (TRICHOSYM BIO)"
+  },
+  {
+    "name": "TRICHODERMA HORZIANUM, TRICHODERMA VIRIDE (TIMIX)"
+  },
+  {
+    "name": "TRIFLUMIZOLE (TERRAGUARD SC 480)"
+  },
+  {
+    "name": "VENENO (RAT KILL)"
+  },
+  {
+    "name": "ZINC"
+  },
+  {
+    "name": "ZINC (GRO-ZINC (ZN))"
+  },
+  {
+    "name": "ZINC, (BREXIL)"
+  },
+  {
+    "name": "ZINC, ACIDO FULVICOS (MULTI ZINC)"
+  },
+  {
+    "name": "ZINC, NITROGENO AZUFRE (PHYTO OLIGO ZN)"
+  },
+  {
+    "name": "BALLECLEAN"
+  },
+  {
+    "name": "SURFOCEL"
+  },
+  {
+    "name": "PEROXIDO DE HIDROGENO 50 %"
+  },
+  {
+    "name": "ALCOHOL ETILICO"
+  },
+  {
+    "name": "PEROXIDO DE HIDROGENO "
+  },
+  {
+    "name": "HIPOCLORITO SODIO 15%"
+  },
+  {
+    "name": "CIPRODINIL + FLUDIOXONIL"
+  },
+  {
+    "name": "SULFATO DE ZINC GRANULADO (SNSO4)"
+  },
+  {
+    "name": "SULFATO DE COBRE  (CUSO4)"
+  },
+  {
+    "name": "BORO GRANULADO (B)"
+  },
+  {
+    "name": "DOLOMITA"
+  },
+  {
+    "name": "DAP (18-46-0)"
+  },
+  {
+    "name": "SULFATO DE POTASIO (K2SO4 0-0-50)"
+  },
+  {
+    "name": "SULFATO DE MAGNESIO (KMGSO 27)"
+  },
+  {
+    "name": "DIAZINON"
+  },
+  {
+    "name": "CHLORBAN 20 KG"
+  },
+  {
+    "name": "AMBLYSEIUS SWIRSKII 500 SOBRES"
+  },
+  {
+    "name": "BIOREND"
+  },
+  {
+    "name": "AGREX-ABC"
+  },
+  {
+    "name": "TRICHODERMA"
+  },
+  {
+    "name": "AZUFRE EN POLVO"
+  },
+  {
+    "name": "BIOREND (QUITOSANO)"
+  },
+  {
+    "name": "HERBICIDA DE AMPLIO ESPECTRO"
+  },
+  {
+    "name": "VERMICULITA"
+  },
+  {
+    "name": "PERLITA"
+  },
+  {
+    "name": "PEAT MOSS"
+  },
+  {
+    "name": "ARENA DE RIO"
+  },
+  {
+    "name": "ABRAZADERA 1/2\" X 12\""
+  },
+  {
+    "name": "ABRAZADERA OMEGA 1 1/4\""
+  },
+  {
+    "name": "ABRAZADERA OMEGA 3\""
+  },
+  {
+    "name": "ABRAZADERA REFORZADA 2\""
+  },
+  {
+    "name": "ABRAZADERA REFORZADA 4\""
+  },
+  {
+    "name": "ABRAZADERA REFORZADA 8\""
+  },
+  {
+    "name": "ABRAZADERA SIN FIN 1 1/2\""
+  },
+  {
+    "name": "ABRAZADERA SIN FIN 1 1/4\""
+  },
+  {
+    "name": "ABRAZADERA SIN FIN 1\""
+  },
+  {
+    "name": "ABRAZADERA SIN FIN 2\""
+  },
+  {
+    "name": "ABRAZADERA SIN FIN 3\""
+  },
+  {
+    "name": "ABRAZADERA SIN FIN 3/4\""
+  },
+  {
+    "name": "ABRAZADERA SIN FIN 4\""
+  },
+  {
+    "name": "ABRAZADERA SIN FIN 5/8\""
+  },
+  {
+    "name": "ABRAZADERA SIN FIN 6\""
+  },
+  {
+    "name": "ABRAZADERA SIN FIN 8\""
+  },
+  {
+    "name": "ABRAZADERAS DE CUADRO PARA ASPERSORA 1\""
+  },
+  {
+    "name": "ACEITE 3 EN 1"
+  },
+  {
+    "name": "ACEITE 4 TIEMPOS SAE 10 W 30"
+  },
+  {
+    "name": "ACEITE HIDRAULICO H-300"
+  },
+  {
+    "name": "ACEITE MOTOR A DIESEL 15W 40"
+  },
+  {
+    "name": "ACEITE MOTOR A GASOLINA 25 W 50"
+  },
+  {
+    "name": "ACEITE MOTOR A GASOLINA 2 TIEMPOS ROSHFRAND"
+  },
+  {
+    "name": "ACEITE MOTOR A GASOLINA 2 TIEMPOS STIHL"
+  },
+  {
+    "name": "ACEITE PARA MAQUINAS COSEDORAS"
+  },
+  {
+    "name": "ACEITE PARA TRANSMISION SAE 90 API GL-1"
+  },
+  {
+    "name": "ACEITE TRANSMISION ESTÁNDAR Y DIFERENCIAL SAE 250"
+  },
+  {
+    "name": "ACEITE TRANSMISION HIDRAULICA (KUBOTA)"
+  },
+  {
+    "name": "ACEITE TRANSMISION SAE 80W90 KUBOTA"
+  },
+  {
+    "name": "ADHESIVO EPOXICO PLASTIACERO"
+  },
+  {
+    "name": "AFLOJATODO"
+  },
+  {
+    "name": "AGUA DESTILADA"
+  },
+  {
+    "name": "ALAMBRE ACERADO CAL 14"
+  },
+  {
+    "name": "ALAMBRE CAL 10"
+  },
+  {
+    "name": "ALAMBRE DE PUAS"
+  },
+  {
+    "name": "ALAMBRE REQUEMADO"
+  },
+  {
+    "name": "ALAMBRE ZIG-ZAG"
+  },
+  {
+    "name": "ANGULO 1/4\" x 2\""
+  },
+  {
+    "name": "ANILLO PLASTICO"
+  },
+  {
+    "name": "ANTICONGELANTE ROSA"
+  },
+  {
+    "name": "ANTICONGELANTE VERDE"
+  },
+  {
+    "name": "ARRANCADOR DE MOTOR"
+  },
+  {
+    "name": "AVENA CHIHUAHUA"
+  },
+  {
+    "name": "AVENA SAIA"
+  },
+  {
+    "name": "BAFLE AMPLIFICADOR 15\" EQUIPADO"
+  },
+  {
+    "name": "BANDA AUTOMOTRIZ B48 GATES"
+  },
+  {
+    "name": "BANDA PARA MAQUINA COSEDORA"
+  },
+  {
+    "name": "BANDERA AMARILLA"
+  },
+  {
+    "name": "BANDERA AZUL"
+  },
+  {
+    "name": "BANDERA BLANCA"
+  },
+  {
+    "name": "BANDERA MORADA"
+  },
+  {
+    "name": "BANDERA NARANJA"
+  },
+  {
+    "name": "BANDERA ROSA"
+  },
+  {
+    "name": "BANDERA VERDE"
+  },
+  {
+    "name": "BATERIA AA"
+  },
+  {
+    "name": "BATERIA AAA"
+  },
+  {
+    "name": "BATERIA CUADRADA 9 V"
+  },
+  {
+    "name": "BATERIA 17 PLACAS"
+  },
+  {
+    "name": "BIRLO CON TUERCA DE 1/2\" X 2\""
+  },
+  {
+    "name": "BISAGRA TUBULAR 3/8\""
+  },
+  {
+    "name": "BOLSA LATIN BERRY"
+  },
+  {
+    "name": "BOLSA NEGRA 16 X 8 CM"
+  },
+  {
+    "name": "BOLSA REFRIGERANTE 12 OZ"
+  },
+  {
+    "name": "BOLSA ROLLO 50 X 70"
+  },
+  {
+    "name": "BOLSA ZIPLOC 10 X 10"
+  },
+  {
+    "name": "BOLSA ZIPLOC 13 X 15"
+  },
+  {
+    "name": "BOLSA ZIPLOC 5 X 8"
+  },
+  {
+    "name": "BOQUILLA FLEXIBLE PARA INYECTOR DE GRASA"
+  },
+  {
+    "name": "BOQUILLA PARA BOMBA MANUAL AZUL"
+  },
+  {
+    "name": "BOQUILLA PARA INYECTOR"
+  },
+  {
+    "name": "BOQUILLAS DE CERAMICA CON HUECO HC1"
+  },
+  {
+    "name": "BOTAS HULE # 25"
+  },
+  {
+    "name": "BOTAS HULE # 26"
+  },
+  {
+    "name": "BOTAS HULE # 27"
+  },
+  {
+    "name": "BOTAS HULE # 28"
+  },
+  {
+    "name": "BOTE PARA BASURA"
+  },
+  {
+    "name": "BOTELLA DESPACHADORA 500 ML"
+  },
+  {
+    "name": "BOTON DE CLAXON"
+  },
+  {
+    "name": "BOTON PARO DE EMERGENCIA"
+  },
+  {
+    "name": "BROCA PARA CONCRETO 1/4\""
+  },
+  {
+    "name": "BROCA PARA CONCRETO 5/16\""
+  },
+  {
+    "name": "BROCA DE CONCRETO 7/8\" X 6\""
+  },
+  {
+    "name": "BROCA PARA CONCRETO 3/8\" X 6\""
+  },
+  {
+    "name": "BROCA PARA METAL 1\" X 10\""
+  },
+  {
+    "name": "BROCA PARA METAL 1\" X 6\""
+  },
+  {
+    "name": "BROCA PARA METAL 1/2\" X 6\""
+  },
+  {
+    "name": "BROCA PARA METAL 5/8\" X 7\""
+  },
+  {
+    "name": "BUJE 28 MM X 2 MM (1/2\" X 7/8\")"
+  },
+  {
+    "name": "BUJIA NGK BPM64"
+  },
+  {
+    "name": "BUJIAS N14Y"
+  },
+  {
+    "name": "CABLE ACERO 3/32\""
+  },
+  {
+    "name": "CABLE DE 1 POLO CAL 12"
+  },
+  {
+    "name": "CABLE DE ACERO 3/16\""
+  },
+  {
+    "name": "CABLE USO RUDO 2 POLOS CAL 14"
+  },
+  {
+    "name": "CADENA 1/2\""
+  },
+  {
+    "name": "CADENA 1/4\""
+  },
+  {
+    "name": "CADENA P 40-1 10 FT"
+  },
+  {
+    "name": "CADENA PASO 2060 10 FT"
+  },
+  {
+    "name": "CADENA PASO 50 10 FT"
+  },
+  {
+    "name": "CADENA PASO 50 2R"
+  },
+  {
+    "name": "CADENA PASO 60 1R"
+  },
+  {
+    "name": "CADENA PASO 60 2R"
+  },
+  {
+    "name": "CADENA PASO 80 1R"
+  },
+  {
+    "name": "CADENA PASO-2060 50FT"
+  },
+  {
+    "name": "CAJA DE BOTON ENCENDIDO Y APAGADO"
+  },
+  {
+    "name": "CAMARA PARA CARRETILLA 4.008"
+  },
+  {
+    "name": "CANDADO 113"
+  },
+  {
+    "name": "CANDADO 114"
+  },
+  {
+    "name": "CANDADO 30-P"
+  },
+  {
+    "name": "CANDADO COMPLETO P- 40"
+  },
+  {
+    "name": "CANDADO COMPLETO P-100"
+  },
+  {
+    "name": "CANDADO COMPLETO P-2060"
+  },
+  {
+    "name": "CANDADO COMPLETO P-50"
+  },
+  {
+    "name": "CANDADO COMPLETO P-60"
+  },
+  {
+    "name": "CANDADO COMPLETO P-80"
+  },
+  {
+    "name": "CANDADO DE COMBINACION 40 MM"
+  },
+  {
+    "name": "CAPUCHA ANTIFLAMA"
+  },
+  {
+    "name": "CARBONES MAKITA CB 204"
+  },
+  {
+    "name": "CARBONES MAKITA CB-203"
+  },
+  {
+    "name": "CARDA 5/8\" - 11"
+  },
+  {
+    "name": "CARTUCHO DE GAS BUTANO"
+  },
+  {
+    "name": "CASCO DE SEGURIDAD"
+  },
+  {
+    "name": "CATARINA P60 BL 20"
+  },
+  {
+    "name": "CATARINA P50 X 1 1/2\" BL17"
+  },
+  {
+    "name": "CATARINA P50 X 1 1/4\" BL 16"
+  },
+  {
+    "name": "CATARINA P50 X 1/2\" BL 16"
+  },
+  {
+    "name": "CATARINA P60 X 1 1/2\" BL 16 ENDEREZADORA"
+  },
+  {
+    "name": "CATARINA P60 X 1 3/4\" BL 16"
+  },
+  {
+    "name": "CENTRO DE CARGA 50 A"
+  },
+  {
+    "name": "CHALECO AZUL"
+  },
+  {
+    "name": "CHALECO NARANJA"
+  },
+  {
+    "name": "CHALECO VINO"
+  },
+  {
+    "name": "CHAMARRA IMPERMEABLE"
+  },
+  {
+    "name": "CHAMARRAS TERMICAS TALLA M"
+  },
+  {
+    "name": "CHAROLA PARA DOCUMENTOS"
+  },
+  {
+    "name": "CHAROLAS 24 CAVIDADES REDONDA"
+  },
+  {
+    "name": "CHAROLAS DE 150 CAVIDADES"
+  },
+  {
+    "name": "CHAROLAS DE 45 CAVIDADES"
+  },
+  {
+    "name": "CHAVETAS PARA PERNO 1/4\""
+  },
+  {
+    "name": "CHAVETAS PARA PERNO 3/8\""
+  },
+  {
+    "name": "CHUMACERA COCOL FL205 1\""
+  },
+  {
+    "name": "CHUMACERA DE COCOL 1 1/4\""
+  },
+  {
+    "name": "CHUMACERA DE COCOL 1 3/4\""
+  },
+  {
+    "name": "CHUMACERA DE COCOL 1\""
+  },
+  {
+    "name": "CHUMACERA DE PARED 1 3/4\""
+  },
+  {
+    "name": "CHUMACERA DE PARED 1\""
+  },
+  {
+    "name": "CHUMACERA DE PARED 2\""
+  },
+  {
+    "name": "CHUMACERA PISO 1 3/4\""
+  },
+  {
+    "name": "CHUMACERA PARA CARRETILLA"
+  },
+  {
+    "name": "CHUMACERA PARED F211 2\""
+  },
+  {
+    "name": "CHUMACERA PISO 1 1/4\""
+  },
+  {
+    "name": "CINCHO PLASTICO 150 MM X 3.5 MM"
+  },
+  {
+    "name": "CINCHO PLASTICO 300 MM X 4.5 MM"
+  },
+  {
+    "name": "CINTA AISLAR DE VINILO"
+  },
+  {
+    "name": "CINTA MASKING TAPE 9\""
+  },
+  {
+    "name": "CINTA PARA ETIQUETADORA"
+  },
+  {
+    "name": "CINTA PARA MEDIR PH"
+  },
+  {
+    "name": "CINTA PRECAUCION AMARILLA"
+  },
+  {
+    "name": "CINTA REFLEJANTE"
+  },
+  {
+    "name": "CINTA TRANSPARENTE PARA EMPAQUE"
+  },
+  {
+    "name": "CLAVIJA 4 POLOS"
+  },
+  {
+    "name": "CLAVO PARA CONCRETO 1\""
+  },
+  {
+    "name": "CLAVO PARA CONCRETO 2\""
+  },
+  {
+    "name": "CLAVO PARA CONCRETO 3\""
+  },
+  {
+    "name": "CLAVO PARA MADERA 1 1/2\""
+  },
+  {
+    "name": "CLAVO PARA MADERA 1\""
+  },
+  {
+    "name": "CLAVO PARA MADERA 2\""
+  },
+  {
+    "name": "CLIP N° 1"
+  },
+  {
+    "name": "CLORO"
+  },
+  {
+    "name": "CODO PASA RED PARA ASPERSORA 3/4\""
+  },
+  {
+    "name": "COJINES PARA SELLOS"
+  },
+  {
+    "name": "CONEXIÓN ALUMINIO PARA MOTOBOMBA 3\""
+  },
+  {
+    "name": "CONEXIÓN HEMBRA PARA INVERSOR"
+  },
+  {
+    "name": "CONEXIÓN RAPIDA A-400"
+  },
+  {
+    "name": "CONEXIÓN RECTA ALFA 1\""
+  },
+  {
+    "name": "CONO DE COLADERA"
+  },
+  {
+    "name": "CONTACTOR 48V 50/60 HZ"
+  },
+  {
+    "name": "CONTACTO DOBLE 15 A 127 V"
+  },
+  {
+    "name": "CONTACTOR MAGNETICO VA-40FLA2P-24 24V 40A 2 POLOS"
+  },
+  {
+    "name": "CONTACTOR SALZER LCI-DI2 220V 50/60HZ"
+  },
+  {
+    "name": "TRANSFORMADOR POLYLUX 63VA/117VA"
+  },
+  {
+    "name": "COPLE CINTA X CINTA 5/8\""
+  },
+  {
+    "name": "COPLE DE MANDIBULA 1 1/2\" ML 110"
+  },
+  {
+    "name": "COPLE DE MANDIBULA 1 3/4\" ML150"
+  },
+  {
+    "name": "COPLE DE MANDIBULA 1\" ML110"
+  },
+  {
+    "name": "COPLE GALVANIZADO 4\""
+  },
+  {
+    "name": "COPLE L 150"
+  },
+  {
+    "name": "CORTINA PARA CUARTOS FRIOS"
+  },
+  {
+    "name": "CRUCETA 1763 KJ 30 x 106"
+  },
+  {
+    "name": "CRUCETA C5 30.2 x 80 CARDAN"
+  },
+  {
+    "name": "CRUCETA PARA TOMA DE FUERZA C-1"
+  },
+  {
+    "name": "CUCHILLA ROTOTILLER DERECHA"
+  },
+  {
+    "name": "CUCHILLA ROTOTILLER IZQUIERDA"
+  },
+  {
+    "name": "CUERPO L PARA ASPERSORA"
+  },
+  {
+    "name": "CUERPO Y PARA ASPERSORA"
+  },
+  {
+    "name": "CUÑA 1/4\" X 5\""
+  },
+  {
+    "name": "CUÑA DE MEDIA LUNA 1/4\""
+  },
+  {
+    "name": "CUÑAS DE 1/4\""
+  },
+  {
+    "name": "CUÑAS DE 3/8\" X 3\""
+  },
+  {
+    "name": "CUÑAS DE 3/8\" X 4\""
+  },
+  {
+    "name": "DADOS PARA INCRIPTADORA"
+  },
+  {
+    "name": "DESPACHADOR DE CINTA"
+  },
+  {
+    "name": "DESTORCEDOR DE MANGUERA 8.5 MM"
+  },
+  {
+    "name": "DISCO CORTE 14\""
+  },
+  {
+    "name": "DISCO CORTE 4 1/2\""
+  },
+  {
+    "name": "DISCO CORTE 7\""
+  },
+  {
+    "name": "DISCO DE DIAMANTE 7\""
+  },
+  {
+    "name": "DISCO DESBASTE 4 1/2\""
+  },
+  {
+    "name": "DISCO DESBASTE 7\""
+  },
+  {
+    "name": "DISCO LAMINADO 4 1/2\""
+  },
+  {
+    "name": "DISCO LAMINADO 7\""
+  },
+  {
+    "name": "DISCO PARA MADERA 7\""
+  },
+  {
+    "name": "ELECTROVALVULAS PGV 101-6 1\""
+  },
+  {
+    "name": "ELEMENTO L 150 SPIDER"
+  },
+  {
+    "name": "ENGRAPADORA MAPED"
+  },
+  {
+    "name": "ESCOBA DE MIJO"
+  },
+  {
+    "name": "ESPUMA SELLADORA AISLANTE"
+  },
+  {
+    "name": "ESQUINERO DE CARTON 2\" X 2\""
+  },
+  {
+    "name": "ESTACAS DE PLASTICO"
+  },
+  {
+    "name": "ESTAÑO"
+  },
+  {
+    "name": "ESTOPA"
+  },
+  {
+    "name": "ESTUCHE DE TERMINALES ELECTRICAS"
+  },
+  {
+    "name": "ETIQUETA ALBION"
+  },
+  {
+    "name": "ETIQUETA BG-10.3169"
+  },
+  {
+    "name": "ETIQUETA BG-10.3181"
+  },
+  {
+    "name": "ETIQUETA BG-12.3254"
+  },
+  {
+    "name": "ETIQUETA BG-12.3258"
+  },
+  {
+    "name": "ETIQUETA BG-4.352"
+  },
+  {
+    "name": "ETIQUETA BG-4.367"
+  },
+  {
+    "name": "ETIQUETA BG-9.3128"
+  },
+  {
+    "name": "ETIQUETA BG-9.3147"
+  },
+  {
+    "name": "ETIQUETA CABRILLO"
+  },
+  {
+    "name": "ETIQUETA CAMINO REAL"
+  },
+  {
+    "name": "ETIQUETA FRONTERAS"
+  },
+  {
+    "name": "ETIQUETA SAN ANDREAS"
+  },
+  {
+    "name": "ETIQUETA SB-13.164.030 BOUNTY"
+  },
+  {
+    "name": "ETIQUETA SB-13.164.042 DISCOVERY"
+  },
+  {
+    "name": "ETIQUETA SB-14.169.039 RESOLUTION"
+  },
+  {
+    "name": "ETIQUETA SB-15.001.011"
+  },
+  {
+    "name": "ETIQUETA SB-15.089.060"
+  },
+  {
+    "name": "FABULOSO"
+  },
+  {
+    "name": "FAROS"
+  },
+  {
+    "name": "FIBRAS"
+  },
+  {
+    "name": "FILTRO PARA MASCARILLA 3M"
+  },
+  {
+    "name": "FILTRO PARA MASCARILLA 3M 7093 CN"
+  },
+  {
+    "name": "FILTROS PARA MASCARILLA TRUPER"
+  },
+  {
+    "name": "FIRING'S #12"
+  },
+  {
+    "name": "FIRING'S #8"
+  },
+  {
+    "name": "FLECHA DE 1 1/4\" X 90 CM"
+  },
+  {
+    "name": "FLEJE 1/2\""
+  },
+  {
+    "name": "FOCO 85W"
+  },
+  {
+    "name": "FOLLETOS LATIN BERRY"
+  },
+  {
+    "name": "FRANELA"
+  },
+  {
+    "name": "FUNDENTE PARA SOLDADURA DE BRONCE"
+  },
+  {
+    "name": "FUSIBLE 30A 250V"
+  },
+  {
+    "name": "FUSIBLE 30A 600V"
+  },
+  {
+    "name": "FUSIBLE 4 AMP 500 V 120 KA"
+  },
+  {
+    "name": "GAFAS DE SEGURIDAD OBSCURO"
+  },
+  {
+    "name": "GALLETAS PARA COPLE DE AIRE"
+  },
+  {
+    "name": "GEL ANTIBACTERIAL"
+  },
+  {
+    "name": "GOMA PELICAN"
+  },
+  {
+    "name": "GORRAS LATIN BERRY"
+  },
+  {
+    "name": "GORRAS PLANT SCIENCES"
+  },
+  {
+    "name": "GRAN COVER ANTIMALEZA"
+  },
+  {
+    "name": "GRAPA PARA CABLE 6MM X 9.5 MM"
+  },
+  {
+    "name": "GRAPA PARA FLEJE"
+  },
+  {
+    "name": "GRAPAS 1/2\" TRUPER"
+  },
+  {
+    "name": "GRAPAS ESTANDAR PILOT"
+  },
+  {
+    "name": "GRASA LUBRICANTE CHASIS E-LITE"
+  },
+  {
+    "name": "GRASA MULTILITIO"
+  },
+  {
+    "name": "GRASA ROSHFRANS B.A.T.-3"
+  },
+  {
+    "name": "GRASERAS H-145 6.5 MM"
+  },
+  {
+    "name": "GRASERAS ML-AM10 10MM"
+  },
+  {
+    "name": "GRASERAS ML-AM6 6MM"
+  },
+  {
+    "name": "GRASERAS ML-AM8 8MM"
+  },
+  {
+    "name": "GRASERAS ML-BM8 8MM"
+  },
+  {
+    "name": "GRASERAS ML-CM10 10MM"
+  },
+  {
+    "name": "GUANTE CARNAZA AZUL"
+  },
+  {
+    "name": "GUANTE CARNAZA CAFÉ"
+  },
+  {
+    "name": "GUANTE HULE ROJO #7"
+  },
+  {
+    "name": "GUANTE HULE ROJO #8"
+  },
+  {
+    "name": "GUANTE HULE ROJO #9"
+  },
+  {
+    "name": "GUANTE INDUSTRIAL NEGRO"
+  },
+  {
+    "name": "GUANTE LATEX CH"
+  },
+  {
+    "name": "GUANTE LATEX M"
+  },
+  {
+    "name": "GUANTE LICRA CH"
+  },
+  {
+    "name": "GUANTE NITRILO AZUL CH"
+  },
+  {
+    "name": "GUANTE NITRILO AZUL X-CH"
+  },
+  {
+    "name": "GUANTE NITRILO M"
+  },
+  {
+    "name": "HILO BLANCO"
+  },
+  {
+    "name": "HOJA DE PAPEL TAMAÑO CARTA"
+  },
+  {
+    "name": "HOJA DE TRIPLAY 12 MM"
+  },
+  {
+    "name": "HOJA OPALINA"
+  },
+  {
+    "name": "IMPERMEABLE AMARILLO CH"
+  },
+  {
+    "name": "IMPERMEABLE AMARILLO L"
+  },
+  {
+    "name": "IMPERMEABLE AMARILLO M"
+  },
+  {
+    "name": "IMPERMEABLE AMARILLO XL"
+  },
+  {
+    "name": "INSULATED FOAM CONTAINER  S-18312   8 x 6 x 4 1/4\" "
+  },
+  {
+    "name": "INSULATED FOAM CONTAINER  S-22567   9 1/4 x 9 ¼ x 7\""
+  },
+  {
+    "name": "INTERRUPTOR TERMOMAGNETICO 10 KA 120/240 V"
+  },
+  {
+    "name": "JABON POLVO"
+  },
+  {
+    "name": "JALADOR DE AGUA"
+  },
+  {
+    "name": "KIT PROTECTOR FACIAL JYRSA CLARO"
+  },
+  {
+    "name": "KIT TINTA EPSON T664 MOD L575"
+  },
+  {
+    "name": "LAMPARA LED 12 W"
+  },
+  {
+    "name": "LAMPARA LED 8\" 18 W"
+  },
+  {
+    "name": "LAPICERO AZUL"
+  },
+  {
+    "name": "LAPICERO NEGRO"
+  },
+  {
+    "name": "LAZO CAL 8 MM"
+  },
+  {
+    "name": "LIBRETA PROFESIONAL 100 H"
+  },
+  {
+    "name": "LIGA"
+  },
+  {
+    "name": "LIJA #120"
+  },
+  {
+    "name": "LIJA #180"
+  },
+  {
+    "name": "LIJA #220"
+  },
+  {
+    "name": "LIJA #80"
+  },
+  {
+    "name": "LIMP MET IN MCU 1.250-1.750-0.312"
+  },
+  {
+    "name": "LIMPIADOR IN D 1.125-1.500.0.187"
+  },
+  {
+    "name": "LIMPIADOR IN D 1.125-1.500-0.187"
+  },
+  {
+    "name": "LIMPIADOR IN D 1.250-1.625-0.187"
+  },
+  {
+    "name": "LIMPIADOR MET IN MCU 1.000-1.500.0.187"
+  },
+  {
+    "name": "LIMPIADOR MET IN MCU 1.000-1.500-0.312"
+  },
+  {
+    "name": "LIMPIADOR MET IN MCU 1.125-1.625-0.250"
+  },
+  {
+    "name": "LIQUIDO PARA FRENOS"
+  },
+  {
+    "name": "LLAVE DE ARTILLERIA DE 1 1/2\" X 13/16\""
+  },
+  {
+    "name": "LLAVE PARA GARRAFON 1/2\""
+  },
+  {
+    "name": "LUBRICANTE LIMPIADOR DIELECTRICO"
+  },
+  {
+    "name": "LUMINARIA CON LAMPARA 45 W"
+  },
+  {
+    "name": "MACHUELO SEMICONICO 3/8\" - 16 CUERDA GRUESA"
+  },
+  {
+    "name": "MACHUELO SEMICONICO 5/16\" -18 CUERDA GRUESA"
+  },
+  {
+    "name": "MALLA CICLONICA"
+  },
+  {
+    "name": "MALLA MONOFILAMENTO 35 % SOMBRA"
+  },
+  {
+    "name": "MANGAS DE CARNAZA"
+  },
+  {
+    "name": "MANGUERA KARCHER 1 1/4\""
+  },
+  {
+    "name": "MANGUERA 13 MM X 305 MTS WADERAIN"
+  },
+  {
+    "name": "MANGUERA PARA ASPERSORA 1/2\""
+  },
+  {
+    "name": "MARCADOR ESTERBROOK NEGRO"
+  },
+  {
+    "name": "MARCATEXTO"
+  },
+  {
+    "name": "MASCARILLA DE MEDIA CARA TRUPER"
+  },
+  {
+    "name": "MAXI FUSIBLE 90 A"
+  },
+  {
+    "name": "MAXI FUSIBLE UNIVERSAL 100A"
+  },
+  {
+    "name": "MEDIDOR 100 ML"
+  },
+  {
+    "name": "MEDIDOR DE CE DIRECTO EN SUELO GROLINE"
+  },
+  {
+    "name": "MEDIO CANDADO P- 40"
+  },
+  {
+    "name": "MEDIO CANDADO P- 50"
+  },
+  {
+    "name": "MEDIO CANDADO P-120"
+  },
+  {
+    "name": "MEDIO CANDADO P-2060"
+  },
+  {
+    "name": "MEDIO CANDADO P-60"
+  },
+  {
+    "name": "MEDIO CANDADO P-80"
+  },
+  {
+    "name": "MEMORIA USB KINSGTON 64 GB"
+  },
+  {
+    "name": "MESA PLEGABLE 1.2 MTS X 75 CM X 61 CM"
+  },
+  {
+    "name": "MICA JYRSA CLARA PARA PROTECTOR"
+  },
+  {
+    "name": "MINI VALVULVULA LAY FLAT X CINTILLA"
+  },
+  {
+    "name": "MULTICONTACTO"
+  },
+  {
+    "name": "NAVAJA DE REPUESTO 18 MM"
+  },
+  {
+    "name": "NAVAJA TRIANGULAR DIENTE GRUESO"
+  },
+  {
+    "name": "NUDO PARA CABLE 1/4\" (PERROS)"
+  },
+  {
+    "name": "NUDO PARA CABLE 1/8\" (PERROS)"
+  },
+  {
+    "name": "NUDO PARA CABLE 3/16\"(PERROS)"
+  },
+  {
+    "name": "NUDO PARA CABLE 5/16\" (PERROS)"
+  },
+  {
+    "name": "OAKTON SOLISION PH 7.00"
+  },
+  {
+    "name": "OBEROL ANTIFLAMA T 36"
+  },
+  {
+    "name": "OBEROL ANTIFLAMA T 38"
+  },
+  {
+    "name": "OVEROL ANTIFLAMA T 42"
+  },
+  {
+    "name": "OBEROL ANTIFLAMA T EG"
+  },
+  {
+    "name": "OVEROL TERMICO TALLA M"
+  },
+  {
+    "name": "OVEROL DESECHABLE BLANCO TALLA L"
+  },
+  {
+    "name": "OVEROL DESECHABLE BLANCO TALLA XL"
+  },
+  {
+    "name": "ORGANIZADOR OFFICE DEPOT"
+  },
+  {
+    "name": "ORING FKM75 IN 0.750-1.000-0.125"
+  },
+  {
+    "name": "ORING FKM75 IN 1.062-1.312-0.125"
+  },
+  {
+    "name": "ORING FKM75 IN 1.625-2.000-0.187"
+  },
+  {
+    "name": "ORING FKM75 IN 1.750-2.000-0.125"
+  },
+  {
+    "name": "ORING FKM75 IN 2.125-2.500-0.187"
+  },
+  {
+    "name": "ORING NBR70 IN 0.750-0.937-0.093"
+  },
+  {
+    "name": "ORING NBR70 IN 1.125-1.250-0.062"
+  },
+  {
+    "name": "ORING NBR70 IN 2.125-2.250-0.187"
+  },
+  {
+    "name": "ORING NBR70 IN 2.125-2.500-0.187"
+  },
+  {
+    "name": "ORING NBR70 IN 2.250-2.500-0.125"
+  },
+  {
+    "name": "ORING NBR70 IN 2.750-3.000-0.125"
+  },
+  {
+    "name": "OVEROL TERMICO TALLA XL"
+  },
+  {
+    "name": "PALITO DE MADERA"
+  },
+  {
+    "name": "PAPEL HIGIENICO"
+  },
+  {
+    "name": "PEGAMENTO PVC"
+  },
+  {
+    "name": "PERNOS"
+  },
+  {
+    "name": "PIJA CABEZA HEXAGONAL 1/4\"X1\""
+  },
+  {
+    "name": "PIJA CABEZA HEXAGONAL 3/8\"X 2\""
+  },
+  {
+    "name": "PIJA CABEZA HEXAGONAL 3/8\"X1 1/2\""
+  },
+  {
+    "name": "PIJA PARA TABLAROCA 1 1/2\""
+  },
+  {
+    "name": "PIJA PARA TABLAROCA 1\""
+  },
+  {
+    "name": "PIJA PARA MADERA 3/4\""
+  },
+  {
+    "name": "PIJA PUNTA DE BROCA 1/4\" X 1/2\""
+  },
+  {
+    "name": "PIJA PUNTA DE BROCA 3/8\" X 1\""
+  },
+  {
+    "name": "PINTURA DE ACEITE COLOR NEGRO"
+  },
+  {
+    "name": "PINTURA EN AEROSOL BLANCO"
+  },
+  {
+    "name": "PINTURA VINILICA AMARILLA"
+  },
+  {
+    "name": "PINTURA VINILICA BLANCA"
+  },
+  {
+    "name": "PINZAS DE DISECCION"
+  },
+  {
+    "name": "PIOLA (CUERDA DE ARRANQUE)"
+  },
+  {
+    "name": "GOTERO DE FLECHA CURVA"
+  },
+  {
+    "name": "PLACA 2 MODULOS PARA INTEMPERIE"
+  },
+  {
+    "name": "PLASTICO AMARILLO 1.20 X 500 MT"
+  },
+  {
+    "name": "PLASTICO AZUL 1.20 X 500 MT"
+  },
+  {
+    "name": "PLASTICO PARA MICROTUNEL"
+  },
+  {
+    "name": "PLAYERA LANTIN BERRY (M)"
+  },
+  {
+    "name": "PLAYERA LATIN BERRY (L)"
+  },
+  {
+    "name": "PLAYERA LATIN BERRY (XS)"
+  },
+  {
+    "name": "POLIESTRECH"
+  },
+  {
+    "name": "POLYSEAL B 1.125-1.3750-0.250"
+  },
+  {
+    "name": "POLYSEAL B 1.125-1.500-0.312"
+  },
+  {
+    "name": "POLYSEAL B 1.250-1.625-0.312"
+  },
+  {
+    "name": "POLYSEAL STD DE 1.125-1.375-0.125"
+  },
+  {
+    "name": "PONCHOS"
+  },
+  {
+    "name": "PORTA MAXIFUSIBLES"
+  },
+  {
+    "name": "POSTE ARCA CON 2 REFLEJANTE CON BASE NEGRA"
+  },
+  {
+    "name": "POSTIT 3X3"
+  },
+  {
+    "name": "PRECINTO BOLT ROJO (SELLO DE SEGURIDAD)"
+  },
+  {
+    "name": "PRIMER GRIS"
+  },
+  {
+    "name": "PRISIONERO ALLEN 3/8\" X 1\""
+  },
+  {
+    "name": "PRISIONERO ALLEN 5/16 X 1/2\""
+  },
+  {
+    "name": "PROTECTOR DE CARETA"
+  },
+  {
+    "name": "PROTECTORES DE HOJA"
+  },
+  {
+    "name": "PTR 4\" X 4\" CAL 9"
+  },
+  {
+    "name": "PUNTA DE SUBSUELO"
+  },
+  {
+    "name": "RAFIA"
+  },
+  {
+    "name": "RECIPIENTE PARA MUESTRA DE TIERRA"
+  },
+  {
+    "name": "RECOPILADOR TAMAÑO CARTA LEFORT"
+  },
+  {
+    "name": "REGATON CUADRADO 1\""
+  },
+  {
+    "name": "REGULADOR DE CORRIENTE"
+  },
+  {
+    "name": "RELE DE SOBRECARGA TERMAL MT03M"
+  },
+  {
+    "name": "REMACHES 1/4\""
+  },
+  {
+    "name": "REMACHES 3/16\" X 3/8\""
+  },
+  {
+    "name": "REPUESTO DE NAVAJA DE BISTURI"
+  },
+  {
+    "name": "REPUESTO PARA EMPAQUE FC-K"
+  },
+  {
+    "name": "LISTON REPUESTO PARA FUSIBLE 30A 250 V"
+  },
+  {
+    "name": "RESISTENCIA PARA AGUA"
+  },
+  {
+    "name": "RESORTE PARA TUNELADORA"
+  },
+  {
+    "name": "RESPALDO NBR90 IN 1.062-1.250-0.093"
+  },
+  {
+    "name": "RESPALDO NBR90 IN 1.625-2.000-0.187"
+  },
+  {
+    "name": "RESPALDO NBR90 IN 1.750-2.000-0.125"
+  },
+  {
+    "name": "RESPALDO NBR90 IN 2.125-2.375-0.125"
+  },
+  {
+    "name": "RESPALDO NBR90 IN 2.125-2.500-0.187"
+  },
+  {
+    "name": "RESPALDO NBR90 IN 2.750-3.000-0.125"
+  },
+  {
+    "name": "RETEN TC 487510"
+  },
+  {
+    "name": "RETEN 18891"
+  },
+  {
+    "name": "RETEN TC 4060103"
+  },
+  {
+    "name": "RETEN 5778"
+  },
+  {
+    "name": "RETEN AK36652"
+  },
+  {
+    "name": "RETEN TC 426510"
+  },
+  {
+    "name": "RETEN TC 407010"
+  },
+  {
+    "name": "RETEN TC 506810"
+  },
+  {
+    "name": "RETEN VAPORMATIC VPJ 2808"
+  },
+  {
+    "name": "RETENES 356010"
+  },
+  {
+    "name": "RIBBON"
+  },
+  {
+    "name": "RODILLERAS"
+  },
+  {
+    "name": "RODILLO PARA PINTAR 4\""
+  },
+  {
+    "name": "RODILLO PARA PINTAR 9\""
+  },
+  {
+    "name": "RODILLO PLATO CHICO"
+  },
+  {
+    "name": "RODILLO PLATO GRANDE"
+  },
+  {
+    "name": "ROLLO LAY FLAT 6\" 100 MTR"
+  },
+  {
+    "name": "ROLLO PAPEL PARA SUMADORA"
+  },
+  {
+    "name": "RONDANA PLANA 1/4\""
+  },
+  {
+    "name": "RONDANA DE PRESION 1/2\""
+  },
+  {
+    "name": "RONDANA PLANA 1 1/2\""
+  },
+  {
+    "name": "RONDANA PLANA 1\""
+  },
+  {
+    "name": "RONDANA PLANA 3/4\""
+  },
+  {
+    "name": "RUEDA ABRASIVA 8\""
+  },
+  {
+    "name": "SANITAS"
+  },
+  {
+    "name": "SEGUETA"
+  },
+  {
+    "name": "SELLADOR ALTA TEMPERATURA"
+  },
+  {
+    "name": "SELLADOR DE POLIURETANO (DURETAN)"
+  },
+  {
+    "name": "SELLADOR LOCTITE"
+  },
+  {
+    "name": "SELLO DE PISTON IN 3.000-2.440-0-272"
+  },
+  {
+    "name": "SENSOR DE HOJA PARA ESTACION METEOROLOGICA"
+  },
+  {
+    "name": "SILLA PLEGABLE DE ACERO ACOGINADA"
+  },
+  {
+    "name": "SIRENAS"
+  },
+  {
+    "name": "SOBRE MANILA TAMAÑO CARTA"
+  },
+  {
+    "name": "SOLDADURA 60/13 1/8\""
+  },
+  {
+    "name": "SOLDADURA 70/18 1/8\""
+  },
+  {
+    "name": "SOLDADURA 70/18 3/16\""
+  },
+  {
+    "name": "SOLDADURA DE ALUMINIO"
+  },
+  {
+    "name": "SOLDADURA DE BRONCE"
+  },
+  {
+    "name": "SOLDADURA DE COBRE"
+  },
+  {
+    "name": "SOLDADURA DURMATIC RECUBRIMIENTO"
+  },
+  {
+    "name": "SOLDADURA FIERRO COLADO 6013 1/8\""
+  },
+  {
+    "name": "SUJETADOR DE DOCUMENTOS 19 MM"
+  },
+  {
+    "name": "SUJETADOR DE DOCUMENTOS 19 MM COLOR"
+  },
+  {
+    "name": "SUJETADOR DE DOCUMENTOS 25 MM"
+  },
+  {
+    "name": "SUJETADOR DE DOCUMENTOS 32 MM"
+  },
+  {
+    "name": "SUJETADOR DE DOCUMENTOS 51 MM"
+  },
+  {
+    "name": "PIJA AUTOTALADRANTE 3/8\" X 1\""
+  },
+  {
+    "name": "PIJA AUTOTALADRANTE 1/4\" X 3/4\""
+  },
+  {
+    "name": "TAPA PARA BOQUILLA AMARILLA (ASPERSORA)"
+  },
+  {
+    "name": "TAPAS PARA BOQUILLA AZUL REDONDA"
+  },
+  {
+    "name": "TAPAS PARA TOPPER DE RAIZ"
+  },
+  {
+    "name": "TAPON FINAL DE RIEGO 2\""
+  },
+  {
+    "name": "TAPON GALVANIZADO 3\""
+  },
+  {
+    "name": "TAPONES AURICULARES"
+  },
+  {
+    "name": "TAQUETE PLASTICO 9.5 MM 3/8\""
+  },
+  {
+    "name": "TAQUETE PLASTICO AZUL 3/8\""
+  },
+  {
+    "name": "TAQUETE EXPANSIVO 5/16\""
+  },
+  {
+    "name": "TAQUETE PLASTICO ROJO 1/4\""
+  },
+  {
+    "name": "TARIMAS TACON CHICO"
+  },
+  {
+    "name": "TEFLON 3/4\""
+  },
+  {
+    "name": "TERMINAL DE ALUMINIO PARA TIERRA 1\""
+  },
+  {
+    "name": "TERMINAL DE DIRECCION (22 MM)(1\")"
+  },
+  {
+    "name": "TERMINALES PARA BATERIA"
+  },
+  {
+    "name": "JUNTA PARA TERMOSTATO JOHN DEERE"
+  },
+  {
+    "name": "THINER"
+  },
+  {
+    "name": "TINTURA DE YODO 40 ML"
+  },
+  {
+    "name": "TIVE SOLO 2G1112207 (TERMOGRAFO)"
+  },
+  {
+    "name": "TIVE SOLO 5G41112207 (TERMOGRAFO)"
+  },
+  {
+    "name": "TOLDE DE 3 X 3 MTS ARMADO RAPIDO"
+  },
+  {
+    "name": "TOMA DE FUERZA DE DESBARADORA"
+  },
+  {
+    "name": "TOMA DE FUERZA DE MEZCLADORA"
+  },
+  {
+    "name": "TOMA DE FUERZA FOBRO 2000"
+  },
+  {
+    "name": "TOMA DE FUERZA ROTOTILLER (CINTILLA)"
+  },
+  {
+    "name": "TOMA DE FUERZA ROTOTILLER (SENCILLO)"
+  },
+  {
+    "name": "TONER P/IMPRESORA 10 5A"
+  },
+  {
+    "name": "TOPE ZONA DE CARGA"
+  },
+  {
+    "name": "TOPPER DE RAIZ BUENA"
+  },
+  {
+    "name": "TORNILLO CABEZA HEXAGONAL 1/4\" X 2\""
+  },
+  {
+    "name": "TORNILLO 10 MM COMPLETO"
+  },
+  {
+    "name": "TORNILLO 3/4\" X 4\""
+  },
+  {
+    "name": "TORNILLO 3/4\" X 7\""
+  },
+  {
+    "name": "TORNILLO CABEZA HEXAGONAL 3/8 X 2\""
+  },
+  {
+    "name": "TORNILLO CABEZA HEXAGONAL 5/16 X 1\""
+  },
+  {
+    "name": "TORNILLO CABEZA HEXAGONAL 5/16 X 1/2\""
+  },
+  {
+    "name": "TORNILLO CABEZA HEXAGONAL 5/16 X 2 1/2\""
+  },
+  {
+    "name": "TORNILLO CABEZA HEXAGONAL 5/16\" X 3\""
+  },
+  {
+    "name": "TORNILLO CABEZA HEXAGONAL 5/16 X 5\""
+  },
+  {
+    "name": "TORNILLO 5/8\" X 1\""
+  },
+  {
+    "name": "TORNILLO CABEZA HEXAGONAL 7/16\" X 3\""
+  },
+  {
+    "name": "TORNILLO CABEZA HEXAGONAL 5/16\" X 2\""
+  },
+  {
+    "name": "TORNILLO ALLEN 5/16\" X 1 1/2\""
+  },
+  {
+    "name": "TORNILLO CABEZA DE COCHE 3/8 X 2 1/2\""
+  },
+  {
+    "name": "TORNILLO CABEZA DE COCHE 3/8\" X 1\""
+  },
+  {
+    "name": "TORNILLO CABEZA DE COCHE 3/8\" X 2\""
+  },
+  {
+    "name": "TORNILLO CABEZA HEXAGONAL 3/4\" X 2\""
+  },
+  {
+    "name": "TORNILLO CABEZA HEXAGONAL 1\" X 2 1/2\""
+  },
+  {
+    "name": "TORNILLO CABEZA HEXAGONAL 3/8 X 3\""
+  },
+  {
+    "name": "TORNILLO PARA ARADO DE 1/2\" X 1 1/2\""
+  },
+  {
+    "name": "TORNILLO PARA ARADO DE 1/2\" X 1\""
+  },
+  {
+    "name": "TORNILLO PARA ROTOTILLER AGRICOLA 1/2\" X 1/2\""
+  },
+  {
+    "name": "TRAMPA PARA RATON"
+  },
+  {
+    "name": "TUERCA 1/4\""
+  },
+  {
+    "name": "TUERCA HEXAGONAL 3/4\""
+  },
+  {
+    "name": "TUERCA CORONA 1\""
+  },
+  {
+    "name": "TUERCA DE SEGURIDAD 1/4\""
+  },
+  {
+    "name": "TUERCA DE SEGURIDAD 3/4\""
+  },
+  {
+    "name": "TUERCA DE SEGURIDAD 5/16\""
+  },
+  {
+    "name": "TUERCA HEXAGONAL 1/4\""
+  },
+  {
+    "name": "TUERCA PARA BIRLO 1/2\""
+  },
+  {
+    "name": "TUERCA PARA ROTOTILLER AGRICOLA"
+  },
+  {
+    "name": "VALVULA DE CONTROL HIDRAULICA"
+  },
+  {
+    "name": "VALVULA PVC GRIS 1 1/2\""
+  },
+  {
+    "name": "VALVULA PVC GRIS 1\""
+  },
+  {
+    "name": "VIDRIO PARA CARETA OBSCURO"
+  },
+  {
+    "name": "VIDRIO PARA CARETA TRANSPARENTE"
+  },
+  {
+    "name": "VIOLETA DE GENCIANA 40 ML"
+  },
+  {
+    "name": "YODO"
+  },
+  {
+    "name": "YUGO PARA TOMA DE FUERZA"
+  },
+  {
+    "name": "CODO 8 MJ 8J X 90"
+  },
+  {
+    "name": "NIPLE 10-8"
+  },
+  {
+    "name": "CODOS 12-8"
+  },
+  {
+    "name": "COPLE 8-10"
+  },
+  {
+    "name": "BOQUILLA 0-8"
+  },
+  {
+    "name": "NIPLE 12-10"
+  },
+  {
+    "name": "CONECTOR MECANICO BURNDY QR 26"
+  },
+  {
+    "name": "CINTA VULCANIZADA E-8000"
+  },
+  {
+    "name": "CABLE CAL 2/0"
+  },
+  {
+    "name": "PLUMA LIMPIA PARABRISA"
+  },
+  {
+    "name": "PERFIL SUJETADOR BISELADO 6 MTS"
+  },
+  {
+    "name": "PINTURA DE ACEITE BLANCA"
+  },
+  {
+    "name": "PINTURA EN AEROSOL ROJA"
+  },
+  {
+    "name": "EXTENSION DE RODILLO PARA PINTAR"
+  },
+  {
+    "name": "BATERIA PARA TALADRO"
+  },
+  {
+    "name": "ATOMIZADOR PLASTICO 500 ML"
+  },
+  {
+    "name": "BARRA CROMADA ENDURECIDA 1 1/4\""
+  },
+  {
+    "name": "MOUSE INALAMBRICO"
+  },
+  {
+    "name": "MONITOR 27 \""
+  },
+  {
+    "name": "MONITOR 23.8\""
+  },
+  {
+    "name": "TORNILLO 9/16\" X 3\""
+  },
+  {
+    "name": "TORNILLO CABEZA HEXAGONAL 1/4\" X 3 1/2\""
+  },
+  {
+    "name": "CABLE DUPLEX CAL 12"
+  },
+  {
+    "name": "CLAVIJA POLARIZADA"
+  },
+  {
+    "name": "TUERCA 3/8\""
+  },
+  {
+    "name": "BOLSA ZIPLOC 12\" X 15\""
+  },
+  {
+    "name": "TORNILLO CABEZA HEXAGONAL 1\" X 6\""
+  },
+  {
+    "name": "TORNILLO CABEZA HEXAGONAL 1/2\" X 3\""
+  },
+  {
+    "name": "BOTAS HULE # 11 AMERICANO (9)"
+  },
+  {
+    "name": "BOTAS HULE # 29"
+  },
+  {
+    "name": "GUANTE LICRA M"
+  },
+  {
+    "name": "TUBO PVC SANITARIO 8\""
+  },
+  {
+    "name": "CODO PVC SANITARIO 45° 8\""
+  },
+  {
+    "name": "CADENA PULIDA 1/4\""
+  },
+  {
+    "name": "TORNILLO ALLEN 1/4\" X 3/4\""
+  },
+  {
+    "name": "CHAPA PHILLIPS DERECHA MOD 715"
+  },
+  {
+    "name": "SONOTUBOS DIAMETRO 20 CM"
+  },
+  {
+    "name": "MANOMETRO PARA TANQUE DE OXIGENO"
+  },
+  {
+    "name": "BIRLO 74 MM X 17 MM 16 HILOS ESTANDAR"
+  },
+  {
+    "name": "TUERCA RUEDA TRASERA MF 390/39"
+  },
+  {
+    "name": "DISCO PLANO BELLOTA 17\""
+  },
+  {
+    "name": "MAZA CHICA DISCO PLANO"
+  },
+  {
+    "name": "TORNILLO GALVANIZADO 3/16\" X 1/2\""
+  },
+  {
+    "name": "ARANDELA GALVANIZADA DE PRESION 3/16\""
+  },
+  {
+    "name": "TORNILLO MAQUINADO GALVANIZADO CUERDA CORRIDA 5/16\" X 1\""
+  },
+  {
+    "name": "ARANDELA GALVANIZADA 5/16\""
+  },
+  {
+    "name": "TUERCA HEXAGONAL LIVIANA"
+  },
+  {
+    "name": "TAPA DE MAZA"
+  },
+  {
+    "name": "TORNILLO 3/4\" X 2\""
+  },
+  {
+    "name": "VALVULA CHECK 2\""
+  },
+  {
+    "name": "LAPIZ HB 2 MAPED"
+  },
+  {
+    "name": "TABLA PARA SUJETAR DOCUMENTOS"
+  },
+  {
+    "name": "PERFORADORA DE 3 ORIFICIOS"
+  },
+  {
+    "name": "REGLA DE ALUMINIO 30CM"
+  },
+  {
+    "name": "LASER RECARGABLE VERDE"
+  },
+  {
+    "name": "SILBATO DE EMERGENCIA"
+  },
+  {
+    "name": "TORRETA DE SEGURIDAD AMBAR CON IMAN"
+  },
+  {
+    "name": "TIJERAS PARA OFICINA"
+  },
+  {
+    "name": "LAMPARA LED 200 WATS"
+  },
+  {
+    "name": "GUANTE ANTICORTE MEDIANO"
+  },
+  {
+    "name": "GUANTE ANTICORTE GRANDE"
+  },
+  {
+    "name": "GUANTE ANTICORTE CHICO"
+  },
+  {
+    "name": "MICAS PARA ENMICAR GRADO 10000"
+  },
+  {
+    "name": "CABLE USO RUDO 4 X 12"
+  },
+  {
+    "name": "REFLECTOR 300 WATTS 2171"
+  },
+  {
+    "name": "REFLECTOR 200 WATTS 2170"
+  },
+  {
+    "name": "PASTILLA MONOFASICA 30 AMPERES"
+  },
+  {
+    "name": "CENTRO DE CARGA QOD 2 POLOS SCHNEIDER ELECTRIC"
+  },
+  {
+    "name": "PIJA PUNTA BROCA 3/8\" X 1 1/2\""
+  },
+  {
+    "name": "TUBO PLUS 3/4\""
+  },
+  {
+    "name": "COPLE PLUS 3/4\""
+  },
+  {
+    "name": "LLAVE NARIZ GALVANIZADA"
+  },
+  {
+    "name": "COPLE HEMBRA DE ACERO 1/2\""
+  },
+  {
+    "name": "BANDA GATES B 5904"
+  },
+  {
+    "name": "SILLA EJECUTIVA FIO5121R"
+  },
+  {
+    "name": "BANDA GATES B 62"
+  },
+  {
+    "name": "ESCRITORIO EJECUTIVO WONDERFUL"
+  },
+  {
+    "name": "TUERCA QUICK DOBLE SALIDA 45°"
+  },
+  {
+    "name": "VALVULA ASP Y DES APS 101,121,141,1"
+  },
+  {
+    "name": "MEMBRANA DESMOPAN APS Y IDS"
+  },
+  {
+    "name": "MEMBRANA ACUMULADOR BP,APS,IDS"
+  },
+  {
+    "name": "ORING TAPA VALVULAS APS 101/166"
+  },
+  {
+    "name": "CABLE USO RUDO 3 X 12"
+  },
+  {
+    "name": "CLAVIJA VOLTECK 127 V 60 HZ 15 A"
+  },
+  {
+    "name": "CONTACTOR DE POTENCIA 12 A"
+  },
+  {
+    "name": "ARPILLA ROJA 37 X66"
+  },
+  {
+    "name": "EXTERMINADOR DE INSECTOS SANELEC 8 WATTS"
+  },
+  {
+    "name": "PROTECTOR PARA SOL MSA"
+  },
+  {
+    "name": "FOCO 12 VOLTS"
+  },
+  {
+    "name": "BANDA AUTOMOTRIZ A53"
+  },
+  {
+    "name": "EJE TRANSVERSAL COMPLETO PARA TRANSMISION DE MOVIMIENTO"
+  },
+  {
+    "name": "RIN PARA CARRETILLA"
+  },
+  {
+    "name": "CARTUCHO DE AIRE COMPRIMIDO PARA LIMPieza"
+  },
+  {
+    "name": "CADENA DE ESLABON PULIDA GRADO 80 5/8# ALTA RESISTENCIA"
+  },
+  {
+    "name": "TORNILLO MAQUINADO GALVANIZADO 1\" X 6\" CON TUERCA Y RONDANA"
+  },
+  {
+    "name": "CENTRO DE CARGA SQUARE 2 V"
+  },
+  {
+    "name": "PASTILLA SQUARE 30 AMP"
+  },
+  {
+    "name": "REFLECTOR 100 WATTS"
+  },
+  {
+    "name": "CHUMACERA DE COCOL 1 1/2\""
+  },
+  {
+    "name": "BORRADOR PARA PIZARRON BLANCO"
+  },
+  {
+    "name": "QUITA GRAPAS"
+  },
+  {
+    "name": "DEDAL HULE"
+  },
+  {
+    "name": "LIGA AGUILA MULTIUSO"
+  },
+  {
+    "name": "REGULADOR PARA TANQUE DE ACETILENO"
+  },
+  {
+    "name": "REGULADOR PARA TANQUE DE OXIGENO"
+  },
+  {
+    "name": "COLADERA PARA MANGUERA DE SUCCION"
+  },
+  {
+    "name": "BOQUILLA PARA ASPERSORA AGRICOLA AZUL"
+  },
+  {
+    "name": "TUERCA E AGUA 1DS 1000, 1400"
+  },
+  {
+    "name": "MANOMETRO INDICADOR DE PRESION ASPERSORA"
+  },
+  {
+    "name": "MANOMETRO PARA COMPRESOR DE AIRE 200 PSI 1/4\""
+  },
+  {
+    "name": "BROCHA 3\""
+  },
+  {
+    "name": "ACEITE MOTOR A DIESEL SAE 15 W 40 KUBOTA"
+  },
+  {
+    "name": "TORNILLO CABEZA HEXAGONAL 5/8\" X 2\""
+  },
+  {
+    "name": "TORNILLO CABEZA HEXAGONAL 3/4\" X4\""
+  },
+  {
+    "name": "TORNILLO CABEZA HEXAGONAL 5/16 X 4\""
+  },
+  {
+    "name": "TORNILLO ALLEN 3/8\" X 3 1/2\""
+  },
+  {
+    "name": "TORNILLO CABEZA PLANA 1\""
+  },
+  {
+    "name": "TORNILLO ALLEN CILINDRICO 5/16\" X 1\""
+  },
+  {
+    "name": "PRISIONERO ALLEN 1/4\" X 3/4\""
+  },
+  {
+    "name": "TUERCA DE SEGURIDAD 3/8\""
+  },
+  {
+    "name": "TORNILLO CABEZA HEXAGONAL 1/2\" X 1 1/2\""
+  },
+  {
+    "name": "TORNILLO CABEZA HEXAGONAL 5/8\" X2\""
+  },
+  {
+    "name": "TUERCA HEXAGONAL 1\""
+  },
+  {
+    "name": "TUERCA HEXAGONAL 1/2\""
+  },
+  {
+    "name": "TORNILLO CABEZA HEXAGONAL 1/4\" X 1\""
+  },
+  {
+    "name": "RONDANA PLANA 7/8\""
+  },
+  {
+    "name": "RONDANA DE PRESION 3/4\""
+  },
+  {
+    "name": "POLYSEAL B 1.250-1.500-0.187"
+  },
+  {
+    "name": "ORING NBR70 MM 67-77-5"
+  },
+  {
+    "name": "ORING NBR70 MM 68-76-4"
+  },
+  {
+    "name": "TUBO HONDEADO 3-3 - 3/8"
+  },
+  {
+    "name": "CHUMACERA DE PARED 3\""
+  },
+  {
+    "name": "BIRLO 3/4\" X 3\""
+  },
+  {
+    "name": "EMPAQUE DE HULE PARA PIJA"
+  },
+  {
+    "name": "ANILLO DE PISTON"
+  },
+  {
+    "name": "CONECTOR PARA INVERSORA"
+  },
+  {
+    "name": "UNION HIDRAULICA SMA 6 9/16"
+  },
+  {
+    "name": "TEE HIDRAULICA SMA 8 3/4"
+  },
+  {
+    "name": "ADAPTADOR VEHICULAR TIPO BOLA"
+  },
+  {
+    "name": "SILICON ACETICO"
+  },
+  {
+    "name": "HYDRAULIC STAR WHEEL MOTOR 255200F3110AAAAP"
+  },
+  {
+    "name": "HYDRAULIC STAR WHEEL MOTOR 255320F3110AAAAP"
+  },
+  {
+    "name": "HYDRAULIC STAR WHEEL MOTOR 255400F3110AAAAP"
+  },
+  {
+    "name": "FLOW CONTROL FCR51-125AE"
+  },
+  {
+    "name": "STAR WHEEL FRONTAL BAND 100-14160"
+  },
+  {
+    "name": "HYDRAULIC FITTING SIZE 12 12G-12FJX"
+  },
+  {
+    "name": "HYDRAULIC FITTING SIZE 8 8G-8FJX"
+  },
+  {
+    "name": "HYDRAULIC TIE ROD CYLINDER"
+  },
+  {
+    "name": "ROLLER CHAIN SPROCKET 60BS19-1"
+  },
+  {
+    "name": "SPINDLE DT5800"
+  },
+  {
+    "name": "OUTER COIL SPRING DT5810"
+  },
+  {
+    "name": "AUX PUMP ZIP17"
+  },
+  {
+    "name": "HYDROBACK ACCELERATOR MC7256"
+  },
+  {
+    "name": "HYDROBACK CABLE184\" MC7257184"
+  },
+  {
+    "name": "HYDROBACK FOOT CABLE 180\" MC7257180"
+  },
+  {
+    "name": "KILBY TRANSMISSION KLBYT"
+  },
+  {
+    "name": "CHAIN MOTOR PM1000"
+  },
+  {
+    "name": "CHAIN MOTOR MOUNT PLATE CM2000"
+  },
+  {
+    "name": "TAQUETE EXPANSIVO 5/8\""
+  },
+  {
+    "name": "PIJA PUNTA DE BROCA 3/8\" X 3/4\""
+  },
+  {
+    "name": "PIJA PUNTA DE BROCA 1/4\" X 1\""
+  },
+  {
+    "name": "LUBRICANTE PARA BANDAS EN BARRA"
+  },
+  {
+    "name": "COSMETICO PARA BANDAS EN AEROSOL"
+  },
+  {
+    "name": "TORNILLO 5/8\" X 1 1/2\""
+  },
+  {
+    "name": "CARTUCHO DE REPUESTO MULTI-GAS P / MASCARILLA TRUPER"
+  },
+  {
+    "name": "CHUMACERA PISO 1\""
+  },
+  {
+    "name": "CHUMACERA DE PARED 3/4\""
+  },
+  {
+    "name": "CHUMACERA DE PARED 1 1/4\""
+  },
+  {
+    "name": "CHUMACERA DE PARED 1 1/2\""
+  },
+  {
+    "name": "POLEA DE ALUMINIO 4\""
+  },
+  {
+    "name": "MEDIDOR DE PH PARA SUELOS HANNA"
+  },
+  {
+    "name": "CHECKER PARA FOSFATO HANNA"
+  },
+  {
+    "name": "REPUESTO PARA DOSATRON"
+  },
+  {
+    "name": "MEDIDOR DE PRESION DE ACEITE"
+  },
+  {
+    "name": "JUNTA PARA TAPA DE VALVULA JOHN DEERE"
+  },
+  {
+    "name": "ORING R521548 JOHN DEERE"
+  },
+  {
+    "name": "TERMOSTATO JOHN DEERE DZ120502"
+  },
+  {
+    "name": "RETEN CP 334-2"
+  },
+  {
+    "name": "ORING 326"
+  },
+  {
+    "name": "LISTON REPUESTO PARA FUBIBLE 60 A 250 V"
+  },
+  {
+    "name": "LISTON REPUESTO PARA FUBIBLE 100 A 250 V"
+  },
+  {
+    "name": "ARRANCADOR MANUAL SCHNEIDER ELECTRIC"
+  },
+  {
+    "name": "CAJA ABB IP 65 IS10852A00"
+  },
+  {
+    "name": "INTERRUPTOR MAGNETOTERMICO INGON C 6A SCHNEIDER ELECTRIC"
+  },
+  {
+    "name": "RELEVADOR DE POTENCIA 66.82.8.024.0000 24 V"
+  },
+  {
+    "name": "CONEXIÓN TIPO T CONDULET 25.4 MM 1\""
+  },
+  {
+    "name": "ADAPTADOR 3 A 2 VOLTECK"
+  },
+  {
+    "name": "CAJA FSC 3/4\""
+  },
+  {
+    "name": "PORTALAMPARA DE PORCELANA"
+  },
+  {
+    "name": "SOCKET 660 W 127 V"
+  },
+  {
+    "name": "GABINETE 2 PUERTA NEGRO"
+  },
+  {
+    "name": "MINICONTACTOR 400V OMRON J7KNA-09-01"
+  },
+  {
+    "name": "FLEXOMETRO 8 MTS USO RUDO"
+  },
+  {
+    "name": "MECHUDO"
+  },
+  {
+    "name": "TIJERAS BEADITIVE"
+  },
+  {
+    "name": "TIJERAS BEADITIVE KIT"
+  },
+  {
+    "name": "MARCADOR AL OLEO COLOR BLANCO SHARPIE"
+  },
+  {
+    "name": "TERMOMETRO DIGITAL VA-EDT-1-55"
+  },
+  {
+    "name": "ABRAZADERA SIN FIN 1/2\""
+  },
+  {
+    "name": "BANDA A54"
+  },
+  {
+    "name": "BISAGRA RECTANGULAR 2\" X 1 1/2\""
+  },
+  {
+    "name": "BOLSA 90 X 120"
+  },
+  {
+    "name": "BOTELLA DE LAVADO .500 ML"
+  },
+  {
+    "name": "BREAKER 200 3P 600 V 50/60 HZ"
+  },
+  {
+    "name": "CALCULADORA DE ESCRITORIO"
+  },
+  {
+    "name": "CARPETA BLANCA 1\""
+  },
+  {
+    "name": "CINTA AISLANTE DE HULE USO ELECTRICO"
+  },
+  {
+    "name": "CINTA GRIS PARA DUCTO"
+  },
+  {
+    "name": "CINTA PARA ETIQUETAS (BLANCA)"
+  },
+  {
+    "name": "CLAVIJA 4 POLOS 20A 120/208V"
+  },
+  {
+    "name": "CONTACTO 4 POLOS 30A 120/208V"
+  },
+  {
+    "name": "CONTACTO TRIFASICO 10A 250V 15A 127V"
+  },
+  {
+    "name": "ELECTRODO DE PH HANNA"
+  },
+  {
+    "name": "ETIQUETA SB-13.117.015"
+  },
+  {
+    "name": "ETIQUETA SB-15.067.051"
+  },
+  {
+    "name": "ETIQUETA SB-15.393.003"
+  },
+  {
+    "name": "GOMA FACTIS 520"
+  },
+  {
+    "name": "GRAPAS PARA CABLE 6MM X 9.5MM"
+  },
+  {
+    "name": "INTERRUPTOR DE PRESION HIDRONEUMATICO 1\""
+  },
+  {
+    "name": "MARCADOR PERMANENTE BEROL ROJO"
+  },
+  {
+    "name": "PERFORADORA 2 ORIFICIOS"
+  },
+  {
+    "name": "SOBRE AMARILLO 8.8 CM X 16.4 CM"
+  },
+  {
+    "name": "TIRAS REACTIVAS PARA PEROXIDO"
+  },
+  {
+    "name": "ACEITE MOTOR A GASOLINA SAE 50"
+  },
+  {
+    "name": "BROCA DE CONCRETO 1/2\" X 12 \""
+  },
+  {
+    "name": "PLASTICO NEGRO CAL 600"
+  },
+  {
+    "name": "ACEITE MOTOR A DIESEL SAE 40"
+  },
+  {
+    "name": "PASTILLA AROMATIZANTE"
+  },
+  {
+    "name": "AROMATIZANTE EN AEROSOL"
+  },
+  {
+    "name": "TRAPO DE MICROFIBRA"
+  },
+  {
+    "name": "OLLA DE PELTRE"
+  },
+  {
+    "name": "LIQUIDO PARA LIMPIAR VIDRIOS"
+  },
+  {
+    "name": "ESTROPAJO PARA TRASTES"
+  },
+  {
+    "name": "TORNILLO 1/2\" X 1 1/2\" CON TUERCA DE SEGURIDAD"
+  },
+  {
+    "name": "TORNILLO 5/8\" X 1 1/14\" CON TUERCA DE SEGURIDAD Y RONDANA"
+  },
+  {
+    "name": "YUGO AG6 ESTRIADO 26 1 3/8\""
+  },
+  {
+    "name": "YUGO AG6 TRILOBULAR MACHO 30 X"
+  },
+  {
+    "name": "CRUCETA C6 30X92 CARDAN"
+  },
+  {
+    "name": "RETEN TC 38 80 8"
+  },
+  {
+    "name": "RETEN TC 40 70 8"
+  },
+  {
+    "name": "CHAMARRAS TERMICAS TALLA L"
+  },
+  {
+    "name": "CHAMARRAS TERMICAS TALLA XL"
+  },
+  {
+    "name": "ANGULO ACERO 1 1/2\" 1.5 CM CAL 12"
+  },
+  {
+    "name": "CEMENTO"
+  },
+  {
+    "name": "CAL"
+  },
+  {
+    "name": "CABO PARA AZADON"
+  },
+  {
+    "name": "FLOTADOR ROTOPLAST  N° 5"
+  },
+  {
+    "name": "TORNILLO ALLEN CABEZA DE BOTON  7/16\" x 1\""
+  },
+  {
+    "name": "GRAPAS PARA UNIR BANDA 7/32\"  9/32\""
+  },
+  {
+    "name": "PALANCA PARA CAJA  DE VALVULAS"
+  },
+  {
+    "name": "OVEROL DESECHABLE BLANCO TALLA M"
+  },
+  {
+    "name": "REACTIVOS DE  POTASIO Y FOSFATO"
+  },
+  {
+    "name": "FOCO PHILCO 1000 W  263 V"
+  },
+  {
+    "name": "ZAPATA TERMINAL  BURNDY   QR 26"
+  },
+  {
+    "name": "ETIQUETA SB-12.101.108   CONSTITUTION"
+  },
+  {
+    "name": "ETIQUETA SB-10.86.107  NIÑA"
+  },
+  {
+    "name": "ETIQUETA SB-12.102.056   SANTA MARIA"
+  },
+  {
+    "name": "ETIQUETA SB-12.100.041  PINTA"
+  },
+  {
+    "name": "INSULATED FOAM CONTAINER  S-22568  13 x 13 x 12 1/2\""
+  },
+  {
+    "name": "BOTAS HULE  # 24"
+  },
+  {
+    "name": "ACEITE TRANSMISION  HIDRAULICA UDT (KUBOTA)"
+  },
+  {
+    "name": "TORNILLO  ALLEN 5/16\" X 1 1/2\""
+  },
+  {
+    "name": "MANGUERA 20 MM CALIBRE 45 MIL"
+  },
+  {
+    "name": "CUERPO  T PARA ASPERSORA"
+  },
+  {
+    "name": "TORNILLO ALLEN 1/4\" X 1 1/4\""
+  },
+  {
+    "name": "TUBO ACERO 1 1/14\" CED 30 LARGO 6 MTS"
+  },
+  {
+    "name": "PINTURA VINILICA VERDE"
+  },
+  {
+    "name": "PINTURA DE ACEITE AZUL"
+  },
+  {
+    "name": "PINTURA DE ACEITE VERDE PISTACHE"
+  },
+  {
+    "name": "BLOCK"
+  },
+  {
+    "name": "CHAVETA DE PASADOR 6 MM"
+  },
+  {
+    "name": "TORNILLO PARA ARADO DE 1/2\" X 2\""
+  },
+  {
+    "name": "PEGAMENTO ROJO (BROMURACION)"
+  },
+  {
+    "name": "PLASTICO TIF 4 MTS"
+  },
+  {
+    "name": "COLD ROLLED 1 1/8\""
+  },
+  {
+    "name": "PLACA 1/8\" 1.20 M X 3.05 M"
+  },
+  {
+    "name": "AR 1 1/4\" CAL 14"
+  },
+  {
+    "name": "PTR 2\" CAL 12"
+  },
+  {
+    "name": "TUBO 1\" CED 30"
+  },
+  {
+    "name": "SOLERAS 2\" X 1/2\""
+  },
+  {
+    "name": "PTR 1 1/2\" CAL 12"
+  },
+  {
+    "name": "SOLERA 4\" X 1/2\""
+  },
+  {
+    "name": "NAVAJA RETRACTIL TRUPER"
+  },
+  {
+    "name": "GUANTE LICRA G"
+  },
+  {
+    "name": "KIT CABLE PARA SOLDADURA"
+  },
+  {
+    "name": "TUBO 1 1/2\" CAL 40"
+  },
+  {
+    "name": "TUBO 2\" CAL 40"
+  },
+  {
+    "name": "TUBO 2 1/2\" CAL 40"
+  },
+  {
+    "name": "COLD ROLLED 1\""
+  },
+  {
+    "name": "CARBONES MAKITA CB-325"
+  },
+  {
+    "name": "CLIP GAFETE METALICO"
+  },
+  {
+    "name": "TINTA PARA SELLOS"
+  },
+  {
+    "name": "REMOVEDOR DE POLVO PRESURIZADO"
+  },
+  {
+    "name": "TOALLAS LIMPieza OD PANTALLA"
+  },
+  {
+    "name": "BOMBA DE AGUA JOHN DEERE RE 546917"
+  },
+  {
+    "name": "TORNILLO CABEZA DE COCHE 5/16\" X 1\""
+  },
+  {
+    "name": "PAPEL CARBON"
+  },
+  {
+    "name": "LIBRO FLORETE FORMA FRANCESA"
+  },
+  {
+    "name": "CINTA 550 18 MM X 33 MM"
+  },
+  {
+    "name": "GUANTE NITRILO G"
+  },
+  {
+    "name": "TUERCA PARA GAS"
+  },
+  {
+    "name": "BATERIA (D)"
+  },
+  {
+    "name": "PRISIONERO ALLEN 3/8\" X 1/2\""
+  },
+  {
+    "name": "GOOGLES TRANSPARENTE"
+  },
+  {
+    "name": "GAFAS DE SEGURIDAD TRANSPARENTE"
+  },
+  {
+    "name": "FUSIBLE 60A 250V"
+  },
+  {
+    "name": "CONTACTO PLASTICO VOLTEK 127 V 60 HZ 15 A"
+  },
+  {
+    "name": "CINTA CANELA"
+  },
+  {
+    "name": "PINTURA DE ACEITE COLOR AMARILLO"
+  },
+  {
+    "name": "MINI VALVULA CON GOMA PARA  PVC"
+  },
+  {
+    "name": "JABON LIQUIDO"
+  },
+  {
+    "name": "CHALECO VERDE"
+  },
+  {
+    "name": "CONO TRAFICO DE SEGURIDAD 71 CM NARANJA"
+  },
+  {
+    "name": "POSTE DELIMITADOR NARANJA"
+  },
+  {
+    "name": "HIELERA GRANDE"
+  },
+  {
+    "name": "CHALECO AMARILLO"
+  },
+  {
+    "name": "CARGADOR PARA BATERIA"
+  },
+  {
+    "name": "CANOLA"
+  },
+  {
+    "name": "GANCHOS PARA TUNELADORAS"
+  },
+  {
+    "name": "GANCHO PARA CHISER"
+  },
+  {
+    "name": "MACROBIN PLASTICO MOD 26NGFV"
+  },
+  {
+    "name": "TEE HIDRANTE PVC 8\" X 6\""
+  },
+  {
+    "name": "PORTALAPIZ"
+  },
+  {
+    "name": "PLUMA CORRECTORA LIQUIDA"
+  },
+  {
+    "name": "PLASTICO BLANCO 25% SOMBRA"
+  },
+  {
+    "name": "LAPIZ ADHESIVO"
+  },
+  {
+    "name": "FOLDER MANILA TAMAÑO CARTA"
+  },
+  {
+    "name": "ARMEX"
+  },
+  {
+    "name": "ACEITE MOTOR A GASOLINA SAE 15 W 40"
+  },
+  {
+    "name": "GUANTE NITRILO AZUL M"
+  },
+  {
+    "name": "PRISIONERO ALLEN 1/4\" X 1\""
+  },
+  {
+    "name": "TUERCA PARA BIRLO 17 MM"
+  },
+  {
+    "name": "ACEITE LUBRICANTE PARA BARRA Y CADENA DE MOTOSIERRA"
+  },
+  {
+    "name": "TORNILLO 5/8\" X 5\" CON TUERCA"
+  },
+  {
+    "name": "GUANTE PALMA DE LATEX CH"
+  },
+  {
+    "name": "ACEITE 15W40 (A GASOLINA)"
+  },
+  {
+    "name": "CONECTOR MACHO LATON 5/8\""
+  },
+  {
+    "name": "CONECTOR MACHO LATON 1/2\""
+  },
+  {
+    "name": "VALVULA ESFERA PVC HEMBRA 3/4\" CEMENTAR"
+  },
+  {
+    "name": "CHAPA IZQUIERDA PHILLIPS"
+  },
+  {
+    "name": "ESTACAS DE ACERO CEDULA 30 2.7 MTS IMPERMEABILIZADA"
+  },
+  {
+    "name": "SOLERAS DE 2\" X  3/16\""
+  },
+  {
+    "name": "SOLERAS DE 3\" X 1/2\""
+  },
+  {
+    "name": "TUBO MECANICO  DE 1\" CEDULA 40"
+  },
+  {
+    "name": "SOLERAS DE 2\" X 1/2\""
+  },
+  {
+    "name": "PTR DE 3\"X 2\" CAL 11"
+  },
+  {
+    "name": "PTR DE 2\" CAL 12"
+  },
+  {
+    "name": "CLAVO PARA MADERA 3\""
+  },
+  {
+    "name": "CABLE DE ACERO 1/4\""
+  },
+  {
+    "name": "CLAVO PARA MADERA 2 1/2\""
+  },
+  {
+    "name": "MALLA MONOFILAMENTO 25 % SOMBRA"
+  },
+  {
+    "name": "JARRA PLASTICO 2 LTS"
+  },
+  {
+    "name": "CANDADO LATÓN 290 PHILLIPS"
+  },
+  {
+    "name": "SOLERA 3\" X 3/4\""
+  },
+  {
+    "name": "GRAVA"
+  },
+  {
+    "name": "MALLA 10-10 PARA PISO"
+  },
+  {
+    "name": "NUDOS SUJETADORES DE 1/2\" (PERROS)"
+  },
+  {
+    "name": "TEZONTLE"
+  },
+  {
+    "name": "ESPEJO"
+  },
+  {
+    "name": "MANTEL DE PLASTICO"
+  },
+  {
+    "name": "SELLOS DE MADERA"
+  },
+  {
+    "name": "SELLOS AUTOENTINTABLES"
+  },
+  {
+    "name": "SERVILLETERO"
+  },
+  {
+    "name": "NUDO PARA CABLE 1/2\" (PERROS)"
+  },
+  {
+    "name": "CINTA VULCANIZADA DE HULE AISLANTE E-8000"
+  },
+  {
+    "name": "KIT DE O-RING"
+  },
+  {
+    "name": "BOQUILLA PARA CARTUCHO DE GAS"
+  },
+  {
+    "name": "PERNO TROPICALIZADO 1\" X 7\""
+  },
+  {
+    "name": "BUJIA 64 AUTOLITE"
+  },
+  {
+    "name": "APAGADOR SENCILLO"
+  },
+  {
+    "name": "APARATO DIFUSOR DE AROMATIZANTE"
+  },
+  {
+    "name": "REPUESTO DE AROMATIZANTE"
+  },
+  {
+    "name": "CABLE ACERADO 3/32\" DE 7/19\""
+  },
+  {
+    "name": "ARCHIVERO 4 GAVETAS CARTA"
+  },
+  {
+    "name": "ARCHIVERO 3 GAVETAS"
+  },
+  {
+    "name": "LAMPARA DE MERCURIO 100 W"
+  },
+  {
+    "name": "GUANTE NEOPRENO M"
+  },
+  {
+    "name": "GUANTE LATEX PUÑO LARGO AFELPADO G"
+  },
+  {
+    "name": "CALZADO DE SEGURIDAD # 25"
+  },
+  {
+    "name": "CALZADO DE SEGURIDAD # 26"
+  },
+  {
+    "name": "CALZADO DE SEGURIDAD # 27"
+  },
+  {
+    "name": "CALZADO DE SEGURIDAD # 28"
+  },
+  {
+    "name": "TORNILLO 6\" CON TUERCA"
+  },
+  {
+    "name": "TORNILLO 5\" CON TUERCA"
+  },
+  {
+    "name": "TORNILLO 7\" CON TUERCA"
+  },
+  {
+    "name": "TORNILLO 5/8\" X 7\" ROSCA ENTERA COMPLETO"
+  },
+  {
+    "name": "TORNILLO 5/8\" X 7\" MEDIA ROSCA COMPLETO"
+  },
+  {
+    "name": "TORNILLO 5/8\" X 3\""
+  },
+  {
+    "name": "TUERCA 3/4\""
+  },
+  {
+    "name": "CARGADOR PARA BATERIAS AA Y AAA"
+  },
+  {
+    "name": "AIRE COMPRIMIDO RECARGABLE"
+  },
+  {
+    "name": "TORNILLO CON TUERCA 6\""
+  },
+  {
+    "name": "RIN 16\"*6 BLANCO 7.50-16 AGRICOLA"
+  },
+  {
+    "name": "BATERIA AA RECARGABLE"
+  },
+  {
+    "name": "BATERIA AAA RECARGABLE"
+  },
+  {
+    "name": "TONER P/IMPRESORA 105 A HP"
+  },
+  {
+    "name": "CANDADO DE HIERRO CH-30P"
+  },
+  {
+    "name": "CABLE CAL 12 2 POLOS"
+  },
+  {
+    "name": "CLAVIJA 4 POLOS 30 A 125/250 V"
+  },
+  {
+    "name": "CONTACTOR  VA-30FLA2P 30A "
+  },
+  {
+    "name": "REGADERA DRAMM 1000 ORIFICIOS"
+  },
+  {
+    "name": "RESISTOL 5000"
+  },
+  {
+    "name": "TORNILLO CABEZA HEXAGONAL 3/4\" X 7\""
+  },
+  {
+    "name": "CABLE CAL 12 1 POLO"
+  },
+  {
+    "name": "TORNILLO HEXAGONAL 3/8\" X 2\" GRADO 12.9"
+  },
+  {
+    "name": "TUBO 1\" CAL 30"
+  },
+  {
+    "name": "CLAVIJA 3 POLOS 127 V 60 HZ 15 A"
+  },
+  {
+    "name": "RUEDA GUIA ORGANA PARA TRANSMISION"
+  },
+  {
+    "name": "SEGURO DE PISTON"
+  },
+  {
+    "name": "TORNILLO CABEZA HEXAGONAL 5/8\" X 1 1/2\""
+  },
+  {
+    "name": "JERGA"
+  },
+  {
+    "name": "TORNILLO 5/8\" X 1 1/14\""
+  },
+  {
+    "name": "TUERCA PARA GAS "
+  },
+  {
+    "name": "PRISIONERO ALLEN 3/8\" X 1/2\" "
+  },
+  {
+    "name": "OVEROL DESECHABLE BLANCO TALLA M "
+  },
+  {
+    "name": "GOOGLES TRANSPARENTE "
+  },
+  {
+    "name": "FUSIBLE 60A 250V "
+  },
+  {
+    "name": "CONTACTO PLASTICO VOLTEK 127 V 60 HZ 15 A "
+  },
+  {
+    "name": "CINTA CANELA "
+  },
+  {
+    "name": "PINTURA DE ACEITE COLOR AMARILLO "
+  },
+  {
+    "name": "MINI VALVULA CON GOMA PARA  PVC "
+  },
+  {
+    "name": "JABON LIQUIDO "
+  },
+  {
+    "name": "CHALECO VERDE "
+  },
+  {
+    "name": "CONO TRAFICO DE SEGURIDAD 71 CM NARANJA "
+  },
+  {
+    "name": "HIELERA GRANDE "
+  },
+  {
+    "name": "CHALECO AMARILLO "
+  },
+  {
+    "name": "CARGADOR PARA BATERIA "
+  },
+  {
+    "name": "CANOLA "
+  },
+  {
+    "name": "GANCHOS PARA TUNELADORAS  "
+  },
+  {
+    "name": "GANCHO PARA CHISER "
+  },
+  {
+    "name": "MACROBIN PLASTICO MOD 26NGFV "
+  },
+  {
+    "name": "TEE HIDRANTE PVC 8\" X 6\" "
+  },
+  {
+    "name": "PORTALAPIZ "
+  },
+  {
+    "name": "PLUMA CORRECTORA LIQUIDA "
+  },
+  {
+    "name": "PLASTICO BLANCO 25% SOMBRA "
+  },
+  {
+    "name": "LAPIZ ADHESIVO "
+  },
+  {
+    "name": "FOLDER MANILA TAMAÑO CARTA "
+  },
+  {
+    "name": "ARMEX "
+  },
+  {
+    "name": "NAVAJA RETRACTIL TRUPER "
+  },
+  {
+    "name": "PAPEL CARBON "
+  },
+  {
+    "name": "TORNILLO 5/8\" X 5 1/2\" "
+  },
+  {
+    "name": "ARCHIVERO 3 GAVETAS "
+  },
+  {
+    "name": "TORNILLO CABEZA HEXAGONAL 5/8\" X 3\" "
+  },
+  {
+    "name": "MASCARILLA PARA SOLDADOR  N 95 CON CARBON ACTIVADO Y VALVULA"
+  },
+  {
+    "name": "PASTILLAS DE CLORO"
+  },
+  {
+    "name": "TORNILLO ACERADO 3/8\" X 2\""
+  },
+  {
+    "name": "TORNILLO HEXAGONAL 3/8\" X 3\""
+  },
+  {
+    "name": "SELLO DE PISTON CTC-4T5172"
+  },
+  {
+    "name": "KIT DE SELLOS 255222001 DANFOSS"
+  },
+  {
+    "name": "TORNILLO CABEZA HEXAGONAL 1\" X 5\""
+  },
+  {
+    "name": "TUERCA PARA BIRLO 5/8\""
+  },
+  {
+    "name": "CANDADO COMPLETO P-50 2R"
+  },
+  {
+    "name": "MEDIO CANDADO P-100"
+  },
+  {
+    "name": "ABRAZADERA PARA ESTACION METEREOLOGICA"
+  },
+  {
+    "name": "BASTAGO 1\" X 15\""
+  },
+  {
+    "name": "RETEN PARA TAPA DE TERMOSTATO R521548"
+  },
+  {
+    "name": "JUNTA JOHN DEERE R123345"
+  },
+  {
+    "name": "JUNTA JOHN DEERE R524469"
+  },
+  {
+    "name": "ABRAZADERAS DE CUADRO PARA ASPERSORA 1 1/2\""
+  },
+  {
+    "name": "DISCO PARA DESBROZADORA"
+  },
+  {
+    "name": "BISAGRA 2\" X 1 1/2\""
+  },
+  {
+    "name": "MANDILES DE MEZCLILLA C/BOLSAS"
+  },
+  {
+    "name": "VARIADOR DE VELOCIDAD ATV312HU15M3"
+  },
+  {
+    "name": "CHALUPA 1/2\""
+  },
+  {
+    "name": "CHALUPA PLASTICA 3 MODULOS"
+  },
+  {
+    "name": "TONEL 1,200 LTR AGUA"
+  },
+  {
+    "name": "CENTRO DE CARGA C/BREAK REFORZADO"
+  },
+  {
+    "name": "ENCHUFE P/CABLE "
+  },
+  {
+    "name": "CONTACTO C/PROTECCION"
+  },
+  {
+    "name": "MANGUERA FLEXIBLE NARANJA 1/2\" X 100 MTR"
+  },
+  {
+    "name": "TUBO 1\" C-18 INDUSTRIAL"
+  },
+  {
+    "name": "VALVULA ESFERA CEMENTAR PVC 3/4\""
+  },
+  {
+    "name": "TUERCA HEXAGONAL 5/8\""
+  },
+  {
+    "name": "TORNILLO CABEZA HEXAGONAL 5/8\" X 7\""
+  },
+  {
+    "name": "SOLERA 2\" X 1/4\""
+  },
+  {
+    "name": "RETEN 50 75 10"
+  },
+  {
+    "name": "CHICOTE PARA TAICOM"
+  },
+  {
+    "name": "MANGUERA PARA KARCHER 1/2\" USO RUDO"
+  },
+  {
+    "name": "OVEROL INDUSTRIAL CON REFLEJANTE"
+  },
+  {
+    "name": "CUBRE CALZADO DESECHABLE"
+  },
+  {
+    "name": "ANGULO 1 1/4\" X 3/16\""
+  },
+  {
+    "name": "TUBO DE 1\"1/4\" CEDULA 40"
+  },
+  {
+    "name": "SOLERA 1 1/2\" X 1/2\""
+  },
+  {
+    "name": "PTR 2 1/2\" X 2 1/2\" C-11"
+  },
+  {
+    "name": "PTR 2\" X 2\" C-12"
+  },
+  {
+    "name": "SOLERA 1/2\" X 4\""
+  },
+  {
+    "name": "COLD ROLLED 3/8\""
+  },
+  {
+    "name": "BRIDA PARA TINACO 1 1/2\""
+  },
+  {
+    "name": "PINTURA EN AEROSOL VERDE"
+  },
+  {
+    "name": "PINTURA EN AEROSOL AZUL"
+  },
+  {
+    "name": "LAMINA GLAVANIZADA 6 MTS X 0.80 MTS R 72"
+  },
+  {
+    "name": "CADENA 3/8\""
+  },
+  {
+    "name": "EMPAQUE PARA BOQUILLA DE ASPERSORA"
+  },
+  {
+    "name": "CLIP DE FIJACION DE PLASTICO PARA PLANTAS"
+  },
+  {
+    "name": "PIQUETA PARA RIEGO"
+  },
+  {
+    "name": "HULE  ESPUMA DE 4 CM  2.40 X 1.90"
+  },
+  {
+    "name": "HOJA DE TRIPLAY 18 MM"
+  },
+  {
+    "name": "CUÑA MEDIA LUNA 250-1.000"
+  },
+  {
+    "name": "BROCA PARA METAL 1/4\""
+  },
+  {
+    "name": "NAVAJAS 4\""
+  },
+  {
+    "name": "PERNO ROSCADO ROSCA STD 1\" X 1\" X 3 1/2\""
+  },
+  {
+    "name": "MICA TERMICA TRANPARENTE CAL 5MIL "
+  },
+  {
+    "name": "PERFIL 1\" X 1\"  C-16"
+  },
+  {
+    "name": "BROCA PARA METAL 5/8\""
+  },
+  {
+    "name": "SEMILLA DE CILANTRO"
+  },
+  {
+    "name": "LAMINA R-72 C-32 DE 6.10 MTR"
+  },
+  {
+    "name": "DISPENSADOR DE AGUA"
+  },
+  {
+    "name": "SEMILLA DE GIRASOL FORRAJERO"
+  },
+  {
+    "name": "SEMILLAS DE SORGO SUMIEL"
+  },
+  {
+    "name": "BISAGRA 5/8\""
+  },
+  {
+    "name": "BROCA PARA METAL 3/16\""
+  },
+  {
+    "name": "GARRAFAS 20LT"
+  },
+  {
+    "name": "MARCADOR PUNTO FINO SHARPIE NEGRO"
+  },
+  {
+    "name": "LAPIZ TRIANGULAR TL/4 GRADO 2 1/2"
+  },
+  {
+    "name": "TINTA PARA SELLO ROJA"
+  },
+  {
+    "name": "TINTA PARA SELLO NEGRO"
+  },
+  {
+    "name": "BROCHE DE ARCHIVO BACO"
+  },
+  {
+    "name": "MARCADOR SHARPIE NEGRO"
+  },
+  {
+    "name": "RODAMIENTO 311"
+  },
+  {
+    "name": "RODAMIENTOS DE BAR 1-3/4"
+  },
+  {
+    "name": "LAPTOP CORE I7 8GB RAM"
+  },
+  {
+    "name": "RACKS METÁLICOS"
+  },
+  {
+    "name": "PIJAS 8\" x 1/2\""
+  },
+  {
+    "name": "CHUMACERA RASTRA PLUS 1 RT 2424"
+  },
+  {
+    "name": "GUANTE DE POLIESTER "
+  },
+  {
+    "name": "LENTES DE PROTECCIÓN"
+  },
+  {
+    "name": "IMPERMEABLE AMARILLO CH, M, G"
+  },
+  {
+    "name": "THERMAL POT TAG 9/16\" X 5\", TURQUOISE"
+  },
+  {
+    "name": "THERMAL POT TAG 9/16\" X 5\", LAVENDER"
+  },
+  {
+    "name": "THERMAL POT TAG 9/16\" X 5\", ORANGE"
+  },
+  {
+    "name": "THERMAL POT TAG 9/16\" X 5\", WHITE"
+  },
+  {
+    "name": "RIBBON CERA-RESINA 130MM X 300M NEGRO"
+  },
+  {
+    "name": "TUBO 1\" C-18 X 6M SKU:MT 100C18"
+  },
+  {
+    "name": "MICA TERMICA (5 MILÉSIMAS)-CAJA CON 100 Pieza"
+  },
+  {
+    "name": "SENSOR DE PRECIPITACIÓN"
+  },
+  {
+    "name": "OVEROLES BLANCOS DE PROTECCION "
+  },
+  {
+    "name": "TAPA PARA BOQUILLA DE ABANICO"
+  },
+  {
+    "name": "EPAQUES PARA BOQUILLA"
+  },
+  {
+    "name": "ADAPTADOR DOBLE SALIDA"
+  },
+  {
+    "name": "SOPORTE BARRA DE 1\""
+  },
+  {
+    "name": "GARRAFA ACEITE MOTOR"
+  },
+  {
+    "name": "OVEROL MUESTRA TALLA G COLOR VERDE COD.11"
+  },
+  {
+    "name": "OVEROL MUESTRA TALLA G COLOR AZUL COD.9"
+  },
+  {
+    "name": "OVEROL MUESTRA TALLA G COLOR CAQUI COD. 5"
+  },
+  {
+    "name": "PILAS TRIPLE A PARA MOUSE"
+  },
+  {
+    "name": "PARRILLA USO RUDO 3 QUEMADORES"
+  },
+  {
+    "name": "NAVAJA AUTOMATICA DRAGON"
+  },
+  {
+    "name": "NAVAJA MONTABLE ABATIBLE"
+  },
+  {
+    "name": "TORNILLOS 5/16 X 2 COMPLETOS"
+  },
+  {
+    "name": "CORTINAS BLANCAS"
+  },
+  {
+    "name": "BOQUILLA 4 SALIDAS ALUMINIO"
+  },
+  {
+    "name": "OVEROLES DESECHABLES "
+  },
+  {
+    "name": "ROLLO DE MANGUERA DE ALTA PRECION DE 4000 (PSI) DE 1/2\""
+  },
+  {
+    "name": "ROLLO DE MANGUERA DE ALTA PRECION DE 4000 (PSI) DE 3/4"
+  },
+  {
+    "name": "MANGUERA P/LINEAS DE DIESEL 1/4"
+  },
+  {
+    "name": "MANGUERA P/LINEAS DE DIESEL 5/16"
+  },
+  {
+    "name": "MANGUERA P/LINEAS DE DIESEL 3/8"
+  },
+  {
+    "name": "MEDIOS CANDADOS PASO 60"
+  },
+  {
+    "name": "MEDIOS CANDADOS PASO 2060"
+  },
+  {
+    "name": "CANDADOS COMPLETOS PASO 80"
+  },
+  {
+    "name": "CANDADOS COMPLETOS PASO 60"
+  },
+  {
+    "name": "MANOMETROS DE TEMPERATURA VDO FISICO"
+  },
+  {
+    "name": "MANOMETRO DE RPM VDO FISICO"
+  },
+  {
+    "name": "CUÑAS DE 1/4 DE 20 CM "
+  },
+  {
+    "name": "CUÑAS DE 3/8 DE 20 CM "
+  },
+  {
+    "name": "BASTAGO PARA GATOS HIDRAULICOS DE 1\"1/4 (EN PUEBLA, CALLE REFORMA)"
+  },
+  {
+    "name": "TERMINALES DE DIRECCION DERECHAS (MISMAS QUE FORD 5000)"
+  },
+  {
+    "name": "TERMINALES DE DIRECCION IZQUIERDAS  (MISMAS QUE FORD 5000)"
+  },
+  {
+    "name": "ELEMENTO L150 ESPIDER "
+  },
+  {
+    "name": "BIRLOS 5/8 COMPLETO CON TUERCA "
+  },
+  {
+    "name": "ABRASADERAS DE SIN FIN DE 3/8 "
+  },
+  {
+    "name": "CINTA ANTIRREFLEJANTE "
+  },
+  {
+    "name": "PRICIONEROS DE 3/8X 1/2"
+  },
+  {
+    "name": "TORNILLOS 5/16X1\"1/2 CABEZA ALLEN"
+  },
+  {
+    "name": "TORNILLOS DE 3/8X1\"1/4 CABEZA EXAGONAL "
+  },
+  {
+    "name": "CINCHOS DE PLASTICO DE 50 CM "
+  },
+  {
+    "name": "CINTA TEFOLN DE 3/4"
+  },
+  {
+    "name": "CINTA NEGRA DE AISLAR "
+  },
+  {
+    "name": "MICAS CONTENEDORA DE AIRE CHICAS "
+  },
+  {
+    "name": "SWITSH DE ARRANQUE UNIVERSAL "
+  },
+  {
+    "name": "TORNILLOS DE 1/2X 2\"1/2"
+  },
+  {
+    "name": "TORNILLOS DE 3/4X3\""
+  },
+  {
+    "name": "TUECAR DE SEGURIDAD DE 3/4"
+  },
+  {
+    "name": "RESPALDONBR90 IN 1.625-2.000-0.187 "
+  },
+  {
+    "name": "RESOALDO NBR90 IN 1.750-2.000-0.125"
+  },
+  {
+    "name": "LIM.MET.IN MCU 1.125-1.625-0.250"
+  },
+  {
+    "name": "SELLO DE PISTON 3.000-2.440-0.272"
+  },
+  {
+    "name": "POLICEAL STD DE 1.125-1.375-0.125"
+  },
+  {
+    "name": "POLICEAL B 1.125-1.500-0.312"
+  },
+  {
+    "name": "GE .2.500-0.500-0.125"
+  },
+  {
+    "name": "RETEN 60-8510 "
+  },
+  {
+    "name": "CUADRADO DE 6 PULGADAS X 1/2 DE GRUESO"
+  },
+  {
+    "name": "PLACA DE 1 PULG "
+  },
+  {
+    "name": "TONER 89Y/ HP LASERTJET MFP M528"
+  },
+  {
+    "name": "HDMIL CABLE - HDMI A HDMI DE 60CM"
+  },
+  {
+    "name": "HUB TIPO C ADPTADOR MULTIDIVISOR DE 4 PUERTOS "
+  },
+  {
+    "name": "OVEROL CON LOGO LBP COLOR BEIGE TALLA GRANDE NUMERO 1 AL 14 Y LEYENDA \"VISITANTE\" EN LADO DERECHO"
+  },
+  {
+    "name": "OVEROL CON LOGO LBP COLOR BEIGE TALLA M NUMERO 15 AL 17 Y LEYENDA \"VISITANTE\" EN LADO DERECHO"
+  },
+  {
+    "name": "OVEROL CON LOGO LBP COLOR BEIGE TALLA XL NUMERO 18 AL 20 Y LEYENDA \"VISITANTE\" EN LADO DERECHO"
+  },
+  {
+    "name": "TUBO FLEX SANITARIO "
+  },
+  {
+    "name": "LLAVE DE PRESIÓN "
+  },
+  {
+    "name": "MANGUERA DE ALUMINIO PARA LAVABO "
+  },
+  {
+    "name": "TAMPO HEMBRA 1/2\""
+  },
+  {
+    "name": "ARMELLA TRUPPER"
+  },
+  {
+    "name": "CRISTAL PARA PANTALLA IPHONE 6.1"
+  },
+  {
+    "name": "PROTECTOR TRANSPARENTE PARA IPHONE"
+  },
+  {
+    "name": "BOQUILLAS"
+  },
+  {
+    "name": "PORTA BOQUILLAS"
+  },
+  {
+    "name": "CRUCETA PTO DE PIPA"
+  },
+  {
+    "name": "OVEROL CON LOGO LBP COLOR BEIGE TALLA CHICA MUJER NUMERO 21 A CONSECUTIVO CON VELCRO EN LADO DERECHO"
+  },
+  {
+    "name": "OVEROL CON LOGO LBP COLOR BEIGE TALLA MEDIANA MUJER NUMERO  CONSECUTIVO CON VELCRO EN LADO DERECHO"
+  },
+  {
+    "name": "OVEROL CON LOGO LBP COLOR BEIGE TALLA GRANDE MUJER NUMERO CONSECUTIVO CON VELCRO EN LADO DERECHO"
+  },
+  {
+    "name": "OVEROL CON LOGO LBP COLOR BEIGE TALLA EXTRA GRANDE MUJER NUMERO CONSECUTIVO CON VELCRO EN LADO DERECHO"
+  },
+  {
+    "name": "OVEROL CON LOGO LBP COLOR BEIGE TALLA MEDIADO HOMBRE NUMERO CONSECUTIVO CON VELCRO EN LADO DERECHO"
+  },
+  {
+    "name": "OVEROL CON LOGO LBP COLOR BEIGE TALLA GRANDE HOMBRE NUMERO CONSECUTIVO CON VELCRO EN LADO DERECHO"
+  },
+  {
+    "name": "OVEROL CON LOGO LBP COLOR BEIGE TALLA EXTRA GRANDE HOMBRE NUMERO CONSECUTIVO HASTA EL 200 CON VELCRO EN LADO DERECHO"
+  },
+  {
+    "name": "OVEROL CON LOGO LBP COLOR AZUL TALLA CHICA MUJER, PERSONALIZADO "
+  },
+  {
+    "name": "OVEROL CON LOGO LBP COLOR AZUL TALLA MEDIANA MUJER, PERSONALIZADO "
+  },
+  {
+    "name": "OVEROL CON LOGO LBP COLOR AZUL TALLA GRANDE MUJER, PERSONALIZADO "
+  },
+  {
+    "name": "OVEROL CON LOGO LBP COLOR AZUL TALLA EXTRA GRANDE MUJER, PERSONALIZADO "
+  },
+  {
+    "name": "OVEROL CON LOGO LBP COLOR VERDE TALLA MEDIANA MUJER, PERSONALIZADO "
+  },
+  {
+    "name": "OVEROL CON LOGO LBP COLOR VERDE TALLA GRANDE MUJER, PERSONALIZADO "
+  },
+  {
+    "name": "OVEROL CON LOGO LBP COLOR AZUL TALLA GRANDE HOMBRE, PERSONALIZADO "
+  },
+  {
+    "name": "OVEROL CON LOGO LBP COLOR AZUL TALLA EXTRA GRANDE HOMBRE, PERSONALIZADO "
+  },
+  {
+    "name": "OVEROL CON LOGO LBP COLOR VERDE TALLA EXTRA GRANDE HOMBRE, PERSONALIZADO "
+  },
+  {
+    "name": "MEZCLADORA DE LAVABO "
+  },
+  {
+    "name": "MANGUERA DE ALUMINIO "
+  },
+  {
+    "name": "LLAVE DE CONTROL DE AGU A"
+  },
+  {
+    "name": "PARIHUELA"
+  },
+  {
+    "name": "BOTAS DE HULE "
+  },
+  {
+    "name": "CUBETA DE PLASTICO"
+  },
+  {
+    "name": "TONER 89Y HP LASER JET MFP M528"
+  },
+  {
+    "name": "CABLE HDMI - HDMI A HDMI DE 60 CM"
+  },
+  {
+    "name": "HUB TIPO C ADAPTADOR MULTIDIVISOR 4 PUERTOS"
+  },
+  {
+    "name": "AUDIFONOS JBL"
+  },
+  {
+    "name": "PERNO INFERIOR PARA BR"
+  },
+  {
+    "name": "LAPICERO SERIGRAFIADO LBP"
+  },
+  {
+    "name": "PREPURIFICADOR DE AIRE PARA TRACTOR FORD 6600"
+  },
+  {
+    "name": "CINCHO PLASTICO 50 CM"
+  },
+  {
+    "name": "PORTA BOQUILLA ABANICO"
+  },
+  {
+    "name": "PRISIONERO ALLEN 3/8\" X 3/4\""
+  },
+  {
+    "name": "TORNILLO HEXAGONAL 3/8\" X 1 1/4\" GRADO 5"
+  },
+  {
+    "name": "TORNILLO HEXAGONAL 1/2\" X 2 1/2\" GRADO 5"
+  },
+  {
+    "name": "TORNILLO HEXAGONAL 3/4\" X 3\" GRADO 5"
+  },
+  {
+    "name": "ACEITE TRANSMISION EST Y DIFERENCIAL 80W 90"
+  },
+  {
+    "name": "EXACTO PROFESIONAL DE ALUMINIO"
+  },
+  {
+    "name": "MANGUERA REFORZADA 1/4\""
+  },
+  {
+    "name": "MANGUERA REFORZADA 5/16\""
+  },
+  {
+    "name": "MANGUERA REFORZADA 3/8\""
+  },
+  {
+    "name": "LUMINARIA SOLAR 15 W"
+  },
+  {
+    "name": "MANGUERA CON CONEXIONES (CODO EN 90 Y HEMBRA CARA PLANA) 1.85"
+  },
+  {
+    "name": "MANGUERA CON CONEXIONES (CODO EN 90 Y HEMBRA CARA PLANA) 1.95"
+  },
+  {
+    "name": "CONEXIÓN PRENSADA CAR PLANA"
+  },
+  {
+    "name": "PERCHA"
+  },
+  {
+    "name": "BOMBA DE GASOLINA"
+  },
+  {
+    "name": "TERMINALES"
+  },
+  {
+    "name": "TONILLOS COMPLETOS 1/2\" x 1/2\""
+  },
+  {
+    "name": "CUADRADO 6\" X 6\" X 1/2\" "
+  },
+  {
+    "name": "PLACA 1\" X 1.20 MT"
+  },
+  {
+    "name": "CINTA POLYPATCH"
+  },
+  {
+    "name": "MANGUERA  ALTA PRESION 1/2"
+  },
+  {
+    "name": "MANGUERA ALTA PRESION 3/4"
+  },
+  {
+    "name": "BOMBA DE AGUA RE546917"
+  },
+  {
+    "name": "BOMBA CEBADORA RE68345"
+  },
+  {
+    "name": "CUÑAS DE 3/8\""
+  },
+  {
+    "name": "POLYSEAL B 1.375-1.625-0.250"
+  },
+  {
+    "name": "ORING NBR70 IN 2.125-2.250-0.062"
+  },
+  {
+    "name": "GE 2.500-0.500-0.125"
+  },
+  {
+    "name": "OIL SEAL TC 60-85-10 NBR70"
+  },
+  {
+    "name": "PIZARRON BLANCO 40X60"
+  },
+  {
+    "name": "MARCADOR PARA PIZARRON BLANCO"
+  },
+  {
+    "name": "TERMINAL DE DIRECCION IZQUIERDA"
+  },
+  {
+    "name": "TERMINAL DE DIRECCION DERECHA"
+  },
+  {
+    "name": "SENSOR DE PRECIPITACION "
+  },
+  {
+    "name": "SOLUCION CALIBRADORA DE PH HANNA 7.01"
+  },
+  {
+    "name": "SOLUCION CALIBRADORA DE PH HANNA 4.01"
+  },
+  {
+    "name": "MARCADOR PERMANENTE AZUL"
+  },
+  {
+    "name": "MARCADOR SHARPIE VARIOS COLORES"
+  },
+  {
+    "name": "KIT PARA PIZARRON BLANCO"
+  },
+  {
+    "name": "GARRAFONES DE AGUA "
+  },
+  {
+    "name": "SOLUCIONES PARA CALIBRACIÓN DE EQUIPOS LAQUAS (HORIBAS). PARA LOS 6 APARATOS: POTASIO, SODIO, CALCIO, NITRATO, CONDUCTIVIDAD ELÉCTRICA, PH. CADA APARATO REQUIERE DE DOS SOLUCIONES, LA PRESENTACIÓN REQUERIDA ES LA DE 1 L"
+  },
+  {
+    "name": "IMPERMEABLE AMARILLO G"
+  },
+  {
+    "name": "MOUSE PAD"
+  },
+  {
+    "name": "GUANTES DE LICRA CON CUBIERTA DE NITRILO"
+  },
+  {
+    "name": "REFIGERADOR 14\""
+  },
+  {
+    "name": "LIMPIADOR MULTIUSOS"
+  },
+  {
+    "name": "BRIDA PARA TINACO (2\" A 1/4\")"
+  },
+  {
+    "name": "ENGARGOLADOS "
+  },
+  {
+    "name": "APPLE 5G IPHONE 16 128GB NEGRO"
+  },
+  {
+    "name": "APPLE 5G IPHONE 15 o 16 BLACK"
+  },
+  {
+    "name": "SEMILLA DE ALBAHACA (OCIMUN BASILICUM)"
+  },
+  {
+    "name": "SERVILLETAS"
+  },
+  {
+    "name": "MEDIOS CANDADOS PASO 80"
+  },
+  {
+    "name": "MARTIN MS110 1\"1/2, CUÑERO DE 3/8 CON ELEMENTO SPIDER NEGRO (LOVEJOY)"
+  },
+  {
+    "name": "MARTIN MS110 1\", CUÑERO DE 1/4, CON SPIDER NEGRO (LOVE JOY)"
+  },
+  {
+    "name": "MARTIN MS1501\"3/4 , CUÑERO DE 3/8, CON SPIDER NEGRO(LOVE JOY)"
+  },
+  {
+    "name": "ELEMENTO SHL110 MARTIN HYTREL"
+  },
+  {
+    "name": "ELEMENTO SHL150 MARTIN HYTREL"
+  },
+  {
+    "name": "GRASA MULTIELITE (VERDE)"
+  },
+  {
+    "name": "SILICON DE ALTA TEMPERATURA ROJO"
+  },
+  {
+    "name": "125-250 POLYSEAL B1.125-1.375-0.250"
+  },
+  {
+    "name": "LIM.MET.IN MCU 1.250-1.750-0.312"
+  },
+  {
+    "name": "LAVABO DE MANOS"
+  },
+  {
+    "name": "PIJA HEXAGONAL 2\" "
+  },
+  {
+    "name": "PORTA CANDADOS"
+  },
+  {
+    "name": "CARGADOR DE PARED IPHONE"
+  },
+  {
+    "name": "CARGADOR DE PARED GALAXY S55"
+  },
+  {
+    "name": "CRISTAL PANTALLA GALAXY S54"
+  },
+  {
+    "name": "SAMSUNG 5G A55 128 GB NEGRO"
+  },
+  {
+    "name": "OPPO 4G A40 256 GB CAFÉ"
+  },
+  {
+    "name": "EXTINTOR DE PQS DE 6 KG PQS"
+  },
+  {
+    "name": "EXTINTOR DE PQS DE 2.5 KG PQS"
+  },
+  {
+    "name": "EXTINTOR DE PQS DE 1 KG PQS"
+  },
+  {
+    "name": "EXTINTOR DE CO2 DE 2.5 KG CO2"
+  },
+  {
+    "name": "EXTINTOR DE 2.5 KG DE PQS"
+  },
+  {
+    "name": "TORNILLO DE 3/8\""
+  },
+  {
+    "name": "MICLOBUTANIL (RALLY)"
+  },
+  {
+    "name": "CAMIONETA PARA MECANICOS"
+  },
+  {
+    "name": "CLIP PARA CARPETA"
+  },
+  {
+    "name": "TORNILLOS COMPLTETOS  7/8 X 5"
+  },
+  {
+    "name": "SOLUCION BUFFER P.H. 7"
+  },
+  {
+    "name": "SOLUCION BUFFER P.H. 4"
+  },
+  {
+    "name": "SOLUCION CE 1288 "
+  },
+  {
+    "name": "SOLUCION CE 1.41"
+  },
+  {
+    "name": "SOLUCION NO3 150"
+  },
+  {
+    "name": "SOLUCION NO3 2000"
+  },
+  {
+    "name": "SOLUCION K 150"
+  },
+  {
+    "name": "SOLUCION K 2000"
+  },
+  {
+    "name": "SOLUCION NA 150"
+  },
+  {
+    "name": "VINAGRE "
+  },
+  {
+    "name": "BOLSA 1*1"
+  },
+  {
+    "name": "MINI VÁLVULA INICIAL PARA CINTA C/GOMA 5/8\""
+  },
+  {
+    "name": "SET MARCADORES PARA PIZARRON BLANCO MAGISTRAL AZOR 8 COLORES"
+  },
+  {
+    "name": "ETIQUETA BLANCA"
+  },
+  {
+    "name": "ETIQUETA LAVANDA"
+  },
+  {
+    "name": "ETIQUETA NARANJA"
+  },
+  {
+    "name": "ETIQUETA TURQUESA"
+  },
+  {
+    "name": "SUAJE DE CORTE"
+  },
+  {
+    "name": "RIBBON DE RESINA NEGRO "
+  },
+  {
+    "name": "CUBETA 16 KG GRASA CHASISE-LITE"
+  },
+  {
+    "name": "BUJIA AUTOLITE"
+  },
+  {
+    "name": "CUBETA GEAR OIL SAE 80W- 90"
+  },
+  {
+    "name": "FOSFOROS"
+  },
+  {
+    "name": "NANO WIRELESS USB ADAPTER"
+  },
+  {
+    "name": "DISCO DURO EXTERNO"
+  },
+  {
+    "name": "PIZARRON BLANCO "
+  },
+  {
+    "name": "POLIPACH, CINTA TRANAPARENTE"
+  },
+  {
+    "name": "GOTERO PC-2 Litros"
+  },
+  {
+    "name": "LATA DE PINTURA BLANCO AEROSOL"
+  },
+  {
+    "name": "ALGODÓN"
+  },
+  {
+    "name": "CONEXIONES"
+  },
+  {
+    "name": "AGUJAS"
+  },
+  {
+    "name": "DISPOSITIVO MOVIL CON LINEA"
+  },
+  {
+    "name": "GARRAFA DE ACEITE"
+  },
+  {
+    "name": "PLASTICO "
+  },
+  {
+    "name": "LAPICERO NEGRO "
+  },
+  {
+    "name": "PLUMONES SHARPIE "
+  },
+  {
+    "name": "PLUMON PARA PIZARRON"
+  },
+  {
+    "name": "HOJA DE PAPEL COLOR "
+  },
+  {
+    "name": "CINTA TRANSPARENTE "
+  },
+  {
+    "name": "ENGRAPADORA"
+  },
+  {
+    "name": "CUADERNO "
+  },
+  {
+    "name": "PARRILLAS REFRIGERADOR MABE CRISTAL TEMPLADO 53 CM X 34 CM"
+  },
+  {
+    "name": "ABATELENGUAS"
+  },
+  {
+    "name": "LAPICERO PERSONALIZADO "
+  },
+  {
+    "name": "GUANTE LICRA CH RECUBIERTO CON LATEX"
+  },
+  {
+    "name": "GUANTE LICRA MEDIANO RECUBIERTO CON LATEX"
+  },
+  {
+    "name": "BROCA 7/16"
+  },
+  {
+    "name": "TORNILLOS 7/16\" x 3\""
+  },
+  {
+    "name": "MANGUERA PARA OXIGENO"
+  },
+  {
+    "name": "ABRAZADERA 3/8\""
+  },
+  {
+    "name": "ORING #148"
+  },
+  {
+    "name": "REPUESTOS DE NAVAJA"
+  },
+  {
+    "name": "VALVULA REDUCTORA DE PRESIÓN, 3\" CON SELENOIDE DE 24 VAC"
+  },
+  {
+    "name": "CAJA TIPO CHALUPA 2X4 PLASTICO"
+  },
+  {
+    "name": "CINTAS DE AISLAR, ROJO, VERDE, AZUL Y NEGRO"
+  },
+  {
+    "name": "REFRESCOS"
+  },
+  {
+    "name": "CERVEZ"
+  },
+  {
+    "name": "BOTANAS"
+  },
+  {
+    "name": "AGUA MINERAL"
+  },
+  {
+    "name": "BEBIDAS NO ALCOHOLICAS"
+  },
+  {
+    "name": "FIBRA"
+  },
+  {
+    "name": "ABRAZADERA"
+  },
+  {
+    "name": "CUBETA DE ACEITE SAE 40, MULTIGRADO"
+  },
+  {
+    "name": "PAPEL HIDROSENSIBLE"
+  },
+  {
+    "name": "NAVAJAS TRIANGULO DORADO"
+  },
+  {
+    "name": "ROLLO DE RIBON"
+  },
+  {
+    "name": "IMPERMEABLE-COMPLETO"
+  },
+  {
+    "name": "IMPERMEABLES DESHECHABLES (BOLSA GRUESA?) (PONCHOS)"
+  },
+  {
+    "name": "GUANTES DE LICRA (DE LOS BUENOS)(PARES)"
+  },
+  {
+    "name": "BOTAS DE HULE (CUARTOS FRÍOS + LAVAR) (PARES) (5 DEL 25, 5 DEL 26 5 DEL 27 Y 5 DEL 28)"
+  },
+  {
+    "name": "CAMIONETA MECANICOS"
+  },
+  {
+    "name": "GAFAS TRANSPARENTES"
+  },
+  {
+    "name": "LIBRETA"
+  },
+  {
+    "name": "HOJAS (PAQUETE)"
+  },
+  {
+    "name": "MARCADORES"
+  },
+  {
+    "name": "GUANTES DE LATEX"
+  },
+  {
+    "name": "BOTAS DE SEGURIDAD INGES"
+  },
+  {
+    "name": "BANDA B62"
+  },
+  {
+    "name": "NAVAJAS MALLA SOMBRA CUTTER"
+  },
+  {
+    "name": "TINNER LT"
+  },
+  {
+    "name": "PINTURA BLANCA Litros"
+  },
+  {
+    "name": "JERINGAS 3 ML"
+  },
+  {
+    "name": "AGUA DESTILADA LT"
+  },
+  {
+    "name": "YODURO AL 100% LT"
+  },
+  {
+    "name": "YODO AL 2% 40ML C/U"
+  },
+  {
+    "name": "MANZANAS KG"
+  },
+  {
+    "name": "PAPAS KG"
+  },
+  {
+    "name": "BOLSA ECOLOGICA"
+  },
+  {
+    "name": "TERMOS DE ACERO"
+  },
+  {
+    "name": "LLAVERO DESTAPADOR "
+  },
+  {
+    "name": "GORRA NEGRA"
+  },
+  {
+    "name": "GORRA JASPE"
+  },
+  {
+    "name": "GORRA VERDE"
+  },
+  {
+    "name": "GORRA AZUL MARINO"
+  },
+  {
+    "name": "GORRA BEIGE"
+  },
+  {
+    "name": "GORRA CAFÉ"
+  },
+  {
+    "name": "CURZATE "
+  },
+  {
+    "name": "CINCHO NEGRO 2.5 MM"
+  },
+  {
+    "name": "CINCHO NEGRO 4.8 MM"
+  },
+  {
+    "name": "PLUMONES PARA PIZARRON "
+  },
+  {
+    "name": "LIBRETA FRANCESA"
+  },
+  {
+    "name": "CONTENEDOR PARA R.P.B. I."
+  },
+  {
+    "name": "CUBREBOCAS TRICAPA"
+  },
+  {
+    "name": "CEPILLO QUIRÚRGICO"
+  },
+  {
+    "name": "ENVASE DE PLASTICO RECTANGULAR CON TAPA "
+  },
+  {
+    "name": "TORUNDERO"
+  },
+  {
+    "name": "JABÓN QUIRÚRGICO"
+  },
+  {
+    "name": "CURITAS CAJA CON 100 Pzas"
+  },
+  {
+    "name": "BOTELLA DE ALCOHOL 250 ml"
+  },
+  {
+    "name": "AGUA OXIGENADA 250 ml"
+  },
+  {
+    "name": "VENDA DE 5cm PAQ. 12 PZAS"
+  },
+  {
+    "name": "VENDA DE 10cm PAQ. 12 PZAS"
+  },
+  {
+    "name": "GASA DE 10 X 10 CON 10 PZAS"
+  },
+  {
+    "name": "CINTA ADHESIVA 2.5 cm"
+  },
+  {
+    "name": "CONOS DE PAPEL DESECHABLES"
+  },
+  {
+    "name": "BAUMANÓMETRO DE BRAZALETE ADULTO "
+  },
+  {
+    "name": "TIRAS REACTIVAS CON 50 PZAS ACCU-CHEK"
+  },
+  {
+    "name": "LANCETAS DE 100 PZAS ACCU-CHEK"
+  },
+  {
+    "name": "TOALLAS SANITARIAS NOCTURNAS FEMENINAS"
+  },
+  {
+    "name": "ELECTROLITOS SOBRE EN POLVO"
+  },
+  {
+    "name": "LYSOL SPRAY AZUL"
+  },
+  {
+    "name": "TAPETE  DE GOMA PARA ENTRADA"
+  },
+  {
+    "name": "FIBRA PARA LIMPIAR "
+  },
+  {
+    "name": "LAPICERO ROJO"
+  },
+  {
+    "name": "SUJETADORES"
+  },
+  {
+    "name": "SUJETA DOCUEMNTOS"
+  },
+  {
+    "name": "PLASTICO DE EMPLAYE"
+  },
+  {
+    "name": "CHAROLAS PARA RACK DE ALMACENAJE"
+  },
+  {
+    "name": "PLASTICO DE EMPLAYE "
+  },
+  {
+    "name": "CONECTORES "
+  },
+  {
+    "name": "CAFÉ"
+  },
+  {
+    "name": "ETIQUETAS 12*8"
+  },
+  {
+    "name": "CELULAR NIVEL OPERATIVO"
+  },
+  {
+    "name": "FUNDA PARA LAPTOP "
+  },
+  {
+    "name": "LENTES OSCUROS"
+  },
+  {
+    "name": "BOBINA DE LAZO"
+  },
+  {
+    "name": "CUCHILLA  PARA MADERA B-18  "
+  },
+  {
+    "name": "VALVULA DE CIERRE DE ALUMINIO 3/4\""
+  },
+  {
+    "name": "PORTA GAFETE CON CORDON"
+  },
+  {
+    "name": "BOTE PARA BASURA CON PEDAL"
+  },
+  {
+    "name": "LIGAS #107 - 7 x 5⁄8\", NEGRAS, 178 x 16 mm"
+  },
+  {
+    "name": "TUBO ORGANIZADOR DE CABLES, TIPO ESPIRAL, NEGRO 2 CM DE DIAMETRO 1,5 DE LOGITUD"
+  },
+  {
+    "name": "GLADE AROMATIZANTE EN AEROSOL"
+  },
+  {
+    "name": "PAPEL HIGIENICO DE BOBINA"
+  },
+  {
+    "name": "CARPETA ARILLO BLANCA TAMAÑO CARTO 1 PULG"
+  },
+  {
+    "name": "CARPETA ARILLO BLANCA TAMAÑO CARTO 2 PULG"
+  },
+  {
+    "name": "SEPARADOR DE DOCUMENTOS TAMAÑO CARTA"
+  },
+  {
+    "name": "MULTICONTACTO DE 6 CONTACTOS"
+  },
+  {
+    "name": "PROBETA GRADUADA DE 1 Litros DE PLASTICO"
+  },
+  {
+    "name": "PERFIL 1X1 CAL 18"
+  },
+  {
+    "name": "GUANTES DE HULE ROJOS #7"
+  },
+  {
+    "name": "GUANTES DE HULE #8"
+  },
+  {
+    "name": "GUANTES DE HULE # 9"
+  },
+  {
+    "name": "OVEROL BLANCO DE FUMIGACION MEDIANO"
+  },
+  {
+    "name": "OVEROL BLANCO DE FUMIGACION GRANDE"
+  },
+  {
+    "name": "CAJA PLASTICA DE PVC PARA INSTALACION "
+  },
+  {
+    "name": "CHALECO NARANJA "
+  },
+  {
+    "name": "SOMBRILLA 2M"
+  },
+  {
+    "name": "ARRANCADOR ECOM QUIMICOS AUTOMOTRICES 610 ML"
+  },
+  {
+    "name": "MACHUELO 5/8NF"
+  },
+  {
+    "name": "MACHUELO 5/8NC"
+  },
+  {
+    "name": "MACHUELO DE MEDIA NC"
+  },
+  {
+    "name": "NAVAJA "
+  },
+  {
+    "name": "FOCOS LED, 60 W"
+  },
+  {
+    "name": "INTERRUPTOR SENCILLO, PARA SOBREPONER, 15AMP"
+  },
+  {
+    "name": "PLACAS DUPLEX PARA INTEMPERIE"
+  },
+  {
+    "name": "BISAGRA RECTANGULAR 4\""
+  },
+  {
+    "name": "PASADOR TIPO MOUSER, 14CM"
+  },
+  {
+    "name": "ESPUMA EXPANSIVA DE POLIURETANO, 500ML"
+  },
+  {
+    "name": "PASADOR TIPO PESTILLO PARA PUERTA, 5\""
+  },
+  {
+    "name": "ROOTEX, COSMOCEL"
+  },
+  {
+    "name": "LLAVES ALLEN 4MM"
+  },
+  {
+    "name": "LLAVES 3/16"
+  },
+  {
+    "name": "NAVAJA MONTE"
+  },
+  {
+    "name": "JUEGO DE PINZAS"
+  },
+  {
+    "name": "LIMATON "
+  },
+  {
+    "name": "AEROSOL TRANSPARENTE"
+  },
+  {
+    "name": "AEROSOL ALUMINIO"
+  },
+  {
+    "name": "CINTA TEFLON 1/2\""
+  },
+  {
+    "name": "IMPRESORA CL6NX PLUS, 203 dpi, 6.5\", TT, LAN/USB,SER,BLUETOOTH"
+  },
+  {
+    "name": "VOLANTES MEDIA CARTA "
+  },
+  {
+    "name": "GUANTES D ELATEX INDUSTRIALES LIBRES DE TALCO"
+  },
+  {
+    "name": "DESECANTES DE GEL DE SILICE1/2 GRAMO"
+  },
+  {
+    "name": "BOLSA CON CIERRE GROSOR 2 MIL 3*3CM, 1000"
+  },
+  {
+    "name": "INDICADORES D E HUMEDAD 10-60&"
+  },
+  {
+    "name": "SACAPUNTAS"
+  },
+  {
+    "name": "LAPTOP GAMA ALTA THINKPAD"
+  },
+  {
+    "name": "MEMORIA USB 32 GB"
+  },
+  {
+    "name": "CERRADURA PARA MUEBLE"
+  },
+  {
+    "name": "PINZAS PARA ANILLOS DE RETENCION"
+  },
+  {
+    "name": "JUEGO DE LLAVES COMBINADAS PRETUL 22 PZA C/U"
+  },
+  {
+    "name": "PINTURA DE TRAFICO AMARILLA (20 LITROS)"
+  },
+  {
+    "name": "BROCA METAL 1/4 PUNTA DE TUGSTENO (COBALTO) ALTA VELOCIDAD"
+  },
+  {
+    "name": "BROCA METAL 1/8 PUNTA DE TUGSTENO (COBALTO) ALTA VELOCIDAD"
+  },
+  {
+    "name": "BROCA METAL 1/16 PUNTA DE TUGSTENO (COBALTO) ALTA VELOCIDAD"
+  },
+  {
+    "name": "BROCA  METAL 3/16 PUNTA DE TUGSTENO (COBALTO)ALTA VELOCIDAD"
+  },
+  {
+    "name": "BROCA METAL 3/32 PUNTA DE TUGSTENO (COBALTO) ALTA VELOCIDAD"
+  },
+  {
+    "name": "BROCA METAL 5/32 PUNTA DE TUGSTENO (COBALTO) ALTA VELOCIDAD"
+  },
+  {
+    "name": "BROCA METAL 5/64 PUNTA DE TUGSTENO (COBALTO) ALTA VELOCIDAD"
+  },
+  {
+    "name": "BROCA METAL 7/64 PUNTA DE TUGSTENO (COBALTO) ALTA VELOCIDAD"
+  },
+  {
+    "name": "BROCA METAL 9/64 PUNTA DE TUGSTENO (COBALTO)ALTA VELOCIDAD"
+  },
+  {
+    "name": "BROCA METAL 11/64 PUNTA DE TUGSTENO (COBALTO) ALTA VELOCIDAD"
+  },
+  {
+    "name": "BROCA METAL 1/2 PUNTA DE TUGSTENO (COBALTO) ALTA VELOCIDAD"
+  },
+  {
+    "name": "BROCA CONCRETO 1/4 X 4\" SDS PLUS"
+  },
+  {
+    "name": "BROCA CONCRETO 1/4 X 6\" SDS PLUS"
+  },
+  {
+    "name": "BROCA CONCRETO 1/4 X 8\" SDS PLUS"
+  },
+  {
+    "name": "BROCA CONCRETO 1/4 X 10\" SDS PLUS"
+  },
+  {
+    "name": "BROCA CONCRETO 5/16 X 6\" SDS PLUS"
+  },
+  {
+    "name": "BROCA CONCRETO 5/16 X 12\" SDS PLUS"
+  },
+  {
+    "name": "BROCA CONCRETO 3/8 X 6\" SDS PLUS"
+  },
+  {
+    "name": "BROCA CONCRETO 3/8 X 12\" SDS PLUS"
+  },
+  {
+    "name": "BROCA CONCRETO 3/8 X 18\" SDS PLUS"
+  },
+  {
+    "name": "BROCA CONCRETO 1/2 X 6\" SDS PLUS"
+  },
+  {
+    "name": "BROCA CONCRETO 1/2 X 18\" SDS PLUS"
+  },
+  {
+    "name": "BROCA CONCRETO 5/8 X 8\" SDS PLUS"
+  },
+  {
+    "name": "BROCA CONCRETO 5/8 X 24\" SDS PLUS"
+  },
+  {
+    "name": "BROCA CONCRETO 3/4 X 8\" SDS PLUS"
+  },
+  {
+    "name": "BROCA CONCRETO 3/4 X 18\" SDS PLUS"
+  },
+  {
+    "name": "SEGUETA DE DIENTE FINO"
+  },
+  {
+    "name": "SEGUETA DE DIENTE ESTANDAR"
+  },
+  {
+    "name": "DISCO CORTE EXACTO 4 1/2\" MARC. AUSTROMEX CLAVE 781 METAL"
+  },
+  {
+    "name": "DISCO DE DESBASTE 4 1/2\" MARC. AUSTROMEX MOD.2004 METAL"
+  },
+  {
+    "name": "DISCO DE CORTE C/CAZUELA 4 1/2\" DESBASTE MARC AUSTROMEX CLAVE 2006 METAL"
+  },
+  {
+    "name": "BROCHA 1/2\""
+  },
+  {
+    "name": "BISERA PARA CASCO MSA PARA CASCO BLANCO"
+  },
+  {
+    "name": "LENTES CLAROS CIERRE HERMETICO"
+  },
+  {
+    "name": "LENTES OSCUROS CIERRE HERMETICO"
+  },
+  {
+    "name": "CINTA LIMITADORA MENSAJE \" PRECAUCION \""
+  },
+  {
+    "name": "GUANTE DE CARNASA PARA ELECTRICISTA"
+  },
+  {
+    "name": "GUANTE DE CARNASA LARGOS"
+  },
+  {
+    "name": "CONECTORES 1/2 GLANDULA PLASTICO"
+  },
+  {
+    "name": "CABLE USO RUDO 3X14 AWG"
+  },
+  {
+    "name": "CINTA AISLAR SCOTCH33 "
+  },
+  {
+    "name": "CINTA AISLAR 3M"
+  },
+  {
+    "name": "CONECTOR 3M ROJO-AMARILLO CABLE CAL. 12-10 AWG"
+  },
+  {
+    "name": "CONECTOR 3M AZUL- NARANJA CABLE CAL.14-12 AWG"
+  },
+  {
+    "name": "TUBO PARED DELGADA 3/4 "
+  },
+  {
+    "name": "COPLES 3/4"
+  },
+  {
+    "name": "CONECTORES 3/4"
+  },
+  {
+    "name": "CAJA CONDULET FSX ECONOMICA 3/4"
+  },
+  {
+    "name": "TAPA CIEGA METALICA"
+  },
+  {
+    "name": "CONDULET \"T\" 3/4"
+  },
+  {
+    "name": "CONDULET \"LB\" 3/4"
+  },
+  {
+    "name": "CONDULET \"C\" 3/4"
+  },
+  {
+    "name": "RIEL UNICANAL 4X2 LISO"
+  },
+  {
+    "name": "ABRAZADERA UNICANAL 1/2"
+  },
+  {
+    "name": "ABRAZADERA UNICANAL 3/4"
+  },
+  {
+    "name": "ABRAZADETRA OMEGA 3/4"
+  },
+  {
+    "name": "ABRAZADERA UÑA 3/4"
+  },
+  {
+    "name": "ABRAZADERA UÑA 1/2"
+  },
+  {
+    "name": "ITM 1X20 AMPERES TIPO NF"
+  },
+  {
+    "name": "ROLLO CABLE CALIBRE 12 COLOR BLANCO MARC. CONDULAT"
+  },
+  {
+    "name": "ROLLO CABLE CALIBRE 12 COLOR ROJO MARC. CONDULAT"
+  },
+  {
+    "name": "ROLLO CABLE CALIBLE 14 COLOR VERDE MARC. CONDULAT"
+  },
+  {
+    "name": "ROLLO CABLE CALIBRE 10 COLOR BLANCO MARC. CONDULAT"
+  },
+  {
+    "name": "ROLLO CABLE CALIBRE 10 COLOR ROJO MARC. CONDULAT"
+  },
+  {
+    "name": "ROLLO CABLE CALIBRE 14 COLOR VERDE MARC. CONDULAT"
+  },
+  {
+    "name": "APAGADOR DOBLE PALANCA MARC. LEVINTON"
+  },
+  {
+    "name": "TUBERIA CONDUIT PARED DELGADA 3/4"
+  },
+  {
+    "name": "CAJA FSX ECONOMICA 3/4"
+  },
+  {
+    "name": "APAGADOR PALANCA DOBLE MARC. LEVINTON"
+  },
+  {
+    "name": "TAPA METALICA PARA INTEMPERIE PARA APAGADOR PALANCA DOBLE"
+  },
+  {
+    "name": "CONDULET LB 3/4"
+  },
+  {
+    "name": "CONDULET C 3/4"
+  },
+  {
+    "name": "ITM NF 1X20 AMPERE"
+  },
+  {
+    "name": "TUBERIA CONDUIT PARED DELGADA 1/2"
+  },
+  {
+    "name": "COPLES 1/2"
+  },
+  {
+    "name": "CONECTORES 1/2"
+  },
+  {
+    "name": "CONECTORES CABLE USO RUDO 1/2"
+  },
+  {
+    "name": "REDUCCIONES 3/4- 1/2"
+  },
+  {
+    "name": "CONDULET T 1/2"
+  },
+  {
+    "name": "CONDULET C 1/2"
+  },
+  {
+    "name": "CONDULET LB 1/2"
+  },
+  {
+    "name": "RIEL UNICANAL 4X2"
+  },
+  {
+    "name": "ABRAZADERA OMEGA 1/2"
+  },
+  {
+    "name": "ABRAZADETA UÑA 3/8"
+  },
+  {
+    "name": "CAJA FS 3/4 SERIE ECONOMICA"
+  },
+  {
+    "name": "CAJA FSX 3/4 SERIE ECONOMICA "
+  },
+  {
+    "name": "ROLLO CABLE CAL.12 COLOR NEGRO MARC. CONDULAT"
+  },
+  {
+    "name": "ROLLO CABLE CAL.10 COLOR NEGRO MARC. CONDULAT "
+  },
+  {
+    "name": "PIJA PUNTA DE BROCA CABEZA HEXAGONAL 8X 1\""
+  },
+  {
+    "name": "PIJA PUNTA DE BROCA CABEZA HEXAGONAL 8X 1 1/2\""
+  },
+  {
+    "name": "PIJA PUNTA DE BROCA CABEZA HEXAGONAL 8X 1 1/4"
+  },
+  {
+    "name": "PIJA PUNTA DE BROCA CABEZA HEXAGONAL 8X 1/2"
+  },
+  {
+    "name": "PIJA PUNTA DE BROCA CABEZA HEXAGONAL 8X 2\""
+  },
+  {
+    "name": "TAQUETE 1/4 COLOR GRIS MARC ANKER"
+  },
+  {
+    "name": "PIJA CABEZA CRUZ 8X 1\""
+  },
+  {
+    "name": "PIJA CABEZA CRUZ 8X 1 1/2\""
+  },
+  {
+    "name": "PIJA CABEZA CRUZ 8X 1 1/4"
+  },
+  {
+    "name": "PIJA CABEZA CRUZ 8X 1/2"
+  },
+  {
+    "name": "PIJA CABEZA CRUZ 8X 2\""
+  },
+  {
+    "name": "PTR 4\" CAL.14"
+  },
+  {
+    "name": "PTR 4\"CAL.12"
+  },
+  {
+    "name": "RUEDAS DE 3\""
+  },
+  {
+    "name": "PTR 2\" CAL.14"
+  },
+  {
+    "name": "RIEL 1500 ZINTRO"
+  },
+  {
+    "name": "CARRETILLAS PARA RIEL 1500"
+  },
+  {
+    "name": "SOLERA 1\" X 1/8"
+  },
+  {
+    "name": "TORNILLOS 1/4 X 5\" ROSCA CORRIDA"
+  },
+  {
+    "name": "PERFIL 3/4 X 1 3/4 CAL.20"
+  },
+  {
+    "name": "PIJAS TALADRANTES 3/8 X 1\""
+  },
+  {
+    "name": "TORNILLOS 5/16 X 2\" "
+  },
+  {
+    "name": "TUERCA 5/16"
+  },
+  {
+    "name": "RONDANA PLANA OJILLO 5/16"
+  },
+  {
+    "name": "TAPON PARA CAJA FS 3/4"
+  },
+  {
+    "name": "TAPON PARA CAJA FS 1/2"
+  },
+  {
+    "name": "UNICANAL 4X2 LISO"
+  },
+  {
+    "name": "CAJA 3/4 GALVANIZADA "
+  },
+  {
+    "name": "TAPA 3/4 GALVANIZADA"
+  },
+  {
+    "name": "TUBERIA CONDUIT 1/2 PARED DELGADA"
+  },
+  {
+    "name": "CONDULET \"T\" 1/2"
+  },
+  {
+    "name": "CONDULET \"C\" 1/2"
+  },
+  {
+    "name": "CONDULET \"LB\" 1/2"
+  },
+  {
+    "name": "CABLE USO RUDO 3X14 "
+  },
+  {
+    "name": "CONDULET FSC 1/2 SERIE ECONOMICA"
+  },
+  {
+    "name": "APAGADOR SENCILLO "
+  },
+  {
+    "name": "PLACA 2 VENTANAS "
+  },
+  {
+    "name": "CONTACTO DOBLE CON PLACA COLOR BLANCO MARC. LEVINTON"
+  },
+  {
+    "name": "CONECTOR CABLE USO RUDO 1/2"
+  },
+  {
+    "name": "ROLLO CABLE CAL.14 COLOR NEGRO MARC. CONDULAT"
+  },
+  {
+    "name": "PIJA PUNTA BROCA CABEZA HEXAGONAL 8X 1 1/4"
+  },
+  {
+    "name": "PIJA PUNTA BROCA CABEZA HEXAGONAL 8X 1\""
+  },
+  {
+    "name": "PIJA 8 X 3/4\" CABEZA DE CRUZ"
+  },
+  {
+    "name": "PIJA 8 X 1 1/4 CABEZA DE CRUZ"
+  },
+  {
+    "name": "RONDANA PLANA OJILLO 1/4"
+  },
+  {
+    "name": "TAQUETE GRIS 1/4 MARC. ANKER"
+  },
+  {
+    "name": "TUBERIA CONDUIT 3/4 PARED DELGADA"
+  },
+  {
+    "name": "COPLES 1/2 "
+  },
+  {
+    "name": "CAJA FSX 1/2 SERIE ECONOMICA"
+  },
+  {
+    "name": "ABRAZADERA OMEGA 3/4"
+  },
+  {
+    "name": "ABRAZADERA UÑA 3/8"
+  },
+  {
+    "name": "CONECTORES ROJO-AMARILLO 3M CAL.12-10"
+  },
+  {
+    "name": "CINTA AISLAR"
+  },
+  {
+    "name": "CONTACTO DOBLE POLARIZADO CON PLACA COLOR BLANCO MARC. LEVINTON"
+  },
+  {
+    "name": "APAGADOR SENCILLO COLOR BLANCO MARC. LEVINTON"
+  },
+  {
+    "name": "PLACA 1 VENTANA COLOR BLANCO MARC.LEVINTON"
+  },
+  {
+    "name": "EQUIPO CELULAR"
+  },
+  {
+    "name": "ESTACAS DE MADERA"
+  },
+  {
+    "name": "MESA DE PLATICO CHICA 120CM "
+  },
+  {
+    "name": "TAG"
+  },
+  {
+    "name": "TARJETA SIM"
+  },
+  {
+    "name": "PROBETA GRADUADA DE 1 LITRO DE PLASTICO"
+  },
+  {
+    "name": "SOPORTE CON VENTILADOR PARA LAPTOP"
+  },
+  {
+    "name": "TONER COMPATIBLE RICOH NEGRO"
+  },
+  {
+    "name": "TONER COMPATIBLE RICOH AMARILLO"
+  },
+  {
+    "name": "MANGUERA REFORZADA "
+  },
+  {
+    "name": "SILLAS REFORZADAS PLEGABLES "
+  },
+  {
+    "name": "SILICON TRANSPARENTE"
+  },
+  {
+    "name": "MANGUERA PARA HIDROLAVADORA"
+  },
+  {
+    "name": "RONDANAS PLANAS 1/2\""
+  },
+  {
+    "name": "MITSUBISHI L200 4X4 DIESEL TM DE USO"
+  },
+  {
+    "name": "TARIMA PLASTICA "
+  },
+  {
+    "name": "CUBETA 19 LTS"
+  },
+  {
+    "name": "GUANTE NYLON "
+  },
+  {
+    "name": "BOTA HULE TALLA 24"
+  },
+  {
+    "name": "BOTA HULE TALLA 25"
+  },
+  {
+    "name": "BOTA HULE TALLA 26"
+  },
+  {
+    "name": "BOTE DE BASURA 121LT"
+  },
+  {
+    "name": "VASOS PLASTICOS "
+  },
+  {
+    "name": "JABON ROMA "
+  },
+  {
+    "name": "JABON PARA TRASTES"
+  },
+  {
+    "name": "CLORO "
+  },
+  {
+    "name": "CUBO PARA CARGADOR  TIPO C"
+  },
+  {
+    "name": "PTR 1\""
+  },
+  {
+    "name": "SOLERA 1\" x 1/4\""
+  },
+  {
+    "name": "LAMINAS DE 1.22 x 3.05 CAL.16"
+  },
+  {
+    "name": "TORNILLO 5/16\" X 2\" CON TUERCA DE SEGURIDAD"
+  },
+  {
+    "name": "CUCHILLAS"
+  },
+  {
+    "name": "MESA  PLEGABLE CHICA "
+  },
+  {
+    "name": "ARCHIVERO 4 GAVETAS "
+  },
+  {
+    "name": "MESA PLEGABLE "
+  },
+  {
+    "name": "CAMARA WEB "
+  },
+  {
+    "name": "TELEVISION"
+  },
+  {
+    "name": "IMPERMEABLES VS LA LLUVIA TALLA GRANDE"
+  },
+  {
+    "name": "ACEITE PARA MOTORES DE DOS TIEMPOS ENFRIADOS POR AIRE"
+  },
+  {
+    "name": "ACEITE MOTOR A GASOLINA DEL 40"
+  },
+  {
+    "name": "LONA 120-100"
+  },
+  {
+    "name": "BANERS 160-60"
+  },
+  {
+    "name": "VOLANTES 9 POR HOJA 1 MILLAR"
+  },
+  {
+    "name": "HOJAS DE COLORES PAQUETES"
+  },
+  {
+    "name": "AVENA AGATA"
+  },
+  {
+    "name": "FIBRA "
+  },
+  {
+    "name": "CEPILLO PARA SANITARIO "
+  },
+  {
+    "name": "TRAPO DE MICROFIBRA AZUL"
+  },
+  {
+    "name": "TRAPO DE MICROFIBRA VERDE"
+  },
+  {
+    "name": "PINO "
+  },
+  {
+    "name": "JABON PARA MANOS"
+  },
+  {
+    "name": "BOLSA DE BASURA XL"
+  },
+  {
+    "name": "TRAPEADOR DE MICROFIBRA"
+  },
+  {
+    "name": "SARRICIDA "
+  },
+  {
+    "name": "FIBRA DE ALUMINIO "
+  },
+  {
+    "name": "ATOMIZADOR PLASTICO 1L"
+  },
+  {
+    "name": "TRAPO DE MICROFIBRA GRIS"
+  },
+  {
+    "name": "RIBBON IMPRESORA 10 PIEZAS"
+  },
+  {
+    "name": "TINACO 1000 LTS"
+  },
+  {
+    "name": "MANERAL DE PARIHUELA CON VALVULA "
+  },
+  {
+    "name": "PINZAS DE DISECCION SIN DIENTES"
+  },
+  {
+    "name": "SELLO FECHADOR AUTOENTINTABLE  "
+  },
+  {
+    "name": "CORTINAS A 2 PANELES DE 132 X 213 CM C/U"
+  },
+  {
+    "name": "BARRA AJUSTABLE PARA CORTINA DE 96.52 CM A 274.32 CM DE ANCHO"
+  },
+  {
+    "name": "SOPORTE PARA LAPTOP RADIOSHACK"
+  },
+  {
+    "name": "PARACETAMOL"
+  },
+  {
+    "name": "IBUPROFENO"
+  },
+  {
+    "name": "KETOROLACO"
+  },
+  {
+    "name": "BIOMESINA COMPUESTA"
+  },
+  {
+    "name": "LOPERAMIDA"
+  },
+  {
+    "name": "ANTIGRIPAL"
+  },
+  {
+    "name": "LORATADINA/ BETAMETASONA 5.00mg/0.25mg"
+  },
+  {
+    "name": "NAFAZOLINA SOLUCIÓN OFTÁLMICA"
+  },
+  {
+    "name": "TARRO DE SULFADIAZINA DE PLATA"
+  },
+  {
+    "name": "VITACILINA UNGÜENTO"
+  },
+  {
+    "name": "DICLOFENACO EN GEL"
+  },
+  {
+    "name": "MICRODACYN 60 ml spray"
+  },
+  {
+    "name": "LIDOCAÍNA AL 2%"
+  },
+  {
+    "name": "LIDOCAÍNA EN SPRAY"
+  },
+  {
+    "name": "AVAPENA SOL INYECTABLE 20ml/ 2ml"
+  },
+  {
+    "name": "EQUIPO DE SUTURA"
+  },
+  {
+    "name": "SUTURA NYLON 3-0 T-5"
+  },
+  {
+    "name": "KRIT ANTISÉPTICO "
+  },
+  {
+    "name": "JERINGA DE 3 ml DE AGUJA NEGRA"
+  },
+  {
+    "name": "AGUA BIDESTILADA DE 1 L"
+  },
+  {
+    "name": "CAMPOS QUIRÚRJICOS DESECHABLES"
+  },
+  {
+    "name": "TIJERAS MAYO RECTAS CHICAS"
+  },
+  {
+    "name": "SOBRE BURBUJA "
+  },
+  {
+    "name": "RONDANA PLANA GALVANIZADA DE 1/2"
+  },
+  {
+    "name": "ABRAZADERA REFORZADA 6\""
+  },
+  {
+    "name": "PUNTAS"
+  },
+  {
+    "name": "TONER IMPRESORA HP 107 A"
+  },
+  {
+    "name": "DURETAN NEGRO "
+  },
+  {
+    "name": "TAG "
+  },
+  {
+    "name": "GUANTE DE CARNAZA PARA SOLDADOR"
+  },
+  {
+    "name": "MICAS TRANSPARENTES PARA CARETA"
+  },
+  {
+    "name": "GUANTES ANTICORTE"
+  },
+  {
+    "name": "GUANTES DE CARNAZA"
+  },
+  {
+    "name": "OBEROL ANTIFLAMA T 36 CON REFLEJANTE"
+  },
+  {
+    "name": "OBEROL ANTIFLAMA T 38  CON REFLEJANTE"
+  },
+  {
+    "name": "OVEROL ANTIFLAMA T 42  CON REFLEJANTE"
+  },
+  {
+    "name": "OBEROL ANTIFLAMA T EG  CON REFLEJANTE"
+  },
+  {
+    "name": "BOTAS DE CASQUILLO #25"
+  },
+  {
+    "name": "BOTAS DE CASQUILLO #26"
+  },
+  {
+    "name": "BOTAS DE CASQUILLO #27"
+  },
+  {
+    "name": "BOTAS DE CASQUILLO #28"
+  },
+  {
+    "name": "BOTAS DE CASQUILLO #29"
+  },
+  {
+    "name": "IMPERMEABLE EN CAPA GRANDE "
+  },
+  {
+    "name": "LAMPARA DE BUSQUEDA Y RESCATE PARA VELADOR  "
+  },
+  {
+    "name": "BOTA DE HULE # 27"
+  },
+  {
+    "name": "BOTAS DE HULE # 28"
+  },
+  {
+    "name": "CORREAS PARA CARGA CON TORNIQUETE - SIN FIN, 2\" X 27', 51 MM X 8 M"
+  },
+  {
+    "name": "CAMISOLA DE MEZCLILLA INÍFUGA  T EG"
+  },
+  {
+    "name": "OVEROL DE ALGODÓN T G"
+  },
+  {
+    "name": "OVEROL DE ALGODÓN T EG"
+  },
+  {
+    "name": "BOTAS DE CASQUILLO #24"
+  },
+  {
+    "name": "GUANTES DE CARNAZA SUAVES "
+  },
+  {
+    "name": "SEMILLA DE RABANO FORREJERO"
+  },
+  {
+    "name": "SEMILLA DE MOSTAZA"
+  },
+  {
+    "name": "SEMILLA DE FRIJOL"
+  },
+  {
+    "name": "SEMILLA DE BROCOLI"
+  },
+  {
+    "name": "MANGUERA HIDRAULICA 1/4\""
+  },
+  {
+    "name": "TUERCA DE SEGURIDAD 1/2\""
+  },
+  {
+    "name": "COPLE #12 CONICO"
+  },
+  {
+    "name": "BOQUILLA DE BALIN HIDRAULICO PLANA"
+  },
+  {
+    "name": "DESENGRASANTE INDUSTRIAL"
+  },
+  {
+    "name": "ANTISISE"
+  },
+  {
+    "name": "PISTOLA DE IMPACTO DE 1\" INALAMBRICA MILWAUKEE"
+  },
+  {
+    "name": "PISTOLA 3/8\" INALAMBRICA MILWAUKEE"
+  },
+  {
+    "name": "ESPARRAGO 1/2\""
+  },
+  {
+    "name": "TUERCA 1/2\""
+  },
+  {
+    "name": "ESPARRAGO 5/8\""
+  },
+  {
+    "name": "ESPARRAGO 3/4\""
+  },
+  {
+    "name": "BLOCK DE NOTAS DE REMISION"
+  },
+  {
+    "name": "COPLES 1\" "
+  },
+  {
+    "name": "CONECTORES 1\""
+  },
+  {
+    "name": "MONITORES 1\""
+  },
+  {
+    "name": "CONTRA 1\""
+  },
+  {
+    "name": "ITM 2X50 AMPERE PARA TABLERO NF"
+  },
+  {
+    "name": "ABRAZADERA UNICANAL 1\""
+  },
+  {
+    "name": "CONDULET LB 1\""
+  },
+  {
+    "name": "CONDULET T 1\""
+  },
+  {
+    "name": "CONDULET C 1\""
+  },
+  {
+    "name": "CONDULET LL 1\""
+  },
+  {
+    "name": "ABRAZADERA OMEGA 2\""
+  },
+  {
+    "name": "TUBO PAD MARC. VIAKON CON SUS LIGAS PARA ACOPLAR"
+  },
+  {
+    "name": "CAJAS GALVANIZADAS PARA DUCTO 2\" "
+  },
+  {
+    "name": "TAPAS GALVANIZADAS PARA CAJA"
+  },
+  {
+    "name": "TABLERO QO8 TIPO INDUSTRIAL MARC. SQUARE-D"
+  },
+  {
+    "name": "ITM 2X30 AMPERE PARA TABLERO QO8"
+  },
+  {
+    "name": "CAJA FSC 1\""
+  },
+  {
+    "name": "CONECTOR PARA CABLE USO RUDO 1\""
+  },
+  {
+    "name": "CINTA AISLAR MARC SCOTCH33"
+  },
+  {
+    "name": "ROLLO CABLE CAL.8 COLOR NEGRO MARC CONDULAT"
+  },
+  {
+    "name": "ROLLO CABLE CAL.8 COLOR ROJO MARC CONDULAT"
+  },
+  {
+    "name": "ROLLO CABLE CAL.8 COLOR BLANCO MARC CONDULAT"
+  },
+  {
+    "name": "ROLLO CABLE CAL.12 COLOR VERDE MAC CONDULAT"
+  },
+  {
+    "name": "PIJA PUNTA BROCA CABEZA HEXAGONAL 8X1 1/4"
+  },
+  {
+    "name": "PIJA PUNTA BROCA CABEZA HEXAGONAL 8X1 1/2"
+  },
+  {
+    "name": "PIJA PUNTA BROCA CABEZA HEXAGONAL 8X1\""
+  },
+  {
+    "name": "ABRAZADERA OMEGA 1\""
+  },
+  {
+    "name": "ABRAZADERA UÑA 1\""
+  },
+  {
+    "name": "ESPUMA DE POLIURETANO 500ML"
+  },
+  {
+    "name": "TUBERIA CONDUIT 1\" PARED DELGADA"
+  },
+  {
+    "name": "RECIBOS DE VENTA (DUPLICADO PARA ENTREGA DE COPIA A CLIENTE) FOLIO A PARTIR DE LA SERIE 148501"
+  },
+  {
+    "name": "REFLECTORES LED 100W PARA INTEMPERIE"
+  },
+  {
+    "name": "CABLE POT 12 AWG"
+  },
+  {
+    "name": "TABLERO QO4 PARA SOBREPONER"
+  },
+  {
+    "name": "INTERRRUPTOR TERMOMAGNETICO 1X20 AMP"
+  },
+  {
+    "name": "CONTACTO DOBLE POLARIZADO"
+  },
+  {
+    "name": "TAPAS PARA INTEMPERIE METALICA PARA CONTACTO"
+  },
+  {
+    "name": "CAJAS FSC 1/2 SERIE ECONOMICA"
+  },
+  {
+    "name": "CONECTORES CABLE USO RUDO 3/4"
+  },
+  {
+    "name": "CAJAS GRAPAS PARA CABLE POT CAL.12"
+  },
+  {
+    "name": "CINTA AISLAR SCOTCH33"
+  },
+  {
+    "name": "DISCO DE DESBASTE LAMINADO 4\""
+  },
+  {
+    "name": "CONEXIÓN PARA SOLDADORA HEMBRA 3/8\""
+  },
+  {
+    "name": "CONEXIÓN PARA SOLDADORA MACHO 3/8\""
+  },
+  {
+    "name": "FXN LINE END CAP 4\" KIT_ 43040-020730"
+  },
+  {
+    "name": "FLEX NET 4\" LINEA  DE DISTRIBUCIÓN"
+  },
+  {
+    "name": "BROCA 3/16\""
+  },
+  {
+    "name": "BROCA 1/8\""
+  },
+  {
+    "name": "ADAPTADOR 1/2\" x 3/8\""
+  },
+  {
+    "name": "PUNTAS 3/16\""
+  },
+  {
+    "name": "PUNTAS 4 MM"
+  },
+  {
+    "name": "PUNTAS 5MM"
+  },
+  {
+    "name": "PUNTAS 1/4\" x 1/2\""
+  },
+  {
+    "name": "MONITOR 1/2\""
+  },
+  {
+    "name": "CONTRA 1/2\""
+  },
+  {
+    "name": "MONITOR 3/4\""
+  },
+  {
+    "name": "CONTRA 3/4\""
+  },
+  {
+    "name": "ROSCA FLECHADA CROMADA 1/4\" X 60\""
+  },
+  {
+    "name": "RECIPIENTE DE COMBUSTIBLE CON BOQUILLA SMARTCONTROL A PRUEBA DE DERRAMES CON EMBUDO ADICIONAL, MANGO TRASERO, BOTE DE GAS ROJO DE 20 L"
+  },
+  {
+    "name": "EMBUDOS DE PLASTICO CON MANGUERA PARA COMBUSTIBLE"
+  },
+  {
+    "name": "TARIMAS ANTIDERRAME DE 124 CM X 124 CM"
+  },
+  {
+    "name": "ARPILLAS PARA PLANTA "
+  },
+  {
+    "name": "BANDERAS DE COLORES "
+  },
+  {
+    "name": "BIELDOS"
+  },
+  {
+    "name": "MESA DE CORTE "
+  },
+  {
+    "name": "BOLSA DE PLASTICO PERFORADA "
+  },
+  {
+    "name": "CAJAS PLASTICAS (PARA PALNTA)"
+  },
+  {
+    "name": "PTR 1 1/2\" CAL 14"
+  },
+  {
+    "name": "MASCARILLA CON FILTRO DE CARBON AD-140 MARC.ADIR"
+  },
+  {
+    "name": "PAPEL BELOMOL"
+  },
+  {
+    "name": "SILICON LOCTITE"
+  },
+  {
+    "name": "TRIANGULAR P/RE"
+  },
+  {
+    "name": "RETEN 90-118-12"
+  },
+  {
+    "name": "RETEN 70-95-10"
+  },
+  {
+    "name": "ORING 013 CAJA AZUL OM"
+  },
+  {
+    "name": "COLD ROLLED 1\" 1045 6 MTS"
+  },
+  {
+    "name": "MANGUERA #16  4 MALLAS C/CAMPANA 1.15 MTS"
+  },
+  {
+    "name": "MANGUERA #16  4 MALLAS C/CAMPANA 1.50 MTS"
+  },
+  {
+    "name": "MANGUERA #16  4 MALLAS C/CAMPANA 2 MTS"
+  },
+  {
+    "name": "CAJA FUSIBLES 20A / 600VCA CL. CC ACCION RETARDADA"
+  },
+  {
+    "name": "FUSIBLE DOBLE ELEMENTO 200A / 600 VCA 300 VCD CL.RK5 FRS-R-200"
+  },
+  {
+    "name": "COLD ROLLED 1\" 4140 6 MTS"
+  },
+  {
+    "name": "PLACA 3/8\"  130 CM x 30 CM"
+  },
+  {
+    "name": "RUEDA TRASERA MEDIANA DE PATINES"
+  },
+  {
+    "name": "NO BREAK"
+  },
+  {
+    "name": "CAMARAS DE VIGILANCIA "
+  },
+  {
+    "name": "IMPERMEABLE DE DOS PIEZAS DZ1005 TALLA GRANDE COLOR AZUL O COLOR NEGRO"
+  },
+  {
+    "name": "IMPERMEABLE DE DOS PIEZAS DZ1005 TALLA MEDIANA COLOR AZUL O COLOR NEGRO"
+  },
+  {
+    "name": "MANGUERA ANILLADA 2\""
+  },
+  {
+    "name": "COCAS LIGHT DE LATAS 24 PACK"
+  },
+  {
+    "name": " ESCURRIDOR PARA CUBIERTOS"
+  },
+  {
+    "name": "SET DE PLATOS"
+  },
+  {
+    "name": "CONTENEDOR PARA ALIMENTOS"
+  },
+  {
+    "name": "CACEROLA"
+  },
+  {
+    "name": "MICRO ONDAS"
+  },
+  {
+    "name": "SMART TV SAMSUNG"
+  },
+  {
+    "name": "CELULAR SAMSUNG GALAXY A36"
+  },
+  {
+    "name": "LICUADORA"
+  },
+  {
+    "name": "PLANCHA T-FA"
+  },
+  {
+    "name": "BOWLS"
+  },
+  {
+    "name": "TRAM JUEGO DE SARTENES"
+  },
+  {
+    "name": "SARTEN"
+  },
+  {
+    "name": "BATERIA DE COCINA"
+  },
+  {
+    "name": "LONA UR"
+  },
+  {
+    "name": "LIMPIADOR PARA LAPTOP \"COMPUCARE\""
+  },
+  {
+    "name": "DISPENSADOR DE AGUA ELECTRICO"
+  },
+  {
+    "name": "TRAPO MULTIUSOS"
+  },
+  {
+    "name": "ADAPTADOR USB A FAST ETHERNET RJ45"
+  },
+  {
+    "name": "MUEY 5/8\" x 3\" DE 40 CM"
+  },
+  {
+    "name": "MUEY 40CM X 3IN DE 5/8"
+  },
+  {
+    "name": "PTR 6IN X 3IN ESPESOR 1/4"
+  },
+  {
+    "name": "DESENGRASANTE PARA MOTOR"
+  },
+  {
+    "name": "JABON LIQUIDO DE CARROS"
+  },
+  {
+    "name": "GASOLINA"
+  },
+  {
+    "name": "DIESEL"
+  },
+  {
+    "name": "GAS PETROLEO"
+  },
+  {
+    "name": "FILTRO PARA MASCARILLA"
+  },
+  {
+    "name": "CASCO MSA COLOR BLANCO"
+  },
+  {
+    "name": "BISERA PAPA CASCO MSA PARA CASCO BLANCO"
+  },
+  {
+    "name": "GUANTE DE CARNAZA"
+  },
+  {
+    "name": "PLASTICO ANTIGOTEO HALS, 8.2X2M TRANSPARENTE"
+  },
+  {
+    "name": "LAMPARA DE BUSQUEDA Y RESCATE PARA VELADOR"
+  },
+  {
+    "name": "BOLIG BIC MED ROJO"
+  },
+  {
+    "name": "BORRADOR RED TOP AC1011 NEGRO"
+  },
+  {
+    "name": "BROCHE MAE METAL 80 MM"
+  },
+  {
+    "name": "PROTECTOR MEDIO DEPOT"
+  },
+  {
+    "name": "CINTA EMP 255 TRNS"
+  },
+  {
+    "name": "MARC ESTERBOOK AZUL"
+  },
+  {
+    "name": "MARCA TEXTOS AMARILLO MAJOR"
+  },
+  {
+    "name": "CUADERNO PROF SKYBOOK GO+7MM"
+  },
+  {
+    "name": "BOLIG BIC P FINO AZUL"
+  },
+  {
+    "name": "LAPIZ GRAFITO CON GOMA"
+  },
+  {
+    "name": "BORRADOR MIGAJON STRIKE"
+  },
+  {
+    "name": "ENGRAP MAPEP ADV ME TIRA"
+  },
+  {
+    "name": "TIJERA OFFICE DEPOT"
+  },
+  {
+    "name": "CALCULADORA BASICA CASIO"
+  },
+  {
+    "name": "PLUMA CORRECTOR SHAKEN"
+  },
+  {
+    "name": "TOALLAS INTERDOBLADAS"
+  },
+  {
+    "name": "PINZAS PUNTA ESTANDAR 8\"KLEN"
+  },
+  {
+    "name": "PINZAS DE CORTE DIAGONAL 8\"TULMEX"
+  },
+  {
+    "name": "GUANTE DE CARNAZA LARGOS"
+  },
+  {
+    "name": "MOCHILA PARAMEDICO"
+  },
+  {
+    "name": "MUEY 5/8\" X 3\" DE 40 CM "
+  },
+  {
+    "name": "TORNILLO CABEZA PLANA  1 1/4"
+  },
+  {
+    "name": "HILO NILON PARA COSER MALLA ANTIAFIDOS"
+  },
+  {
+    "name": "TORTON DE TEPETATE DE 7 M3 CRIBADO"
+  },
+  {
+    "name": "VARILLA CORRUGADA 3/8\" DE 6 M"
+  },
+  {
+    "name": "KIT ACCESORIOS PARA COMPRESOR DE AIRE CON MANGUERA"
+  },
+  {
+    "name": "BANDA"
+  },
+  {
+    "name": "GAS REFRIGERANTE"
+  },
+  {
+    "name": "PASTA PODA"
+  },
+  {
+    "name": "EXTENSION DE USO RUDO"
+  },
+  {
+    "name": "SOLDADURA 70/18 3/32\""
+  },
+  {
+    "name": "SOLDADURA 60/13 3/32\""
+  },
+  {
+    "name": "SOLERAS DE 1\" X 3/16\""
+  },
+  {
+    "name": "ACEITE HIDRAULICO"
+  },
+  {
+    "name": "PAPEL ADHESIVO"
+  },
+  {
+    "name": "ACEITE DE MOTOR 2 TIEMPOS"
+  },
+  {
+    "name": "CLAVIJA USO RUDO"
+  },
+  {
+    "name": "CARETA FACIAL PARA DESVASTE"
+  },
+  {
+    "name": "BOTES DE BASURA 80 LTS CON TAPA BALANCIN COLOR NEGRO"
+  },
+  {
+    "name": "ADITIVO PARA DESBROZADORA"
+  },
+  {
+    "name": "GROUND COVER ANTIMALEZA 130GR 4 M DE ANCHO X 100 M LARGO"
+  },
+  {
+    "name": "GROUND COVER ANTIMALEZA 130GR 2 M DE ANCHO POR 100 M DE LARGO"
+  },
+  {
+    "name": "PLUMONES SHARPIE ULTRA FINO"
+  },
+  {
+    "name": "LIBRETA MEDIA CARTA DE CUADRO PEQUEÑO PASTA DE PLASTICO"
+  },
+  {
+    "name": "JERINGAS 10 ML"
+  },
+  {
+    "name": "CLORO AL 15 %"
+  },
+  {
+    "name": "REGLA DE PLASTICO FLEXIBLE DE 30 CM"
+  },
+  {
+    "name": "CINCHOS DE PLASTICO DE 20 CM"
+  },
+  {
+    "name": "BOLSAS DE BASURA NEGRAS TAMAÑO MEDIANO"
+  },
+  {
+    "name": "RESORTES DE ALAMBRE DE 1 CM ANCHO POR 2 METROS DE LARGO"
+  },
+  {
+    "name": "CADENA PULIDA 1/8\""
+  },
+  {
+    "name": "ARENA"
+  },
+  {
+    "name": "MALLA MOSQUITERO"
+  },
+  {
+    "name": "GEOMEMBRANA DE 1 MM DE ESPESOR POR 1 M DE ANCHO POR 100 M DE LARGO"
+  },
+  {
+    "name": "PINTURA EN AEROSOL ROSA"
+  },
+  {
+    "name": "LLANTAS DE CARRETILLA 4.008 IMPONCHABLE"
+  },
+  {
+    "name": "TRAMPA DELTA DE FEROMONAS PARA GUSANO COGOLLERO"
+  },
+  {
+    "name": "DISPENSADOR DE AGUA FRIA Y CALIENTE"
+  },
+  {
+    "name": "SOBRE DE SUERO HIDRO 220 PARA 20 LT SABOR LIMON, NARANJA, JAMAICA"
+  },
+  {
+    "name": "GUANTES DE ANSELL MICROFLEX 93-252 TEXTURIZADOS"
+  },
+  {
+    "name": "ETIQUETA VERDE"
+  },
+  {
+    "name": "CHAROLAS DE 91 CAVIDADES "
+  },
+  {
+    "name": "CORTEZA DE COCO "
+  },
+  {
+    "name": "SEGUETA PARA CALADORA"
+  },
+  {
+    "name": "GUANTE LATEX L"
+  },
+  {
+    "name": "MARTIN MS 150 ABIERTO A 1.1/2\""
+  },
+  {
+    "name": "MOTOBOMBA 13.1 HP 4 TIEMPOS HYUNDAI"
+  },
+  {
+    "name": "RONDANA PLANA 5/16\""
+  },
+  {
+    "name": "TORNILLO 1/4\" X 5\""
+  },
+  {
+    "name": "PIJA PUNTA DE BROCA #8 X 1/2\""
+  },
+  {
+    "name": "PIJA PUNTA DE BROCA #8 X 1\""
+  },
+  {
+    "name": "PIJA PUNTA DE BROCA #8 X 1 1/4\""
+  },
+  {
+    "name": "PIJA PUNTA DE BROCA #8 1 1/2\""
+  },
+  {
+    "name": "RUEDAS DE 3\" RO-114"
+  },
+  {
+    "name": "PAPEL WELOMOY"
+  },
+  {
+    "name": "OVEROL ANTIFLAMA T 44 CON REFLEJANTE"
+  },
+  {
+    "name": "OVEROL ANTIFLAMA T 46 CON REFLEJANTE"
+  },
+  {
+    "name": "MANGERA 3/4\" VERDE"
+  },
+  {
+    "name": "BOLSA DE BASURA 60X90"
+  },
+  {
+    "name": "PIZARRON TABLERO CORCHO OD 90X120"
+  },
+  {
+    "name": "CLIP MAE STD No. 2"
+  },
+  {
+    "name": "CARPETA PANORAMICA &QUOT"
+  },
+  {
+    "name": "GRAPAS ESTANDAR PILOT C/5040"
+  },
+  {
+    "name": "BOLSA TRANSPARENTE BAJA DENSIDAD 65 X 23 X 23 X 90"
+  },
+  {
+    "name": "CAJA STRONG BOX 30 (FRESCO PACK)"
+  },
+  {
+    "name": "YUTES"
+  },
+  {
+    "name": "CAJAS ABATIBLES "
+  },
+  {
+    "name": "CAJAS DE PLÁSTICO (900) PLANTAS X CAJA (918 PLANTAS PROMEDIO EN 2024)"
+  },
+  {
+    "name": "BOLSAS EMPAQUE (65X23X23X90)"
+  },
+  {
+    "name": "TARIMAS"
+  },
+  {
+    "name": "ESQUINEROS"
+  },
+  {
+    "name": "FLEJE (ROLLO COMPLETO)"
+  },
+  {
+    "name": "GRAPAS"
+  },
+  {
+    "name": "CHALECOS DE SEGURIDAD (AZUL) INGENIEROS"
+  },
+  {
+    "name": "CHALECOS DE SEGURIDAD (VERDE) CABOS"
+  },
+  {
+    "name": "CHALECOS DE SEGURIDAD (NARANJA) CAMPO"
+  },
+  {
+    "name": "CHALECOS DE SEGURIDAD (VINO)CALIDADS Y RH"
+  },
+  {
+    "name": "YUTE (GRUESOS, NO ULINE)"
+  },
+  {
+    "name": "ETIQUETA PMS 290 3\" X 4\""
+  },
+  {
+    "name": "ETIQUETA PMS 7636C- MAGENTA 3\" X 4\""
+  },
+  {
+    "name": "ETIQUETA PMS 361 GREEN 3\" X 4\""
+  },
+  {
+    "name": "ETIQUETA PURPLE 3\" X 4\""
+  },
+  {
+    "name": "ETIQUETA PROCESS YELLOW PMS 110 3\" X 4\""
+  },
+  {
+    "name": "ETIQUETA PMS 290 PMS 731 3\" X 4\""
+  },
+  {
+    "name": "ETIQUETA PROCESS  YELLOW PSM 032 3\" X 4\""
+  },
+  {
+    "name": "ETIQUETA PMS 182C PMS 414C 3\" X 4\""
+  },
+  {
+    "name": "ETIQUETA PMS 182C PMS 2728C 3\" X 4\""
+  },
+  {
+    "name": "ETIQUETA PMS 182C PMS 370 3\" X 4\""
+  },
+  {
+    "name": "ETIQUETA PROCESS YELLOW PMS 264C-VIOLET 3\" X 4\""
+  },
+  {
+    "name": "ETIQUETA PROCESS  YELLOW PMS 808C-TEAL 3\" X 4\""
+  },
+  {
+    "name": "ETIQUETA PMS 290 C - BABY BLUE PMS 361C-GREEN 3\" X 4\""
+  },
+  {
+    "name": "ETIQUETA PMS 290 C - BABY BLUE PMS 021C-ORANGE 3\" X 4\""
+  },
+  {
+    "name": "ETIQUETA PMS 182C - PINK PMS 032C-RED 3\" X 4\""
+  },
+  {
+    "name": "ETIQUETA PMS 182C - PINK PMS 4645C-TAN 3\" X 4\""
+  },
+  {
+    "name": "ETIQUETA PMS 182C - PINK PMS 808C-TEAL 3\" X 4\""
+  },
+  {
+    "name": "ETIQUETA PMS 032C-RED 3\" X 4\""
+  },
+  {
+    "name": "ETIQUETA PMS 366C- GRASS GREEN 3\" X 4\""
+  },
+  {
+    "name": "ETIQUETA PMS 264C- VIOLET 3\" X 4\""
+  },
+  {
+    "name": "ETIQUETA WHITE 3\" X 4\""
+  },
+  {
+    "name": "ETIQUETA LBP NEGRA"
+  },
+  {
+    "name": "ACEITERA TRUPER 500 ML"
+  },
+  {
+    "name": "ACEITERAS"
+  },
+  {
+    "name": "AFILADOR PARA TIJERAS"
+  },
+  {
+    "name": "AGUJA PARA COSEDORA CURVA 705912"
+  },
+  {
+    "name": "AGUJA PARA COSEDORA CURVA 9854G2001080"
+  },
+  {
+    "name": "AGUJA PARA MALLA"
+  },
+  {
+    "name": "AMARRADOR"
+  },
+  {
+    "name": "ARAÑA"
+  },
+  {
+    "name": "ARCOS"
+  },
+  {
+    "name": "ARNERO FINO"
+  },
+  {
+    "name": "ARO PARA DESHIERBA"
+  },
+  {
+    "name": "ASPERSORA MANUAL MARCA JACTO 20 LT"
+  },
+  {
+    "name": "ATOMIZADOR 2 LT TRUPER"
+  },
+  {
+    "name": "AZADON CHICO"
+  },
+  {
+    "name": "AZADON GRANDE"
+  },
+  {
+    "name": "AZADON PEQUEÑO"
+  },
+  {
+    "name": "BARRETA"
+  },
+  {
+    "name": "BASCULA DIGITAL GRAMERA"
+  },
+  {
+    "name": "BERNIER"
+  },
+  {
+    "name": "BIELDO CHICO"
+  },
+  {
+    "name": "BIELDO CURVO"
+  },
+  {
+    "name": "BOLA DE ARRASTRE 1 7/8\""
+  },
+  {
+    "name": "BOLA DE ARRASTRE 2\""
+  },
+  {
+    "name": "BOMBA DE ENGRANES"
+  },
+  {
+    "name": "BOMBA ELECTRICA 18 LT"
+  },
+  {
+    "name": "BOMBA HIDRATADORA 20 LT"
+  },
+  {
+    "name": "BOMBA MANUAL AZUL 20 LT"
+  },
+  {
+    "name": "BOMBA MANUAL BLANCA 20 LT"
+  },
+  {
+    "name": "BOMBA MOTOR CAMPERA"
+  },
+  {
+    "name": "BOMBA MOTOR STIHL"
+  },
+  {
+    "name": "BOQUILLA PARA AIRE"
+  },
+  {
+    "name": "BOQUILLA PARA SOPLETEAR"
+  },
+  {
+    "name": "BROCA PARA METAL 3/8\""
+  },
+  {
+    "name": "BROCHA 1\""
+  },
+  {
+    "name": "BROCHA 2\""
+  },
+  {
+    "name": "BROCHA 5\""
+  },
+  {
+    "name": "CABLES PARA PASAR CORREINTE"
+  },
+  {
+    "name": "CALADORA"
+  },
+  {
+    "name": "CARETA PARA SOLDAR"
+  },
+  {
+    "name": "CARGADOR PARA BATERIA DE PATIN ELECTRICO"
+  },
+  {
+    "name": "CARRITO FLEJADOR"
+  },
+  {
+    "name": "CEPILLO DE ALAMBRE"
+  },
+  {
+    "name": "CEPILLO DE PLASTICO"
+  },
+  {
+    "name": "CINCEL"
+  },
+  {
+    "name": "CINTA METRICA"
+  },
+  {
+    "name": "CIZALLA 14\""
+  },
+  {
+    "name": "CIZALLA 18\""
+  },
+  {
+    "name": "COMPRESORA CHICA"
+  },
+  {
+    "name": "COMPRESORA TRUPER"
+  },
+  {
+    "name": "TERMOSTATO DIGITAL"
+  },
+  {
+    "name": "CORTADOR DE ACEITE CHICO"
+  },
+  {
+    "name": "CORTADOR DE ACEITE GRANDE"
+  },
+  {
+    "name": "CORTADORA DE METAL"
+  },
+  {
+    "name": "CUCHARA DE ALBAÑIL"
+  },
+  {
+    "name": "CUCHILLO CURVO 7\""
+  },
+  {
+    "name": "DADO 1 1/8\" ESTANDAR"
+  },
+  {
+    "name": "DADO 1 3/8\" ESTANDAR"
+  },
+  {
+    "name": "DADO 1 5/8\" ESTANDAR"
+  },
+  {
+    "name": "DADO 1 7/16\" ESTANDAR"
+  },
+  {
+    "name": "DADO 1 1/16\" ESTANDAR"
+  },
+  {
+    "name": "DADO 1 3/16\" ESTANDAR"
+  },
+  {
+    "name": "DADO 1 5/16\" ESTANDAR"
+  },
+  {
+    "name": "DADO 3/4\" ESTANDAR"
+  },
+  {
+    "name": "DADO 3/8\" ESTANDAR"
+  },
+  {
+    "name": "DADO 7/8\" ESTANDAR"
+  },
+  {
+    "name": "DESARMADOR DE CRUZ"
+  },
+  {
+    "name": "DESARMADOR HEXAGONAL 5/16\" X 2 1/2\""
+  },
+  {
+    "name": "DESARMADOR PLANO"
+  },
+  {
+    "name": "DESPACHADOR DE TOALLA INTERDOBLADA"
+  },
+  {
+    "name": "EMBUDO CHICO PLASTICO"
+  },
+  {
+    "name": "EMBUDO DE LAMINA CHICO"
+  },
+  {
+    "name": "EMBUDO DE LAMINA GRANDE"
+  },
+  {
+    "name": "EMBUDO GRANDE PLASTICO"
+  },
+  {
+    "name": "EMBUDO MEDIANO PLASTICO"
+  },
+  {
+    "name": "ESCOBA"
+  },
+  {
+    "name": "ESCORFINA 8\""
+  },
+  {
+    "name": "ESCUADRA"
+  },
+  {
+    "name": "ESCUADRA MAGNETICA 3\" ESM-3"
+  },
+  {
+    "name": "ESMERILADORA"
+  },
+  {
+    "name": "ESPATULA 3\""
+  },
+  {
+    "name": "ESTACION METEOROLOGICA"
+  },
+  {
+    "name": "ETIQUETADORA"
+  },
+  {
+    "name": "EXTENCION ELECTRICA"
+  },
+  {
+    "name": "TENSIONADORA"
+  },
+  {
+    "name": "FLEXOMETRO 5 MTS"
+  },
+  {
+    "name": "FLOTA"
+  },
+  {
+    "name": "FRESA DE CARBURO (1/2X1-1/8X1/4\")"
+  },
+  {
+    "name": "FRESA DE CARBURO (1/2X1X1/4\")"
+  },
+  {
+    "name": "GATO HIDRAULICO DE 6 TON"
+  },
+  {
+    "name": "GATO HIDRAULICO DE PATIN 3 TON"
+  },
+  {
+    "name": "GUARDA DE ENCALADORA"
+  },
+  {
+    "name": "HACHA"
+  },
+  {
+    "name": "HIDROLAVADORA (NEGRA)"
+  },
+  {
+    "name": "HIDROLAVADORA 3300 PSI"
+  },
+  {
+    "name": "HIDROLAVADORA DE VAPOR"
+  },
+  {
+    "name": "IMAN PARA DADOS DE INCRIPTADORA"
+  },
+  {
+    "name": "IMPRESORA HP"
+  },
+  {
+    "name": "INYECTOR DE GRASA 28 GRMS"
+  },
+  {
+    "name": "JARRA DE 3 LT"
+  },
+  {
+    "name": "JUEGO DE SIERRA CIRCULAR PARA MADERA"
+  },
+  {
+    "name": "JUEGO DE DADOS (PRETUL) 39 PZA C/U"
+  },
+  {
+    "name": "JUEGO DE TARRAJAS"
+  },
+  {
+    "name": "LAMPARA DE MANO 15 LEDS"
+  },
+  {
+    "name": "LAMPARA RECARGABLE CABEZA 1 W"
+  },
+  {
+    "name": "LANZA PARA HIDROLAVADORA"
+  },
+  {
+    "name": "LIMA TRIANGULAR"
+  },
+  {
+    "name": "LIMATON"
+  },
+  {
+    "name": "LLANA DENTADA"
+  },
+  {
+    "name": "LLAVE 6 MM"
+  },
+  {
+    "name": "LLAVE ALLEN 1/4\" ESTANDAR"
+  },
+  {
+    "name": "LLAVE ALLEN 10 MM"
+  },
+  {
+    "name": "LLAVE ALLEN 3 MM"
+  },
+  {
+    "name": "LLAVE ALLEN 3/16\" ESTANDAR"
+  },
+  {
+    "name": "LLAVE ALLEN 3/8\" ESTANDAR"
+  },
+  {
+    "name": "LLAVE ALLEN 4 MM"
+  },
+  {
+    "name": "LLAVE ALLEN 5 MM"
+  },
+  {
+    "name": "LLAVE ALLEN 5.5 MM"
+  },
+  {
+    "name": "LLAVE ALLEN 5/16\" ESTANDAR"
+  },
+  {
+    "name": "LLAVE ALLEN 5/32\" ESTANDAR"
+  },
+  {
+    "name": "LLAVE ALLEN 7 MM"
+  },
+  {
+    "name": "LLAVE ALLEN 7/32\" ESTANDAR"
+  },
+  {
+    "name": "LLAVE ALLEN 8 MM"
+  },
+  {
+    "name": "LLAVE ALLEN 9/64\" ESTANDAR"
+  },
+  {
+    "name": "LLAVE MIXTA 7/16\" ESTANDAR"
+  },
+  {
+    "name": "LLAVE DE 17 MM"
+  },
+  {
+    "name": "LLAVE DE RASTRA"
+  },
+  {
+    "name": "LLAVE MIXTA 1 5/8\" ESTANDAR"
+  },
+  {
+    "name": "LLAVE MIXTA 1 3/16\" ESTANDAR"
+  },
+  {
+    "name": "LLAVE MIXTA 1 5/16\" ESTANDAR"
+  },
+  {
+    "name": "LLAVE MIXTA 1/2\" ESTANDAR"
+  },
+  {
+    "name": "LLAVE MIXTA 24 MM"
+  },
+  {
+    "name": "LLAVE MIXTA 25 MM"
+  },
+  {
+    "name": "LLAVE MIXTA 27 MM"
+  },
+  {
+    "name": "LLAVE MIXTA 29 MM"
+  },
+  {
+    "name": "LLAVE MIXTA 30 MM"
+  },
+  {
+    "name": "LLAVE MIXTA 20 MM"
+  },
+  {
+    "name": "LLAVE MIXTA 21 MM"
+  },
+  {
+    "name": "LLAVE MIXTA 22 MM"
+  },
+  {
+    "name": "LLAVE MIXTA 23 MM"
+  },
+  {
+    "name": "LLAVE STILSON 10\""
+  },
+  {
+    "name": "LLAVE STILSON 12\""
+  },
+  {
+    "name": "LLAVE STILSON 14\""
+  },
+  {
+    "name": "LLAVE STILSON 18\""
+  },
+  {
+    "name": "LLAVE UNIVERSAL DE CADENA"
+  },
+  {
+    "name": "LUPA 60 X"
+  },
+  {
+    "name": "MACETA 10 LB"
+  },
+  {
+    "name": "MACETA DE GOMA"
+  },
+  {
+    "name": "MACHETES"
+  },
+  {
+    "name": "MALETIN PARA LAQUA TWIN 6M USB"
+  },
+  {
+    "name": "MANDIL DE HERRERIA"
+  },
+  {
+    "name": "MANGUERA DE EQUIPO DE CORTE"
+  },
+  {
+    "name": "MANGUERA PARA AIRE 1/4\""
+  },
+  {
+    "name": "MANOMETRO GLICERINA 0-100 PSI 1/4\""
+  },
+  {
+    "name": "MANOMETRO 0-300 PSI"
+  },
+  {
+    "name": "MANOMETRO DE ACEITE DE RELOJ"
+  },
+  {
+    "name": "MANOMETRO DE TEMPERATURA DE RELOJ"
+  },
+  {
+    "name": "MAQUINA COSEDORA"
+  },
+  {
+    "name": "MARRO 10 LB"
+  },
+  {
+    "name": "MARRO 20 LB"
+  },
+  {
+    "name": "MARTILLO"
+  },
+  {
+    "name": "MASCARILLA COMPLETA 3M"
+  },
+  {
+    "name": "MASCARILLA COMPLETA TRUPER"
+  },
+  {
+    "name": "MECHERO"
+  },
+  {
+    "name": "MEDIDOR DE PH 4 EN 1"
+  },
+  {
+    "name": "MEDIDOR COMPACTO DE CONDUCTIVIDAD"
+  },
+  {
+    "name": "MEDIDOR DE 250 ML"
+  },
+  {
+    "name": "MEDIDOR DE 50 ML"
+  },
+  {
+    "name": "MEDIDOR DE BOLSILLO PARA PH GROLINE"
+  },
+  {
+    "name": "MEDIDOR DE CALCIO LAQUA TWIN-HORIB"
+  },
+  {
+    "name": "MEDIDOR DE EC LAQUA TWIN-HORIBA"
+  },
+  {
+    "name": "MEDIDOR DE NITRATOS LAQUA-TWIN"
+  },
+  {
+    "name": "MEDIDOR DE PH LAQUA TWIN-HORIBA"
+  },
+  {
+    "name": "MEDIDOR DE POTASIO LAQUA TWIN-HORIB"
+  },
+  {
+    "name": "MEDIDOR DE SODIO LAQUA TWIN-HORIB"
+  },
+  {
+    "name": "MICROSCOPIO DE BOLSILLO MICRO FLIP"
+  },
+  {
+    "name": "MOTOR 200 HP"
+  },
+  {
+    "name": "MOTOR 400 HP"
+  },
+  {
+    "name": "MOTOR PARA PIBOTE"
+  },
+  {
+    "name": "MOTORES DE ASPERSORA"
+  },
+  {
+    "name": "NIVEL DE MANO"
+  },
+  {
+    "name": "OZ"
+  },
+  {
+    "name": "PALA CHAROLA METAL"
+  },
+  {
+    "name": "PALA CHAROLA PLASTICA"
+  },
+  {
+    "name": "PALA DERECHA"
+  },
+  {
+    "name": "PALITA JARDINERA"
+  },
+  {
+    "name": "PATIN ELECTRICO"
+  },
+  {
+    "name": "PATIN HIDRAULICO MANUAL"
+  },
+  {
+    "name": "PERICO 10\""
+  },
+  {
+    "name": "PERICO 12\""
+  },
+  {
+    "name": "PERICO 15\""
+  },
+  {
+    "name": "PICO"
+  },
+  {
+    "name": "PIE PARA TRAILA"
+  },
+  {
+    "name": "PILAS MILWAKE 18 V 5 AMP"
+  },
+  {
+    "name": "PINZA DE ELECTRICISTA"
+  },
+  {
+    "name": "PINZA PARA GRAPA DE FLEJE"
+  },
+  {
+    "name": "PINZAS DE CORTE"
+  },
+  {
+    "name": "PINZAS DE PRESION"
+  },
+  {
+    "name": "PINZAS DE PUNTA"
+  },
+  {
+    "name": "PINZAS DE PUNTA CURVA"
+  },
+  {
+    "name": "PINZAS MECANICAS"
+  },
+  {
+    "name": "PINZAS PARA TIERRA 500 A"
+  },
+  {
+    "name": "PINZAS PORTA ELECTRODOS 500 A"
+  },
+  {
+    "name": "PISON"
+  },
+  {
+    "name": "PISTOLA DE IMPACTO DE AIRE 1/2\""
+  },
+  {
+    "name": "PISTOLA DE IMPACTO DE AIRE1/2\""
+  },
+  {
+    "name": "PISTOLA PARA RIEGO (TRUPER)"
+  },
+  {
+    "name": "PISTOLA PARA SILICON"
+  },
+  {
+    "name": "PLANTA PARA SOLDAR"
+  },
+  {
+    "name": "PLOMADA"
+  },
+  {
+    "name": "POLEA DE ALUMINIO 2\""
+  },
+  {
+    "name": "PONCHADORAS"
+  },
+  {
+    "name": "PULIDORA"
+  },
+  {
+    "name": "PUNTA PARA TALADRO 1/4\""
+  },
+  {
+    "name": "PUNTA PARA TALADRO 3/8\""
+  },
+  {
+    "name": "PUNTA PARA TALADRO 5/16\""
+  },
+  {
+    "name": "QUITA ETIQUETAS"
+  },
+  {
+    "name": "RADIOS"
+  },
+  {
+    "name": "RASTRILLO"
+  },
+  {
+    "name": "RECOGEDOR DE MANO"
+  },
+  {
+    "name": "REMACHADORA DE ACORDEON"
+  },
+  {
+    "name": "REMACHADORAS"
+  },
+  {
+    "name": "RODILLO PEQUEÑO DE PLASTICO"
+  },
+  {
+    "name": "SACA CEPELLON"
+  },
+  {
+    "name": "SACA FILTROS"
+  },
+  {
+    "name": "SERRUCHO"
+  },
+  {
+    "name": "TALADRO"
+  },
+  {
+    "name": "BOMBA HIDRONEUMATICA 1/2 HP 24 LT"
+  },
+  {
+    "name": "BOMBA HIDRONEUMATICA 1/2 HP 50 LT"
+  },
+  {
+    "name": "TECLADO INALAMBRICO"
+  },
+  {
+    "name": "TENSIOMETRO"
+  },
+  {
+    "name": "TERMO TRUPER"
+  },
+  {
+    "name": "TIJERA PARA PODAR NARANJA"
+  },
+  {
+    "name": "TIJERAS PARA LAMINA"
+  },
+  {
+    "name": "TIJERAS PARA PODAR ROJAS"
+  },
+  {
+    "name": "TIJERAS TRUPER 8\""
+  },
+  {
+    "name": "TINAS DE ACERO INOXIDABLE"
+  },
+  {
+    "name": "TINAS DE PLASTICO"
+  },
+  {
+    "name": "VOLTEADOR DE CONCRETO"
+  },
+  {
+    "name": "LLAVE STILSON 36\""
+  },
+  {
+    "name": "TERMOHIGROMETRO ANALOGICO REDONDO ALL 23473701"
+  },
+  {
+    "name": "TESTER PARA SUELO PH HUMEDAD LUZ ALLA F 23473701"
+  },
+  {
+    "name": "TERMOMETRO CUADRANTE ACERO INOX A 23473701"
+  },
+  {
+    "name": "BOMBA CENTRIFUGA 4 HP 3 FASES 230-460 V 2\""
+  },
+  {
+    "name": "PINZA PELACABLE AUTOMATICA MARCA KLEIN"
+  },
+  {
+    "name": "DESARMADOR DE CRUZ AISLADO PH#2 MARCA KLEIN"
+  },
+  {
+    "name": "MOTOBOMBA JET AQUAPAKFIX 15 E 1.5 HP"
+  },
+  {
+    "name": "KIT TERMOFUSOR PARA TUBO PLUS"
+  },
+  {
+    "name": "LLAVE COMBINADA 14MM - 17 MM"
+  },
+  {
+    "name": "LLAVE MIXTA 3/8\" ESTANDAR"
+  },
+  {
+    "name": "LLAVE 12 MM"
+  },
+  {
+    "name": "LLAVE 13 MM"
+  },
+  {
+    "name": "LLAVE COMBINADA 10MM - 12MM"
+  },
+  {
+    "name": "LLAVE MIXTA 1/4\" ESTANDAR"
+  },
+  {
+    "name": "LLAVE 8 MM"
+  },
+  {
+    "name": "LLAVE MIXTA 17 MM"
+  },
+  {
+    "name": "LLAVE MIXTA 19 MM"
+  },
+  {
+    "name": "LLAVE MIXTA 1 1/16\" ESTANDAR"
+  },
+  {
+    "name": "CALIBRADOR DE LLANTAS"
+  },
+  {
+    "name": "DADO PARA TARRAJA 1 1/4\""
+  },
+  {
+    "name": "CIZALLA 10\""
+  },
+  {
+    "name": "PICOLETA"
+  },
+  {
+    "name": "ESCUADRA COMBINADA 12\""
+  },
+  {
+    "name": "BAD ELF RECEPTOR GEOESPACIAL"
+  },
+  {
+    "name": "PROBADOR DE VOLTAJE ET 45"
+  },
+  {
+    "name": "PINZA AMPERIMETRICA (MULTIMETRO) MUT-202 TRUPER"
+  },
+  {
+    "name": "CUTTER RETRACTIL OLAF SK-4"
+  },
+  {
+    "name": "GPS MAP67 GARMIN"
+  },
+  {
+    "name": "LUPA METAL"
+  },
+  {
+    "name": "SELLOS LBP"
+  },
+  {
+    "name": "TERMOHIGROMETRO TA318"
+  },
+  {
+    "name": "TERMOMETRO DIGITAL DE PULPA"
+  },
+  {
+    "name": "TERMOMETRO DIGITAL INKBIRD"
+  },
+  {
+    "name": "TERMOMETRO DIGITAL PARA TEMPERATURA CORPORAL"
+  },
+  {
+    "name": "GENERADOR HYUNDAI HYE 6000"
+  },
+  {
+    "name": "LIMA PLANA METAL 6\""
+  },
+  {
+    "name": "DADO DE  1/2\" ESTANDAR"
+  },
+  {
+    "name": "IMPRESORA LASER  HP"
+  },
+  {
+    "name": "CABAHOYOS"
+  },
+  {
+    "name": "TANQUE ESTACIONARIO"
+  },
+  {
+    "name": "TANQUE DE GAS  20 KG"
+  },
+  {
+    "name": "GENERADOR  ANTARIX 2800"
+  },
+  {
+    "name": "DADO  28 MM"
+  },
+  {
+    "name": "CARRETILLA"
+  },
+  {
+    "name": "ESCALERA"
+  },
+  {
+    "name": "PIZON"
+  },
+  {
+    "name": "DIABLO DE CARGA"
+  },
+  {
+    "name": "JARRA 5 LT"
+  },
+  {
+    "name": "PUNTA DE CRUZ PARA TALADRO PH 2"
+  },
+  {
+    "name": "KIT DE HERRAMIENTAS PARA COSEDORA"
+  },
+  {
+    "name": "GATO DE PATIN"
+  },
+  {
+    "name": "LLAVE COMBINADA 10 MM - 13 MM"
+  },
+  {
+    "name": "BIELDO GRANDE"
+  },
+  {
+    "name": "CONTENEDOR DE COMBUSTIBLE"
+  },
+  {
+    "name": "MOTOSIERRA STILH MS 182 C 16"
+  },
+  {
+    "name": "DADO LARGO 1/2\" X 1/2\""
+  },
+  {
+    "name": "LLAVE 7 MM"
+  },
+  {
+    "name": "AGUJA PARA COSEDORA CURVA UY 143 GS"
+  },
+  {
+    "name": "JUEGO DESARMADORES PRETUL 8 PZA"
+  },
+  {
+    "name": "FLEXOMETRO TRUPER 5 MTR"
+  },
+  {
+    "name": "MALACATE 2 TON TRUPER"
+  },
+  {
+    "name": "VERNIER"
+  },
+  {
+    "name": "DESARMADOR DE CAJA 5/16\""
+  },
+  {
+    "name": "LLAVE COMBINADA 10 MM - 13 MM "
+  },
+  {
+    "name": "BIELDO GRANDE "
+  },
+  {
+    "name": "CONTENEDOR DE COMBUSTIBLE "
+  },
+  {
+    "name": "LIMA STHIL PARA CADENA"
+  },
+  {
+    "name": "PISTOLA DE GRAVEDAD"
+  },
+  {
+    "name": "ESCUADRA 16\""
+  },
+  {
+    "name": "CINTAS 5 MTR"
+  },
+  {
+    "name": "CONECTOR HEMBRA"
+  },
+  {
+    "name": "PISTOLA P/SOPLETE"
+  },
+  {
+    "name": "CONECTOR"
+  },
+  {
+    "name": "INFLADOR"
+  },
+  {
+    "name": "DADO 1 1/2\" ESTANDAR"
+  },
+  {
+    "name": "LLAVE MIXTA 5/8\" ESTANDAR"
+  },
+  {
+    "name": "LLAVE COMBINADA 13 MM - 15 MM "
+  },
+  {
+    "name": "LLAVE COMBINADA 16 MM - 18 MM "
+  },
+  {
+    "name": "JUEGO DE LLAVES ALLEN"
+  },
+  {
+    "name": "LLAVE SACA BUJIAS"
+  },
+  {
+    "name": "BROCA PARA METAL 1\""
+  },
+  {
+    "name": "BROCA PARA METAL 1/2\""
+  },
+  {
+    "name": "BROCA PARA CONCRETO 1\""
+  },
+  {
+    "name": "BROCA PARA CONCRETO 7/8\" X 22 CM"
+  },
+  {
+    "name": "BROCA PARA CONCRETO 1/2\" X 12 CM"
+  },
+  {
+    "name": "BROCA PARA CONCRETO 3/16\""
+  },
+  {
+    "name": "BROCA PARA CONCRETO 5 MM"
+  },
+  {
+    "name": "JUEGO DE DESARMADORES AISLANTES 1000V"
+  },
+  {
+    "name": "GENERADOR TRUPER GEN-25X"
+  },
+  {
+    "name": "LINTERNA RECARGABLE"
+  },
+  {
+    "name": "TANQUE NODRIZA 5000 LTS"
+  },
+  {
+    "name": "FUMIGADORA DE 600 LTS"
+  },
+  {
+    "name": "BOMBA CENTRIFUGA HORIZONTAL DE 2HP 3X 220/440 V"
+  },
+  {
+    "name": "ARCO CON SEGUETA"
+  },
+  {
+    "name": "REFRACTOMETRO DIGITAL GRADOS BRIX"
+  },
+  {
+    "name": "SENSOR DE HUMEDAD DE SUELO"
+  },
+  {
+    "name": "BOMBA CEBADORA (RE68345)"
+  },
+  {
+    "name": "BOMBA DE AGUA (RE546917)"
+  },
+  {
+    "name": "GATO HIDRAULICO DE 20 TONELADAS NEUMATICO "
+  },
+  {
+    "name": "ORGANIZADOR DE DADOS DE 1/2\" DE IMAN"
+  },
+  {
+    "name": "ORGANIZADOR DE DADOS DE 3/8 DE IMAN"
+  },
+  {
+    "name": "CARGADOR NOCO BOOST X GBX155 4250A 12V ULTRA FACE PORTABLE "
+  },
+  {
+    "name": "PINZAS"
+  },
+  {
+    "name": "PINZA PORTA AGUJA "
+  },
+  {
+    "name": "GATO HIDRAULICO 20 TN"
+  },
+  {
+    "name": "BOMBA DESPACHADORA DE COMBUSTIBLE"
+  },
+  {
+    "name": "PROBETA DE PLASTICO "
+  },
+  {
+    "name": "VASO MEDIDOR 2 Litros"
+  },
+  {
+    "name": "ENGRASADORA ELECTRICA "
+  },
+  {
+    "name": "LAVADORA "
+  },
+  {
+    "name": "SECADORA"
+  },
+  {
+    "name": "MANOMETROS DE ACEITE VDO FISICO"
+  },
+  {
+    "name": "PISTOLA ENGRASADORA V18 ELECTICAS MILWAUKEE 28W870 CON PILA Y CARGADOR"
+  },
+  {
+    "name": "PINZAS 12\""
+  },
+  {
+    "name": "NAVAJA"
+  },
+  {
+    "name": "CUBETAS DE 20 Litros"
+  },
+  {
+    "name": "COMBO LAVADORA Y SECADORA"
+  },
+  {
+    "name": "TIJERAS"
+  },
+  {
+    "name": "DESENROLLADOR DE MANGUERA DE PARIHUELA "
+  },
+  {
+    "name": "CONTROLADOR MARCA TORO"
+  },
+  {
+    "name": "MEDIDOR DE FÓSFORO (PPM) MARCA HANNA"
+  },
+  {
+    "name": "MEDIDOR DE CLORO (PPM) MARCA HANNA"
+  },
+  {
+    "name": "MEDIDOR DE CONDUCTIVIDAD ELÉCTRICA (C.E.) DIRECTO DE SUELO, MARCA SPECTRUM MOD. 2266FS"
+  },
+  {
+    "name": "MEDIDOR DE ALCALINIDAD, MARCA HANNA. MOD. HI 755 "
+  },
+  {
+    "name": "MEDIDOR DE HUMEDAD EN SUELO Y SUSTRATO. MARCA FIELDSCOUT, MOD. TDR 150 6445"
+  },
+  {
+    "name": "MEDIDOR DE MAGNESIO MARCA HANNA, MOD. HC HI 783"
+  },
+  {
+    "name": "TIJERAS DE ALTA PRECISIÓN. BEADITIVE"
+  },
+  {
+    "name": "PINZAS DE ALTA PRECIOS. BEADITIVE"
+  },
+  {
+    "name": "MEDIDOR DE RADIACIÓN, MARCA FIELDSCOUT. LIGHTSCOUT: UV, PAR, ROJO/ROJO LEJANO"
+  },
+  {
+    "name": "PATINES ELECTRICOS"
+  },
+  {
+    "name": "BIELDOS MINEROS"
+  },
+  {
+    "name": "ESCOBAS"
+  },
+  {
+    "name": "CARRETILLAS (DE PREFERENCIA IMPONCHABLES) (EXPLORAR OPCIONES)"
+  },
+  {
+    "name": "JALADORES DE AGUA"
+  },
+  {
+    "name": "TERMOMETRO PULPA (5 BUENOS Y LOS DEMÁS NORMALES)"
+  },
+  {
+    "name": "MOCHILAS PARA HIDRATAR"
+  },
+  {
+    "name": "BINS"
+  },
+  {
+    "name": "CHAPEADORA VRISSIMO COTIZAR DIFERENTES TAMAÑOS (FLAIL MOWER)"
+  },
+  {
+    "name": "MOTOBOMBA LODOS 4\""
+  },
+  {
+    "name": "CASCOS"
+  },
+  {
+    "name": "BANNER 60*160"
+  },
+  {
+    "name": "LONA 3X5"
+  },
+  {
+    "name": "ETIQUETAS 12*10"
+  },
+  {
+    "name": "CUCHILLO PARA LINOLEO (7.50)"
+  },
+  {
+    "name": "TERMOMETRO DIGITAL ."
+  },
+  {
+    "name": "OXÍMETRO ADULTO"
+  },
+  {
+    "name": "BICLETA, RODADA 26"
+  },
+  {
+    "name": "CAFETERA"
+  },
+  {
+    "name": "MOTOBOMBA STHIL SR 450"
+  },
+  {
+    "name": "BASCULA GRAMERA "
+  },
+  {
+    "name": "CASCO DE SEGURIDAD NARANJA "
+  },
+  {
+    "name": "CUCHARA 12\" MANGO MADERA"
+  },
+  {
+    "name": "CEPILLO INDUSTRIAL "
+  },
+  {
+    "name": "JALADOR INDUSTRIAL "
+  },
+  {
+    "name": "SOPLADOR DE HOJAS 2 TIEMPOS"
+  },
+  {
+    "name": "CONTADOR MANUAL "
+  },
+  {
+    "name": "CUTTER "
+  },
+  {
+    "name": "FLEXOMETRO "
+  },
+  {
+    "name": "EXTRACTOR DE POLEAS"
+  },
+  {
+    "name": "MANDRIL DE CIERRE RAPIDO EMBAL CODIGO 2123166"
+  },
+  {
+    "name": "TALABRO HILTI CON BROQUERO INTERCAMBIABLE SDS- BROQUERO NORMAL TE 3-ML 120V MALETIN 2122712"
+  },
+  {
+    "name": "TALADRO ATORNILLADOR INALAMBRICO MILWAUKEE MOD.2407-22   12V + ACCESORIO"
+  },
+  {
+    "name": "PORTA ATORNILLADOR "
+  },
+  {
+    "name": "DEWALT DW2235IR SET DE ATORNILLADORES MAGNETICOS PARA IMPACTO, 5 PIEZAS"
+  },
+  {
+    "name": "JUEGO DE BROCASIERRAS PARA ELECTRICISTAS NARANJA KLEIN TOOL 8 PIEZAS MODELO 31902"
+  },
+  {
+    "name": "KIT DE PUNZONES Y TROQUELES SLUG BUSTER DE 1/2\"- 2\" MARCA GREENLEE MOD.7238SB"
+  },
+  {
+    "name": "ESMERILADORA MAKITA 9557PB DE 4 1/2 \""
+  },
+  {
+    "name": "ESMERILADORA INALAMBRICA MILWAUKEE M18 ESMERILADORA INALAMBRICA 4 1/2 - 5\" 18V MODELO 2780-20"
+  },
+  {
+    "name": "PINZAS ELECTRICISTA PONCHADORA 9\" # KT215-9 MARC. KLEIN TOOLS"
+  },
+  {
+    "name": "PINZAS DE PUNTA ESTANDAR 8\" KLEIN TOOLS MODELO KT203-8, CORTE LATERAL, AMARILLO"
+  },
+  {
+    "name": "PINZAS DE CORTE DIAGONAL 8\" TULMEX MODELO 228-8, ROJO"
+  },
+  {
+    "name": "DESARMADOR STANLEY LLANA DE ACABADO LISA 320X130 MM STHT5899LA"
+  },
+  {
+    "name": "DESARMADOR DE CRUZ NUM 2 X 6 MOD.U9687 MARC URREA"
+  },
+  {
+    "name": "DESARMADOR URREA 9116G CON MANGO BIMETAL DE GOLPE PUNTA PLANA 1/4\"X 6\""
+  },
+  {
+    "name": "DESARMADOR MATRACA JDM-58 TRUPER 18220 CON 42 PUNTAS Y 14 DADOS"
+  },
+  {
+    "name": "DESARMADOR TRUPER DMP-33 MULTIPUNTA CON 33 PUNTAS"
+  },
+  {
+    "name": "DESARMADOR CON MATRACA 9EN1 MILWAUKEE MOD 48-22-2322"
+  },
+  {
+    "name": "FLEXOMETRO 5.5 M MARC. CADENA"
+  },
+  {
+    "name": "DESARMADOR KLEIN TOOL 32476 DESARMADOR 5 EN 1"
+  },
+  {
+    "name": "MARTILLO BOLA MAQUINADO 15\" DE 24 OZ"
+  },
+  {
+    "name": "CINCEL PUNTA PLANA"
+  },
+  {
+    "name": "CINCEL DE PUNTA"
+  },
+  {
+    "name": "PORTA HERRAMIENTA KLEIN TOOL 5240 10.25X5.5X10.25\""
+  },
+  {
+    "name": "PINZA KNIPEX 09 12 240 MODELO AMERICANO, PLATA, 240MM"
+  },
+  {
+    "name": "PINZA ELECTRICISTA KNIPEX 6.4, MANGOS AISLADO 1000V, 160MM MOD. 01 06 160"
+  },
+  {
+    "name": "DESARMADOR 11 EN 1 KLEIN TOOLS 32500-12CS-SEN"
+  },
+  {
+    "name": "STANLEY ARCO DE SIERRA DE ALTA TENSION PRO 12 PULGADAS 15-098"
+  },
+  {
+    "name": "TIJERA DE AVIADOR DERECHA M73112 VICE GRIP IRWIN"
+  },
+  {
+    "name": "TIJERA DE AVIADOR IZQUIERDA VICE GRIP IRWIN"
+  },
+  {
+    "name": "PINZA DE PRESION STANLEY 65-254 CURVO10"
+  },
+  {
+    "name": "PINZA PRESION MARCA VISE-GRIP MORDAZA RECTA 10R"
+  },
+  {
+    "name": "STANLEY REMACHADORA PARA USO PESADO 4 BOQUILLAS 69-800"
+  },
+  {
+    "name": "DOBLADOR TUBERIA PARED DELGADA 1/2 MARCA RIDGID MODELO B-1677"
+  },
+  {
+    "name": "DOBLADOR TUBERIA PARED DELGADA 3/4\" MARCA RIDGID MODELO B-1678"
+  },
+  {
+    "name": "DOBLADOR TUBERIA PADED DELGADA 1\" MARCA RIDGID MODELO B-1679"
+  },
+  {
+    "name": "ESCORIADOR PARA TUBO TIPO DESARMADOR/ KLEINTOOLS DESTORNILLADOR PARA AJUSTAR Y ESCARIAR CONDUCTOS 19X2.8 CM NEGRO MODELO 85191"
+  },
+  {
+    "name": "ESCORIADOR RIDGID 29983 MODELO 223S DE ACERO INOXIDABLE DE 1/4 A 1 1/4"
+  },
+  {
+    "name": "TARRAJA ESTUCHE 1/2 - 2\" RIDGID 12R KIT MARC RIDGID "
+  },
+  {
+    "name": "LIMA DE MEDIA CAÑA CON MANGO"
+  },
+  {
+    "name": "LIMA CAÑA COMPLETA CON MANGO"
+  },
+  {
+    "name": "LLAVE STILLSON 18 URREA 818U 32803165"
+  },
+  {
+    "name": "LLAVE STILLSON 14 URREA 814UR 32803164"
+  },
+  {
+    "name": "CASCOS MSA COLOR BLANCO"
+  },
+  {
+    "name": "BARBIQUEJOS PARA CASCO MSA"
+  },
+  {
+    "name": "ARNES DE SEGURIDAD DE CUERPO COMPLETO MSA "
+  },
+  {
+    "name": "LINEA DE VIDA CON DOBLE GANCHO MSA"
+  },
+  {
+    "name": "CINTURON ELECTRICISTA"
+  },
+  {
+    "name": "BANDOLAS"
+  },
+  {
+    "name": "CONOS LIMITADORES DE 1 M ALTURA"
+  },
+  {
+    "name": "IRWIN 2078510 PINZA DE EXTENSION 10 PULG"
+  },
+  {
+    "name": "IRWIN 1773637 PINZAS MECANICAS ALICATES 10\""
+  },
+  {
+    "name": "LUMINARIA APRUEBA DE VAPOR"
+  },
+  {
+    "name": "LUMINARIAS OV TIPO LED CON BRAZO"
+  },
+  {
+    "name": "REFECTORES LED 50 W"
+  },
+  {
+    "name": "LLAVE DE BANDA"
+  },
+  {
+    "name": "IMAN"
+  },
+  {
+    "name": "PARRILLA"
+  },
+  {
+    "name": "MULTIMETRO DIGITAL"
+  },
+  {
+    "name": "TINA AMARILLA "
+  },
+  {
+    "name": "TINA VERDE"
+  },
+  {
+    "name": "CARRETILLA CON LLANTA IMPONCHABLE"
+  },
+  {
+    "name": "HIELERA 46 LTS"
+  },
+  {
+    "name": "TERMO PARA AGUA 38 LT"
+  },
+  {
+    "name": "BOCINA BLUETOOTH "
+  },
+  {
+    "name": "DADO ALLEN 3/16\" x 3/8\""
+  },
+  {
+    "name": "CINCEL DE CORTE FRIO 3/8\" x 6\""
+  },
+  {
+    "name": "MARTILLO UÑA RECTA"
+  },
+  {
+    "name": "IMAN FLEXIBLE DE ACERO"
+  },
+  {
+    "name": "ESLINGA DE 4\" DE 2MTS"
+  },
+  {
+    "name": "PINZA 10"
+  },
+  {
+    "name": "PINZA 7"
+  },
+  {
+    "name": "LLAVE AJUSTABLE"
+  },
+  {
+    "name": "GRASERA ML-AM10 10MM"
+  },
+  {
+    "name": "GRASERA ML-AM8 8MM"
+  },
+  {
+    "name": "GRASERA ML-AM6 6MM"
+  },
+  {
+    "name": "LLAVE PARA FILTRO"
+  },
+  {
+    "name": "DADO 1/2\" x 3/4\" LARGO"
+  },
+  {
+    "name": "DADO 3/4\" x 1/2\" LARGO"
+  },
+  {
+    "name": "DADO 1 1/8\" x 1/2\" LARGO"
+  },
+  {
+    "name": "DADO 1/2\" x 1/2\""
+  },
+  {
+    "name": "DADO 3/8\" x 1/2\""
+  },
+  {
+    "name": "DADO 1 1/4\" x 1/2\""
+  },
+  {
+    "name": "LLAVE DE IMPACTO"
+  },
+  {
+    "name": "LLAVE MATRACA 3/8\""
+  },
+  {
+    "name": "LLAVE MATRACA 3/4\""
+  },
+  {
+    "name": "LLAVE MATRACA 1/2\""
+  },
+  {
+    "name": "MACETA 4 LB"
+  },
+  {
+    "name": "CINCEL 5/8\" x 10\""
+  },
+  {
+    "name": "CINCEL 7/8\" x 12\""
+  },
+  {
+    "name": "GUIA 10M POLIFLEX"
+  },
+  {
+    "name": "GUIA 15M POLIFLEX"
+  },
+  {
+    "name": "GUIA 20M POLIFLEX"
+  },
+  {
+    "name": "CONTENEDOR DE DIESEL DE 1000 L ANTIDERRAMES"
+  },
+  {
+    "name": "COPIADORA RICOH"
+  },
+  {
+    "name": "LLAVE ESPAÑOLA 3/4\""
+  },
+  {
+    "name": "LLAVE ESPAÑOLA 13/16\""
+  },
+  {
+    "name": "LLAVE ESPAÑOLA 15/16\""
+  },
+  {
+    "name": "LLAVE ESPAÑOLA 1\""
+  },
+  {
+    "name": "LLAVE ESPAÑOLA 1-1/8\""
+  },
+  {
+    "name": "LLAVE ESPAÑOLA 7/8\""
+  },
+  {
+    "name": "LLAVE ESPAÑOLA 1-1/16\""
+  },
+  {
+    "name": "LLAVE ESPAÑOLA 1-1/4\""
+  },
+  {
+    "name": "JUEGO DE DADOS 1/2\""
+  },
+  {
+    "name": "PISTOLA DE IMPACTO"
+  },
+  {
+    "name": "ESTUCHE DE PINZA"
+  },
+  {
+    "name": "JUEGO DE LLAVES"
+  },
+  {
+    "name": "JUEGO DE DESARMADORES"
+  },
+  {
+    "name": "MATRACA 1/2\""
+  },
+  {
+    "name": "MANERAL 1/2\""
+  },
+  {
+    "name": "CINCEL 5/16\" x 6\""
+  },
+  {
+    "name": "CINCEL 1/4\" x 5\""
+  },
+  {
+    "name": "CINCEL 1\" x 6\""
+  },
+  {
+    "name": "LINTERNA DE MINERO"
+  },
+  {
+    "name": "JUEGO PACMAN"
+  },
+  {
+    "name": "PINZA DE PRESION 5\""
+  },
+  {
+    "name": "JUEGO DE MINICEPILLOS"
+  },
+  {
+    "name": "GANCHOS Y PUNTAS"
+  },
+  {
+    "name": "INVERSOR DE CORRIENTE"
+  },
+  {
+    "name": "WET-2 WATER, CONDUCTIVITY & TEMPERATURE SENSOR"
+  },
+  {
+    "name": "ADAPTADOR 3/4\" x 1/2\" IMPACTO"
+  },
+  {
+    "name": "ADAPTADOR 3/4\" x 1/2\""
+  },
+  {
+    "name": "ADAPTADOR 3/8\" x 1/2\""
+  },
+  {
+    "name": "CASCOS DE SEGURIDAD BLANCOS"
+  },
+  {
+    "name": "CASCOS DE SEGURIDAD ANARANJADO"
+  },
+  {
+    "name": "DESARMADOR PUNTA PLANA URREA 9423 LONGITUD EXPUESTA 8\""
+  },
+  {
+    "name": "PROBADOR DE VOLTAJE SIN CONTACTO 600V FLUKE LVD2   21900620"
+  },
+  {
+    "name": "PROBADOR TESTER KLEIN GFCI OUTLET RT210"
+  },
+  {
+    "name": "LLAVE PERICO BLACK 10\" URREA 710S"
+  },
+  {
+    "name": "LLAVE PERICO BLACK 12\" URREA 712S"
+  },
+  {
+    "name": "ESCOBA METALICA PARA JARDIN"
+  },
+  {
+    "name": "JUEGO DE BROCAS PARA METAL"
+  },
+  {
+    "name": "CONOS LIMIADORES DE 1M ALTURA"
+  },
+  {
+    "name": "DESARMADOR MATRACA JDM -58 TRUPER 18220 CON 42 PUNTAS Y 14 DADOS"
+  },
+  {
+    "name": "DESARMADOR TRUPER DMP - 33 MULTIPUNTAS"
+  },
+  {
+    "name": "FLEXOMETRO 5.5M MARC CADENA"
+  },
+  {
+    "name": "MARTILLO BOLA MAQUINADO 15\" DE 14 OZ"
+  },
+  {
+    "name": "TIJERAS DE AVIADOR DERECHA M73112 VICE GRIP"
+  },
+  {
+    "name": "PINZA DE PRECION MARCA VICE -GRIP MORDASA RECTA"
+  },
+  {
+    "name": "DOBLADOR TUBERIA PARED DELGADA 1/2 MARCA"
+  },
+  {
+    "name": "DOBLADOR TUBERIA PARED DELGADA 3/4 MARCA"
+  },
+  {
+    "name": "ESMERILADORA MAKITA 95547PB DE 4 1/2"
+  },
+  {
+    "name": "DESARMADOR STANLEY LLANA DE ACABADO LISA"
+  },
+  {
+    "name": "DESARMADOR DE CRUZ NUM 2 X 6"
+  },
+  {
+    "name": "PINZAS KNIPEX 09 12 240 MODELO AMERICANO PLATA"
+  },
+  {
+    "name": "PINZAS ELECTRICISTA KNIPEX 6.4 MANGOS AISLADOS"
+  },
+  {
+    "name": "DESARMADOR 11 EN 1 KLEIN TOOLS"
+  },
+  {
+    "name": "SEGUETA DE SIERRA FINO"
+  },
+  {
+    "name": "SEGUETA DE DIENTE ESTÁNDAR"
+  },
+  {
+    "name": "DISCO DE CORTE EXACTO 4 1/2\" MARC AUSTROMEX"
+  },
+  {
+    "name": "DISCO DE DESBASTE 4 1/2\" MARC AUSTROMEX"
+  },
+  {
+    "name": "ESCORIADOR PARA TUBO TIPO DESARMADOR"
+  },
+  {
+    "name": "ESCORIADOR RIDGIO 29983 DE ACERO"
+  },
+  {
+    "name": "ESMERILADORA MAKITA/BOSH/MILWAUKEE ANGULAR"
+  },
+  {
+    "name": "COMBO HANNA PH/CE RANGOS BAJOS"
+  },
+  {
+    "name": "COMPRESOR DE AIRE ACONDICIONADO"
+  },
+  {
+    "name": "TIJERA CURVEADA PARA PODA"
+  },
+  {
+    "name": "PINCEL"
+  },
+  {
+    "name": "SOLDADORA INFRA 110-220V"
+  },
+  {
+    "name": "SIERRA CIRCULAR PARA MADERA"
+  },
+  {
+    "name": "ENMICADORA TERMICA TAMAÑO CARTA"
+  },
+  {
+    "name": "PINZAS DE CANGREJO 27 CM"
+  },
+  {
+    "name": "TIJERA CURVEADA PARA PODA GAMA ALTA"
+  },
+  {
+    "name": "ATOMIZADOR 500 ML"
+  },
+  {
+    "name": "TIJERA DE PUNTA EXTRA FINA"
+  },
+  {
+    "name": "MODEM DE INTERNET"
+  },
+  {
+    "name": "CAMARA DE SEGURIDAD"
+  },
+  {
+    "name": "ESCOBAS INFANTILES DE UN SOLO COLOR"
+  },
+  {
+    "name": "CEPILLO LIMPIEZA DE USO RUDO CON ASA"
+  },
+  {
+    "name": "PINZAS DE DISECCION ACERO INOXIDABLE LISAS"
+  },
+  {
+    "name": "GRASERA TRUPER 14 OZ"
+  },
+  {
+    "name": "BASCULA DIGITAL GRAMERA TRUPER"
+  },
+  {
+    "name": "RECOGEDOR DE MANO DE METAL"
+  },
+  {
+    "name": "CORTADORA DE METALES 14\" BOSCH"
+  },
+  {
+    "name": "HOZ PLEGABLE"
+  },
+  {
+    "name": "CARRUCHA PARA PONER VINIL MOSQUITERO"
+  },
+  {
+    "name": "PINZAS DE PRESION \"C\" DE 11\""
+  },
+  {
+    "name": "GANCHOS PARA PERCHERO"
+  },
+  {
+    "name": "VERNIER DIGITAL"
+  },
+  {
+    "name": "ENGRAPADORA INDUSTRIAL TRUPER"
+  },
+  {
+    "name": "DESARMADOR DE MATRACA 9 EN 1"
+  },
+  {
+    "name": "DESARMADOR 11 EN 1 KLEIN TOOLS "
+  },
+  {
+    "name": "SUJETADOR CON MATRACA"
+  },
+  {
+    "name": "HILO PARA DESBROZADORA"
+  },
+  {
+    "name": "TEE GALVANIZADA 3\""
+  },
+  {
+    "name": "TUERCA UNION GALVANIZADA 1 1/4\""
+  },
+  {
+    "name": "TUERCA UNION GALVANIZADO 4\""
+  },
+  {
+    "name": "BISTURI"
+  },
+  {
+    "name": "HUMIDIPRO"
+  },
+  {
+    "name": "PALO ABATELENGUA"
+  },
+  {
+    "name": "PIPETAS 3.0 MM"
+  },
+  {
+    "name": "PLASTICO BLANCO LECHOSO 25% SOMBRA P/ INVERNADERO 6.2 X 100 MTR"
+  },
+  {
+    "name": "CALEFACTOR PARA INVERNADERO HIDROPONICO K 210 DIESEL"
+  },
+  {
+    "name": "CHAROLA 77 CAVIDADES"
+  },
+  {
+    "name": "CODO GALVANIZADO 1 1/4\""
+  },
+  {
+    "name": "CODO GALVANIZADO 1\""
+  },
+  {
+    "name": "COPLE GALVANIZADO 1\""
+  },
+  {
+    "name": "CRUCETA PARA FOGERS"
+  },
+  {
+    "name": "FOGGERS"
+  },
+  {
+    "name": "GOTEROS"
+  },
+  {
+    "name": "LLAVE DE LATON 3/4\""
+  },
+  {
+    "name": "NIPLE CUERDA CORRIDA GALVANIZADO 3\""
+  },
+  {
+    "name": "NIPLE CUERDA CORRIDA GALVANIZADO 1 1/4\""
+  },
+  {
+    "name": "NIPLE CUERDA CORRIDA GALVANIZADO 1\""
+  },
+  {
+    "name": "NIPLE CUERDA CORRIDA GALVANIZADO 2\""
+  },
+  {
+    "name": "NIPLE GALVANIZADO 3/8\" X 4 \""
+  },
+  {
+    "name": "NIPLE GALVANIZADO 4\""
+  },
+  {
+    "name": "NIPLE ADAPTADOR GALVANIZADO 3/4\""
+  },
+  {
+    "name": "REDUCCION MIXTA GALVANIZADA 1 1/2\" X 1 1/4\""
+  },
+  {
+    "name": "REDUCCION MIXTA GALVANIZADA 2 1/2\" X 2\""
+  },
+  {
+    "name": "TAPON GALVANIZADO 1 1/4\""
+  },
+  {
+    "name": "TEE GALVANIZADA 1 1/4\""
+  },
+  {
+    "name": "TEE GALVANIZADA 1\""
+  },
+  {
+    "name": "TEE GALVANIZADA 1/2\""
+  },
+  {
+    "name": "TUERCA UNION GALVANIZADA 1\""
+  },
+  {
+    "name": "TUERCA UNION GALVANIZADA 3/4\""
+  },
+  {
+    "name": "VALVULA ESFERA DE LATON 1/2\""
+  },
+  {
+    "name": "LLAVE ESFERA PARA AGUA LATON 1/2\""
+  },
+  {
+    "name": "TUBO PARA REGADERA DRAMM 24\""
+  },
+  {
+    "name": "NIPLE GALVANIZADO 2\""
+  },
+  {
+    "name": "NIPLE GALVANIZADO 1\" X 30 CM"
+  },
+  {
+    "name": "CONEXIÓN 5/8\" LATON"
+  },
+  {
+    "name": "REDUCCION MIXTA GALVANIZADA 3\" X  2\""
+  },
+  {
+    "name": "VALVULA DE AIRE DE ALUMINIO 3\""
+  },
+  {
+    "name": "REDUCCION CAMPANA GALVANIZADA 1\" X 3/4\""
+  },
+  {
+    "name": "REDUCCION MIXTA GALVANIZADA 1/4\" X 1/2\" "
+  },
+  {
+    "name": "REDUCCION MIXTA GALVANIZADA 1 1/4\" X 1\" "
+  },
+  {
+    "name": "REGADERAS CON TUBO 32\" "
+  },
+  {
+    "name": "BATERIA (D) "
+  },
+  {
+    "name": "BOLSA NEGRA EXTRAGRANDE"
+  },
+  {
+    "name": "MICROASPERSOR RONDO COMPLETO ANTIHELADAS"
+  },
+  {
+    "name": "SENSOR DE REPUESTO DE PH LAQUATWIN PH 11"
+  },
+  {
+    "name": "PLASTICO PENTACAPA 180 MC 10% ULTRA DE 8.4 x 100 MTS"
+  },
+  {
+    "name": "MALLA ANTIAFIDOS, COLORACIÓN CRISTAL 3.65Mx100M"
+  },
+  {
+    "name": "ALAMBRE ZIG ZAG PLASTIFICADO"
+  },
+  {
+    "name": "TINACO 2500 LTS"
+  },
+  {
+    "name": "TAPON GALVANIZADO 4\""
+  },
+  {
+    "name": "MANGUERA ALTA PRESION 3/4\" CASERA"
+  },
+  {
+    "name": "CAJA ABATIBLE TIPO REJILLA 60X40 PP "
+  },
+  {
+    "name": "PLASTICO BLANCO LECHOCHOS INVERNADERO 720, 820MTS"
+  },
+  {
+    "name": "PLASTICO BLANCO LECHOSO 25% SOMBRA P/ INVERNADERO 8.2 X 100 MTR"
+  },
+  {
+    "name": "CHAROLA 228 CAVIDADES"
+  },
+  {
+    "name": "MACETA DE 1 L"
+  },
+  {
+    "name": "TINAS DE PLASTICO COLOR AZUL"
+  },
+  {
+    "name": "TINAS DE PLASTICO COLOR VERDE"
+  },
+  {
+    "name": "TINAS DE PLASTICO COLOR AMARILLO"
+  },
+  {
+    "name": "TINAS DE PLASTICO COLOR NARANJA"
+  },
+  {
+    "name": "ROLLO DE PLASTICO PARA INVERNADERO ( 12 X 100 M DE LARGO)"
+  },
+  {
+    "name": "JABON LIQUIDO PARA ROPA "
+  },
+  {
+    "name": "SUAVITEL"
+  },
+  {
+    "name": "AFLOJATODO 345ML"
+  },
+  {
+    "name": "CONTRA CANASTA "
+  },
+  {
+    "name": "BALERO TIMKEN 13687"
+  },
+  {
+    "name": "BALERO 203 KRR2"
+  },
+  {
+    "name": "BALERO TIMKEN 33281"
+  },
+  {
+    "name": "BALERO 33281 TIMKEN"
+  },
+  {
+    "name": "BALERO 387A TIMKEN"
+  },
+  {
+    "name": "BALERO 6002 2RS"
+  },
+  {
+    "name": "BALERO 6007-2RS"
+  },
+  {
+    "name": "BALERO 6007-ZZC3"
+  },
+  {
+    "name": "BALERO 6203 2R2"
+  },
+  {
+    "name": "BALERO 6204 2R2"
+  },
+  {
+    "name": "BALERO 6204 EE SNR"
+  },
+  {
+    "name": "BALERO 6206 ZZC3"
+  },
+  {
+    "name": "BALERO 6306 RS"
+  },
+  {
+    "name": "BALERO 6307 NRZZ"
+  },
+  {
+    "name": "BALERO BH-1012 DBL 125 KOYO"
+  },
+  {
+    "name": "BALERO HC206-20"
+  },
+  {
+    "name": "BALERO HI-CAP15161/245"
+  },
+  {
+    "name": "BALERO KOYO HI-CAP15245"
+  },
+  {
+    "name": "BALERO H-LM501349/10"
+  },
+  {
+    "name": "BALERO JLM506849E/10 KOYO"
+  },
+  {
+    "name": "BALERO TIMKEN JLM 506849"
+  },
+  {
+    "name": "BALERO L44643"
+  },
+  {
+    "name": "BALERO L44643R/10 KOYO"
+  },
+  {
+    "name": "BALERO LM11949/10SI"
+  },
+  {
+    "name": "BALERO LM11949/LM11910"
+  },
+  {
+    "name": "BALERO KOYO LM501349/10"
+  },
+  {
+    "name": "BALERO LM603049"
+  },
+  {
+    "name": "BALERO LM67048/10SI"
+  },
+  {
+    "name": "BALERO M67048/10"
+  },
+  {
+    "name": "BALERO M802048 TIMKEN"
+  },
+  {
+    "name": "BALERO TIMKEN M804049"
+  },
+  {
+    "name": "BALERO PARA CARRETILLA"
+  },
+  {
+    "name": "BALERO SET 118SA002A"
+  },
+  {
+    "name": "BALERO SET3 (M12649-M2610)"
+  },
+  {
+    "name": "BALERO TIMKEN SET 4"
+  },
+  {
+    "name": "BALERO UC204-12"
+  },
+  {
+    "name": "BALERO UC208-24"
+  },
+  {
+    "name": "BALERO WIR211-33"
+  },
+  {
+    "name": "BALIN PARA FLECHA DE BIN CARRIER"
+  },
+  {
+    "name": "BOMBA HIDRAULICA BIN CARRIER CHICA"
+  },
+  {
+    "name": "BOMBA HIDRAULICA BIN CARRIER GRANDE"
+  },
+  {
+    "name": "BOMBA SELECTORA PARA BIN CARRIER"
+  },
+  {
+    "name": "CAMARA RADIAL 16.00/18.00 R20 BIN CARRIER"
+  },
+  {
+    "name": "FILTRO DE ACEITE HIDRAULICO  BT287"
+  },
+  {
+    "name": "ESTRELLA DE PLASTICO PARA COSECHADORA"
+  },
+  {
+    "name": "FILTRO ACEITE HIDRAULICO HHTA0-37710 KUBOTA"
+  },
+  {
+    "name": "FILTRO AIRE 42928 WIX"
+  },
+  {
+    "name": "FILTRO AIRE AT225339"
+  },
+  {
+    "name": "FILTRO AIRE KUBOTA 59700-26112"
+  },
+  {
+    "name": "FILTRO COMBUSTIBLE BF7674 WIX"
+  },
+  {
+    "name": "FILTRO DE ACEITE DE MOTOR HH1C0-32430 KUBOTA"
+  },
+  {
+    "name": "FILTRO DE AIRE MOTOR 577502 WIX"
+  },
+  {
+    "name": "FILTRO DE AIRE VPD 5109"
+  },
+  {
+    "name": "FILTRO DE COMBUSTIBLE 33977"
+  },
+  {
+    "name": "FILTRO DE COMBUSTIBLE DIESEL KX23"
+  },
+  {
+    "name": "FILTRO DIESEL HH166-43560 KUBOTA"
+  },
+  {
+    "name": "FILTRO HIDRAULICO 557911"
+  },
+  {
+    "name": "FILTRO HIDRAULICO RE45864"
+  },
+  {
+    "name": "FILTRO PARA ACEITE HIDRAULICO 51495"
+  },
+  {
+    "name": "FILTRO PARA ACEITE HIDRAULICO RE 45864"
+  },
+  {
+    "name": "FILTRO PARA ACEITE HIDRAULICO UPK 1528"
+  },
+  {
+    "name": "FILTRO PARA ACEITE WIX 51515"
+  },
+  {
+    "name": "FILTRO PARA ASPERSORA SWISSMEX"
+  },
+  {
+    "name": "FILTRO PURIFICADOR DE AIRE PARA COSECHADORA AT225338"
+  },
+  {
+    "name": "FILTRO SEPARADOR DE AGUA SFC-7606"
+  },
+  {
+    "name": "FILTRO SEPARADOR DE AGUA Y ACEITE WIX 33546"
+  },
+  {
+    "name": "FILTRO SFC-5115 SAKURA"
+  },
+  {
+    "name": "FILTRO WIX 549060"
+  },
+  {
+    "name": "FLECHA PARA BIN CARRIER"
+  },
+  {
+    "name": "GRAPA PARA COSECHADORA"
+  },
+  {
+    "name": "LLANTA 12.16.5 (12) FLOT SGUIDER SKS8 TL"
+  },
+  {
+    "name": "LLANTA 12.5-16 (12) 1-ADVANCE TT"
+  },
+  {
+    "name": "LLANTA AVION"
+  },
+  {
+    "name": "LLANTA CON RIN DE TUNELADORA"
+  },
+  {
+    "name": "LLANTA PARA BIN CARRIER"
+  },
+  {
+    "name": "LLANTA PARA COSECHADORA 12-SL-16"
+  },
+  {
+    "name": "LLANTA PARA MONTACARGAS"
+  },
+  {
+    "name": "LLANTAS 48599 RO-13"
+  },
+  {
+    "name": "LLANTAS DE CARRETILLA 4.008"
+  },
+  {
+    "name": "LLANTAS PARA PATIN CHICA"
+  },
+  {
+    "name": "LLANTAS PARA PATIN GRANDE"
+  },
+  {
+    "name": "LLANTAS PARA PATIN MEDIANA"
+  },
+  {
+    "name": "PARCHE PARA LLANTA DE CARRETILLA"
+  },
+  {
+    "name": "TAZA 13621 TIMKEN"
+  },
+  {
+    "name": "TAZA 13687 TIMKEN"
+  },
+  {
+    "name": "TAZA 15250 KOYO"
+  },
+  {
+    "name": "TAZA 33462 TIMKEN"
+  },
+  {
+    "name": "TAZA LATIN BERRY"
+  },
+  {
+    "name": "TAZA LM 603014 TIMKEN"
+  },
+  {
+    "name": "TAZA M80211 TIMKEN"
+  },
+  {
+    "name": "TAZA M804010 TIMKEN"
+  },
+  {
+    "name": "TUERCA PARA MANGO DE COSECHADORA 1 3/4\""
+  },
+  {
+    "name": "FILTRO DE MALLA 3/4\""
+  },
+  {
+    "name": "FILTRO DE AIRE AS-7825 A"
+  },
+  {
+    "name": "FILTRO PARA COMBUSTIBLE P551352/57"
+  },
+  {
+    "name": "FILTRO DE AIRE 42321/AS"
+  },
+  {
+    "name": "FILTRO DE AIRE CHICO 46522"
+  },
+  {
+    "name": "FILTRO COMBUSTIBLE DIESEL 33370"
+  },
+  {
+    "name": "FILTRO DE AIRE 42518"
+  },
+  {
+    "name": "FILTRO COMBUSTIBLE P550020"
+  },
+  {
+    "name": "FILTRO SEDIMENTADOR DIESEL 16311-4338"
+  },
+  {
+    "name": "ORING FILTRO DIESEL 16311-4357"
+  },
+  {
+    "name": "BALERO FAG 6304"
+  },
+  {
+    "name": "COPLES PARA COSECHADORA 12 X 12"
+  },
+  {
+    "name": "CAMPANA FIRING PARA COSECHADORA 16 X 16"
+  },
+  {
+    "name": "NIPLE PARA COSECHADORA 16 X 16"
+  },
+  {
+    "name": "CODO PARA COSECHADORA 16 X 16"
+  },
+  {
+    "name": "CODO PARA COSECHADORA 12 M X 12 M"
+  },
+  {
+    "name": "ADAPTADOR CAMPANA PARA COSECHADORA"
+  },
+  {
+    "name": "FILTRO AIRE 876829999 (CHICO)"
+  },
+  {
+    "name": "BALERO 6204 2RSC3"
+  },
+  {
+    "name": "BALERO 6304-C-2HRSC3"
+  },
+  {
+    "name": "BALERO TIMKEN 23256"
+  },
+  {
+    "name": "BALERO TIMKEN 23100"
+  },
+  {
+    "name": "TAZA JLM506810"
+  },
+  {
+    "name": "BALERO L 44643 / L 44610"
+  },
+  {
+    "name": "FAN KIT ASA 0115 12 V DC DIGGER REPLACEMENTS PARTS"
+  },
+  {
+    "name": "THIN ROLLER DIGGER BELTS 200-22465"
+  },
+  {
+    "name": "HYDROSTATIC PUMP EATON BIN CARRIER PARTS"
+  },
+  {
+    "name": "FILTRO ACEITE F 00 E 164931"
+  },
+  {
+    "name": "FILTRO ACEITE HIDRAULICO 51759 WIX"
+  },
+  {
+    "name": "FILTRO COMBUSTIBLE VPD 6028"
+  },
+  {
+    "name": "FILTRO DE AIRE EXTERIOR KUBOTA M9540"
+  },
+  {
+    "name": "FILTRO PARA COMBUSTIBLE 33548"
+  },
+  {
+    "name": "BALERO 460-20024 TIMKEN"
+  },
+  {
+    "name": "BALERO M86643"
+  },
+  {
+    "name": "BALERO M 86647"
+  },
+  {
+    "name": "TAZA M86610N"
+  },
+  {
+    "name": "TAZA 453  TIMKEN"
+  },
+  {
+    "name": "BALERO  60072 RS C3 GXM KOYO"
+  },
+  {
+    "name": "FILTRO DE ACEITE HIDRAULICO  BT287-10"
+  },
+  {
+    "name": "FILTRO PARA COMBUSTIBLE  VAPORMATIC VPD6155"
+  },
+  {
+    "name": "BALERO M104949"
+  },
+  {
+    "name": "TAZA M104911"
+  },
+  {
+    "name": "BALERO 25590"
+  },
+  {
+    "name": "TAZA 25523 KOYO"
+  },
+  {
+    "name": "BALERO 3780/3720 KOYO"
+  },
+  {
+    "name": "FILTRO PARA ACEITE HIDRAULICO SAKURA HC-5511"
+  },
+  {
+    "name": "FILTRO DE ACEITE SEPARADOR DE AGUA WIX WF10094"
+  },
+  {
+    "name": "FILTRO DE AIRE GRANDE 87682993"
+  },
+  {
+    "name": "FILTRO DE AIRE CHICO 87682999"
+  },
+  {
+    "name": "FILTRO HIDRAULICO VAPORMATIC VPD5181"
+  },
+  {
+    "name": "FILTRO DE AIRE CHICO WIX 46569"
+  },
+  {
+    "name": "FILTRO DE AIRE SAKURA M113621"
+  },
+  {
+    "name": "FILTRO DE AIRE SAKURA AS-6905"
+  },
+  {
+    "name": "FILTRO DE AIRE WIX 42519"
+  },
+  {
+    "name": "FILTRO DE AIRE CHICO WIX 46522"
+  },
+  {
+    "name": "FILTRO DE ACEITE WIX 57750S"
+  },
+  {
+    "name": "FILTRO DE AIRE GRANDE WIX 49138"
+  },
+  {
+    "name": "FILTRO DE AIRE SAKURA A-7605"
+  },
+  {
+    "name": "FILTRO PARA COMBUSTIBLE  VAPORMATIC VPD6155"
+  },
+  {
+    "name": "FILTRO DE AIRE SAKURA A-7805"
+  },
+  {
+    "name": "FILTRO DE AIRE CHICO SAKURA A-7964"
+  },
+  {
+    "name": "FILTRO DE AIRE GRANDE SAKURA A-5541"
+  },
+  {
+    "name": "FILTRO DE ACEITE MOTOR WIX 57243"
+  },
+  {
+    "name": "FILTRO DE AIRE GRANDE WIX 549139"
+  },
+  {
+    "name": "FILTRO PARA COMBUSTIBLE Y AGUA WIX 33532"
+  },
+  {
+    "name": "BALERO SET 118"
+  },
+  {
+    "name": "FILTRO DE AIRE PARA HIDROLAVADORA"
+  },
+  {
+    "name": "BALERO 6202 2RS"
+  },
+  {
+    "name": "FILTRO PARA ACEITE GONHER GP-156"
+  },
+  {
+    "name": "LLANTAS PARA IMPLEMENTO  LL 750-16 8 F-2 GOOYEAR RIB 3G TT"
+  },
+  {
+    "name": "  FILTRO PARA COMBUSTIBLE Y AGUA WIX 33532 "
+  },
+  {
+    "name": "BALERO 39585"
+  },
+  {
+    "name": "TAZA 39520"
+  },
+  {
+    "name": "TAZA 453 A"
+  },
+  {
+    "name": "BALERO LM11910"
+  },
+  {
+    "name": "BALERO 501349 / 501314 K"
+  },
+  {
+    "name": "LLANTAS PARA GENERADOR"
+  },
+  {
+    "name": "FILTRO TRANSMISION 47484442 RETROEXCAVADORA"
+  },
+  {
+    "name": "FILTRO HIDRAULICO BU4430037 RETROEXCAVADORA"
+  },
+  {
+    "name": "BALERO 104949/11 KOYO"
+  },
+  {
+    "name": "BALERO 104949/104911 E"
+  },
+  {
+    "name": "TAZA 080325004 CHUMACERA"
+  },
+  {
+    "name": "JUEGO FILTRO DE AIRE EXTERIOR E INTERIOR VPD728917291"
+  },
+  {
+    "name": "FILTRO DE ACEITE VPD 5128"
+  },
+  {
+    "name": "FILTRO HIDRAULICO 4748442"
+  },
+  {
+    "name": "FILTRO HIDRAULICO BU4430037"
+  },
+  {
+    "name": "FILTRO PARA BOQUILLA 50 MALLAS"
+  },
+  {
+    "name": "FILTRO DE ACEITE MOTOR  "
+  },
+  {
+    "name": "FILTRO DIESEL"
+  },
+  {
+    "name": "FILTRO SEDIMENTADOR DIESEL"
+  },
+  {
+    "name": "ORING FILTRO DIESEL"
+  },
+  {
+    "name": "FILTRO HIDRAULICO"
+  },
+  {
+    "name": "FILTRO DE AIRE EXTERIOR"
+  },
+  {
+    "name": "FILTRO DE AIRE INTERIOR"
+  },
+  {
+    "name": "LLANTA PARA CAMIONETA FORD EDGE FLAVIO LARA"
+  },
+  {
+    "name": "ORRING FKM75 IN 0.750-1.000-0.125"
+  },
+  {
+    "name": "ORRING FKM75 IN 1.062-1.312-0.125"
+  },
+  {
+    "name": "ORRING FKM 75 IN  1.750-2.000-0.125"
+  },
+  {
+    "name": "ORRING FKM 75 IN  1.625-2.000-0.187"
+  },
+  {
+    "name": "ORRING MBR70 IN 2.750-3.000-0.125"
+  },
+  {
+    "name": "ORRING NBR70 IN 2.125-1.250-0.062"
+  },
+  {
+    "name": "ORRING NBR70 IN 2.250-2.500-0.125"
+  },
+  {
+    "name": "ORRING NBR70 IN 0.750-0.937-0.093"
+  },
+  {
+    "name": "ELAVORACION DE FLECHAS PARA DIGGER (DONDE VAN LOS DISCOS) (TORNO)"
+  },
+  {
+    "name": "COPLES P/DIGGER DE 1\"CUÑERO DE 1/4 A 1\"3/4 CUÑERO DE 3/8 (TORNO)"
+  },
+  {
+    "name": "FILTRO  MOTOR P550020"
+  },
+  {
+    "name": "FILTRI MOTOR  P551352"
+  },
+  {
+    "name": "FILTRO MOTOR P550779"
+  },
+  {
+    "name": "FILTRO DIESEL 33370"
+  },
+  {
+    "name": "FILTRO HIDRAULICO 51740"
+  },
+  {
+    "name": "FILTRO HIDRAULICO 51758"
+  },
+  {
+    "name": "FILTRO HIDRAULICO 51759"
+  },
+  {
+    "name": "FILTRO HIDRAULICO BT287-10"
+  },
+  {
+    "name": "FILTRO DE AIRE GRANDE 42928"
+  },
+  {
+    "name": "FILTRO DE AIRE GRANDE A5-7805"
+  },
+  {
+    "name": "FILTRO DE AIRE GRANDE 42321"
+  },
+  {
+    "name": "FILTRO DE AIRE GRANDE AS-7805"
+  },
+  {
+    "name": "FILTRO DE AIRE GRANDE AS-6905"
+  },
+  {
+    "name": "FILTRO DE AIRE GRANDE 42518"
+  },
+  {
+    "name": "FILTRO DE AIRE CHICO A-7605"
+  },
+  {
+    "name": "FILTRO DE AIRE CHICO A-7964"
+  },
+  {
+    "name": "FILTRO DE AIRE CHICO 2632 NAPA GOLD"
+  },
+  {
+    "name": "FILTRO MOTOR RE504836"
+  },
+  {
+    "name": "FILTRO MOTOR 57750S"
+  },
+  {
+    "name": "FILTRO MOTOR B7125"
+  },
+  {
+    "name": "FILTRO DIESEL 33977"
+  },
+  {
+    "name": "FILTRO HIDRAULICO 549060"
+  },
+  {
+    "name": "FILTRO DE AIRE GRANDE AT225338"
+  },
+  {
+    "name": "FILTRO DE AIRE GRANDE 47676"
+  },
+  {
+    "name": "FILTRO DE AIRE GRANDE 549138"
+  },
+  {
+    "name": "FILTRO DE AIRE CHICO AT225339"
+  },
+  {
+    "name": "FILTRO ACEITE VPD5128"
+  },
+  {
+    "name": "FILTRO DIESEL VPD6028"
+  },
+  {
+    "name": "FILTRO DE ACEITE DE MOTOR P550020"
+  },
+  {
+    "name": "FILTRO DE ACEITE DE MOTOR P551352"
+  },
+  {
+    "name": "FILTRO DE ACEITE DE MOTOR P550779"
+  },
+  {
+    "name": "FILTRO DIESEL P551432"
+  },
+  {
+    "name": "FILTRO DIESEL BF7674-D"
+  },
+  {
+    "name": "FILTRO DIESEL P551423"
+  },
+  {
+    "name": "FILTRO ACEITE HIDRAULICO 51758"
+  },
+  {
+    "name": "FILTRO DE AIRE CHICO 2632 NAPA"
+  },
+  {
+    "name": "FILTRO DE AIRE CHICO PA2487"
+  },
+  {
+    "name": "FILTRO DE ACEITE MOTOR RE504836"
+  },
+  {
+    "name": "FILTRO DE AIRE GRANDE P611856"
+  },
+  {
+    "name": "FILTRO DE AIRE CHICO 549139"
+  },
+  {
+    "name": "FILTRO DIESEL P551423 SAKURA"
+  },
+  {
+    "name": "BALERO 2478 OR KOYO"
+  },
+  {
+    "name": "TAZA HI-CAP15245 KOYO"
+  },
+  {
+    "name": "TAZA 24721 KOYO"
+  },
+  {
+    "name": "BALERO HI-CAP15125"
+  },
+  {
+    "name": "LLANTAS P/DIGGER # 12.5L-16 (BUENA MARCA), NO CHINAS"
+  },
+  {
+    "name": "LLANTAS P/BC 12-16.5"
+  },
+  {
+    "name": "ORRING NBR70 IN 2.125-2.500-0.187"
+  },
+  {
+    "name": "FILTRO DE AIRE CHICO A-7960"
+  },
+  {
+    "name": "FILTROS PARA  BOQUILLAS "
+  },
+  {
+    "name": "SET FILTROS AIRE VPD7289/7291"
+  },
+  {
+    "name": "BALERO 4T-24780"
+  },
+  {
+    "name": "BALERO 4T-15125"
+  },
+  {
+    "name": "ORRING #148"
+  },
+  {
+    "name": "ORRING #028"
+  },
+  {
+    "name": "FILTRO DE ACEITE GP-31, MARCA GONHER"
+  },
+  {
+    "name": "FILTRO DE AIRE 549267"
+  },
+  {
+    "name": "FILTRO DE TRANSMISIÓN GP-36, MARCA GONHER"
+  },
+  {
+    "name": "FILTRO DIESEL 1R-1804"
+  },
+  {
+    "name": "FILTRO HIDRÁULICO 51495"
+  },
+  {
+    "name": "CONO TIMKEN 41125"
+  },
+  {
+    "name": "TAZA TIMKEN 41286"
+  },
+  {
+    "name": "BALERO 4T-24721"
+  },
+  {
+    "name": "BALERO 15245"
+  },
+  {
+    "name": "LLAVE DE BANDA METALICA PARA FILTRO DE ACEITE"
+  },
+  {
+    "name": "LLAVE DE BANDA DE HULE PARA FILTRO DE ACEITE"
+  },
+  {
+    "name": "BALERO JLM506849 CON TASA"
+  },
+  {
+    "name": "FILTRO DE AIRE A-8504"
+  },
+  {
+    "name": "FILTRO SEPARADOR DE AGUA 33532"
+  },
+  {
+    "name": "FILTRO PARA LUBRICANTE C-1028"
+  },
+  {
+    "name": "BALERO 506849/10 KOYO"
+  },
+  {
+    "name": "BALEROS DE RODAMIENTO PARA RUEDAS DE PATIN"
+  },
+  {
+    "name": "ORRING #216"
+  },
+  {
+    "name": "TAZAS"
+  },
+  {
+    "name": "FILTRO DESHIDRATADOR"
+  },
+  {
+    "name": "BALERO TIM 41125"
+  },
+  {
+    "name": "BALERO TIM 41286"
+  },
+  {
+    "name": "VASTAGO 1\" PARA COSECHADORA"
+  },
+  {
+    "name": "ORUGAS COMPLETAS PARA COSECHADORA"
+  },
+  {
+    "name": "ADAPTADOR HEMBRA CPVC 1\""
+  },
+  {
+    "name": "ADAPTADOR HEMBRA CPVC 3/4\""
+  },
+  {
+    "name": "ADAPTADOR HEMBRA LATON 1/2\""
+  },
+  {
+    "name": "ADAPTADOR HEMBRA LATON 3/4\""
+  },
+  {
+    "name": "ADAPTADOR HEMBRA PARA MANGUERA 1 1/2\""
+  },
+  {
+    "name": "ADAPTADOR HEMBRA PARA MANGUERA 1/2\""
+  },
+  {
+    "name": "ADAPTADOR HEMBRA PARA MANGUERA 3/4\""
+  },
+  {
+    "name": "ADAPTADOR HEMBRA PVC 1\""
+  },
+  {
+    "name": "ADAPTADOR HEMBRA PVC 1/2\""
+  },
+  {
+    "name": "ADAPTADOR HEMBRA PVC 2\""
+  },
+  {
+    "name": "ADAPTADOR HEMBRA PVC 3\""
+  },
+  {
+    "name": "ADAPTADOR HEMBRA PVC 3/4\""
+  },
+  {
+    "name": "ADAPTADOR HEMBRA PVC 4\""
+  },
+  {
+    "name": "ADAPTADOR INSERCION DE 2\" (ESPIGA) PVC"
+  },
+  {
+    "name": "ADAPTADOR INSERCION DE 4\" (ESPIGA) PVC"
+  },
+  {
+    "name": "ADAPTADOR INSERCION DE 6\" (ESPIGA) PVC"
+  },
+  {
+    "name": "ADAPTADOR INSERCION DE 8\" (ESPIGA) PVC"
+  },
+  {
+    "name": "ADAPTADOR MACHO 1\" VERDE"
+  },
+  {
+    "name": "ADAPTADOR MACHO 2\" VERDE"
+  },
+  {
+    "name": "ADAPTADOR MACHO CPVC 1\""
+  },
+  {
+    "name": "ADAPTADOR MACHO CPVC 3/4\""
+  },
+  {
+    "name": "ADAPTADOR MACHO LATON 3/4\""
+  },
+  {
+    "name": "ADAPTADOR MACHO PARA MANGUERA 1\""
+  },
+  {
+    "name": "ADAPTADOR MACHO PARA MANGUERA 1/2\""
+  },
+  {
+    "name": "ADAPTADOR MACHO PARA MANGUERA 2\""
+  },
+  {
+    "name": "ADAPTADOR MACHO PARA MANGUERA 3/4\""
+  },
+  {
+    "name": "ADAPTADOR MACHO PVC 1 1/2\""
+  },
+  {
+    "name": "ADAPTADOR MACHO PVC 1 1/4\""
+  },
+  {
+    "name": "ADAPTADOR MACHO PVC 1\""
+  },
+  {
+    "name": "ADAPTADOR MACHO PVC 1/2\""
+  },
+  {
+    "name": "ADAPTADOR MACHO PVC 2 1/2\""
+  },
+  {
+    "name": "ADAPTADOR MACHO PVC 2\""
+  },
+  {
+    "name": "ADAPTADOR MACHO PVC 3\""
+  },
+  {
+    "name": "ADAPTADOR MACHO PVC 6\""
+  },
+  {
+    "name": "AGRICOVER (AGRIBON)"
+  },
+  {
+    "name": "CINTILLA TORO 6 MM"
+  },
+  {
+    "name": "CINTILLA TORO 8 MM"
+  },
+  {
+    "name": "CODO 45 PVC 6\""
+  },
+  {
+    "name": "CODO 45° 200 MM"
+  },
+  {
+    "name": "CODO CPVC 1/2\""
+  },
+  {
+    "name": "CODO CPVC 3/4\""
+  },
+  {
+    "name": "CODO CRE HEMBRA 3/4\""
+  },
+  {
+    "name": "CODO DE COBRE 3/4\""
+  },
+  {
+    "name": "CODO CAMPO SISTEMA / GANCHO"
+  },
+  {
+    "name": "CODO PARA MANGUERA DE 1/2\""
+  },
+  {
+    "name": "CODO PARA MANGUERA DE 3/4\""
+  },
+  {
+    "name": "CODO PLUS 3/4\""
+  },
+  {
+    "name": "CODO PVC 1 1/2\""
+  },
+  {
+    "name": "CODO PVC 1 1/2\" A 45 G"
+  },
+  {
+    "name": "CODO PVC 1/2\""
+  },
+  {
+    "name": "CODO PVC 2\""
+  },
+  {
+    "name": "CODO PVC 2\" A 45°"
+  },
+  {
+    "name": "CODO PVC 3\""
+  },
+  {
+    "name": "CODO PVC 4\""
+  },
+  {
+    "name": "CODO PVC 45 G 1/2\""
+  },
+  {
+    "name": "COPLE DE COBRE 3/4\""
+  },
+  {
+    "name": "COPLE DE REPARACION INGLES 8\""
+  },
+  {
+    "name": "COPLE GALVANIZADO 1/2\""
+  },
+  {
+    "name": "COPLE GALVANIZADO HEMBRA 3\""
+  },
+  {
+    "name": "COPLE GUSANO PARA LAY FLAT 4\""
+  },
+  {
+    "name": "COPLE GUSANO PARA LAY FLAT 8\""
+  },
+  {
+    "name": "COPLE PLUS 1/2\""
+  },
+  {
+    "name": "COPLE PVC 1 1/2\""
+  },
+  {
+    "name": "COPLE PVC 1\""
+  },
+  {
+    "name": "COPLE PVC 2\""
+  },
+  {
+    "name": "COPLE PVC 3\""
+  },
+  {
+    "name": "COPLE PVC 3/4\""
+  },
+  {
+    "name": "COPLE PVC 4\""
+  },
+  {
+    "name": "COPLE SANITARIO 2\""
+  },
+  {
+    "name": "COPLE SANITARIO 4\""
+  },
+  {
+    "name": "COPLE SANITARIO 6\""
+  },
+  {
+    "name": "COPLE SANITARIO 8\""
+  },
+  {
+    "name": "HIDROTOMA 3\""
+  },
+  {
+    "name": "HIDROTOMA 4\""
+  },
+  {
+    "name": "LAYFLAT 4\""
+  },
+  {
+    "name": "LAYFLAT 6\""
+  },
+  {
+    "name": "LAYFLAT 8\""
+  },
+  {
+    "name": "LLAVE DE PASO 1\""
+  },
+  {
+    "name": "LLAVE DE NARIZ 1/2\""
+  },
+  {
+    "name": "LLAVE DE NARIZ 3/4\""
+  },
+  {
+    "name": "NIPLE ROSCADO 1 1/2\""
+  },
+  {
+    "name": "NIPLE 1\" X 1/2\""
+  },
+  {
+    "name": "NIPLE ROSCADO 1/2\""
+  },
+  {
+    "name": "NIPLE CON ROSCA 1\""
+  },
+  {
+    "name": "NIPLE ROSCADO 3/4\""
+  },
+  {
+    "name": "NIPLE PARA MANGUERA 1\""
+  },
+  {
+    "name": "NIPLE PARA MANGUERA 1/2\""
+  },
+  {
+    "name": "NIPLE PARA MANGUERA 3/4\""
+  },
+  {
+    "name": "REDUCCION BUSHING 2\" X 1 1/2\""
+  },
+  {
+    "name": "REDUCCION MIXTA 4\" X 2\" PVC"
+  },
+  {
+    "name": "REDUCCION BUSHING 1\" X 1/2\" PVC"
+  },
+  {
+    "name": "REDUCCION MIXTA 1\" X 1/2\" PVC"
+  },
+  {
+    "name": "REDUCCION MIXTA 1\" X 3/4\" PVC"
+  },
+  {
+    "name": "REDUCCION BUSHING 3/4\" X 1/2\" PVC"
+  },
+  {
+    "name": "REDUCCION MIXTA 2\" X 1 1/2\" PVC"
+  },
+  {
+    "name": "REDUCCION BUSHING 1 1/2\" X 1\" PVC"
+  },
+  {
+    "name": "REDUCCION CEMENTAR 3\" X 1\" PVC"
+  },
+  {
+    "name": "REDUCCION BUSHING 3/4\" X 1/2\""
+  },
+  {
+    "name": "REDUCCION CAMPANA GALVANIZADA 1\" X 1/2\""
+  },
+  {
+    "name": "REDUCCION CAMPANA 3/8\" X 1/4\""
+  },
+  {
+    "name": "REDUCCION CEMENTAR 3/4\" X 1/2\" PVC"
+  },
+  {
+    "name": "REDUCCION CEMENTAR 1 1/4\" X 1\" PVC"
+  },
+  {
+    "name": "REDUCCION CEMENTAR 1 X 1/2\" PVC"
+  },
+  {
+    "name": "REDUCCION CEMENTAR 1\" X 3/4\" PVC"
+  },
+  {
+    "name": "REDUCCION CEMENTAR 2\" X 1 1/2\" PVC"
+  },
+  {
+    "name": "REDUCCION CEMENTAR 2\" X 1\" PVC"
+  },
+  {
+    "name": "REDUCCION CEMENTAR 3\" X 2\" PVC"
+  },
+  {
+    "name": "REDUCCION CEMENTAR 4\" X 2\" PVC"
+  },
+  {
+    "name": "REDUCCION CEMENTAR 6\" X 4\" PVC"
+  },
+  {
+    "name": "REDUCCION CEMENTAR 8\" X 6\" PVC"
+  },
+  {
+    "name": "REDUCCION PVC 3/4\" X 1/2\""
+  },
+  {
+    "name": "REDUCCION DE CAMPANA DE 1\" X 3/4\""
+  },
+  {
+    "name": "REDUCCION PVC 8\" A 6\""
+  },
+  {
+    "name": "TAPON HEMBRA GALVANIZADO 2\""
+  },
+  {
+    "name": "TAPON PVC 1 1/2\""
+  },
+  {
+    "name": "TAPON PVC 1\""
+  },
+  {
+    "name": "TAPON PVC 2\""
+  },
+  {
+    "name": "TAPON PVC 3\""
+  },
+  {
+    "name": "TAPON PVC 4\""
+  },
+  {
+    "name": "TAPON PVC 8\""
+  },
+  {
+    "name": "TEE 8\" PVC"
+  },
+  {
+    "name": "TEE 8\" PVC INGLES"
+  },
+  {
+    "name": "TEE CPVC 1/2\""
+  },
+  {
+    "name": "TEE DE COBRE 1/2\""
+  },
+  {
+    "name": "TEE DE LINEA DE 6\""
+  },
+  {
+    "name": "TEE PARA MANGUERA 3/4\""
+  },
+  {
+    "name": "TEE PVC 1 1/2\" CED 40"
+  },
+  {
+    "name": "TEE PVC 1 1/4\" CED 40"
+  },
+  {
+    "name": "TEE PVC 1\" CED 40"
+  },
+  {
+    "name": "TEE PVC 3\" CED 40"
+  },
+  {
+    "name": "TEE PVC 4\" CED 40"
+  },
+  {
+    "name": "TEE PVC 6\" CED 40"
+  },
+  {
+    "name": "TEE PVC 8\" CED 40"
+  },
+  {
+    "name": "FILTRO PARA RIEGO 3\""
+  },
+  {
+    "name": "TUBO 2\" INGLES"
+  },
+  {
+    "name": "TUBO 4\" INGLES"
+  },
+  {
+    "name": "TUBO PVC 2\" RD 26"
+  },
+  {
+    "name": "TUERCA UNION PVC 1 1/2\""
+  },
+  {
+    "name": "TUERCA UNION PVC 1 1/4\""
+  },
+  {
+    "name": "TUERCA UNION PVC 1\""
+  },
+  {
+    "name": "TUERCA UNION PVC 2\""
+  },
+  {
+    "name": "TUERCA UNION PVC 3\""
+  },
+  {
+    "name": "VALVULA ESFERA CEMENTAR PVC 1 1/2\""
+  },
+  {
+    "name": "VALVULA ESFERA CEMENTAR PVC 1 1/4\""
+  },
+  {
+    "name": "VALVULA ESFERA CEMENTAR PVC 1\""
+  },
+  {
+    "name": "VALVULA ESFERA CEMENTAR PVC 3\""
+  },
+  {
+    "name": "VALVULA ESFERA CEMENTAR PVC 4\""
+  },
+  {
+    "name": "VALVULA CHECK TIPO COLUMPIO 1\""
+  },
+  {
+    "name": "VALVULA DE AIRE 1\""
+  },
+  {
+    "name": "VALVULA DE TINACO 1/2\""
+  },
+  {
+    "name": "VALVULA ESFERA ROSCADA PVC 1 1/2\""
+  },
+  {
+    "name": "VALVULA ESFERA ROSCADA PVC 1 1/4\""
+  },
+  {
+    "name": "VALVULA ESFERA ROSCADA PVC 1\""
+  },
+  {
+    "name": "VALVULA ESFERA ROSCADA PVC 4\""
+  },
+  {
+    "name": "Y PVC 6\""
+  },
+  {
+    "name": "CONEXIÓN RAPIDA C-400"
+  },
+  {
+    "name": "TAPON PVC 6\""
+  },
+  {
+    "name": "COPLE PVC 1 1/4\""
+  },
+  {
+    "name": "REDUCCION CEMENTAR 4\" X 3\" PVC"
+  },
+  {
+    "name": "REDUCCION CEMENTAR 4\" X 2 1/2\" PVC"
+  },
+  {
+    "name": "REDUCCION CEMENTAR 2\" X 1 1/4\" PVC"
+  },
+  {
+    "name": "CODO SANITARIO 110 MM 45°"
+  },
+  {
+    "name": "CODO SANITARIO 200 MM 45°"
+  },
+  {
+    "name": "CODO SANITARIO 75 MM 90°"
+  },
+  {
+    "name": "CODO SANITARIO 75 MM 87.5°"
+  },
+  {
+    "name": "CODO SANITARIO 50 MM 90°"
+  },
+  {
+    "name": "VALVULA DE LLENADO 1/2\""
+  },
+  {
+    "name": "TEE SANITARIO 110 MM"
+  },
+  {
+    "name": "ADAPTADOR MACHO PARA MANGUERA 3\""
+  },
+  {
+    "name": "CODO PLUS 1/2\""
+  },
+  {
+    "name": "COPLE DE REPARACION PVC 8\" METRICO"
+  },
+  {
+    "name": "REDUCCION CEMENTAR 1 1/2\" X 1"
+  },
+  {
+    "name": "BOMBA MULTIETAPAS 1 HP 127 V"
+  },
+  {
+    "name": "COPLE DE TRANSICION PVC 8\" METRICO"
+  },
+  {
+    "name": "COPLE DE REPARACION 6\" METRICO"
+  },
+  {
+    "name": "COPLE DE REPARACION 6\" INGLES"
+  },
+  {
+    "name": "TUBO PVC 8\" METRICO"
+  },
+  {
+    "name": "TUBO PVC 8\" INLGES"
+  },
+  {
+    "name": "TEE HIDRAULICA TIPO HIDRANTE PVC 6\" METRICO X 4\" INGLES"
+  },
+  {
+    "name": "COPLE TRANSICION PVC 200 MM X 8\" CEMENTAR"
+  },
+  {
+    "name": "REDUCCION MIXTA GALVANIZADA 1 1/4\" X 1/2\""
+  },
+  {
+    "name": "TEE PVC 2\"  CED 40"
+  },
+  {
+    "name": "COPLE DE REPARACION 6\""
+  },
+  {
+    "name": "ADAPTADOR MACHO PVC  4\""
+  },
+  {
+    "name": "VALVULA ESFERA ROSCADA PVC  3/4\""
+  },
+  {
+    "name": "VALVULA ESFERA CEMENTAR  PVC 2\""
+  },
+  {
+    "name": "LUBRICANTE PARA TUBERIAS  PVC"
+  },
+  {
+    "name": "CODO PVC 1\""
+  },
+  {
+    "name": "ABRAZADERA REFORZADA  6\""
+  },
+  {
+    "name": "REDUCCION BUSHING 1\" X 3/4\" PVC CED 40 CEMENTAR"
+  },
+  {
+    "name": "COPLE TRANSICION METRICO 8\" INGLES A METRICO CEMENTAR"
+  },
+  {
+    "name": "COPLE TRANSICION 8\" INGLES A METRICO CON CAMPANA"
+  },
+  {
+    "name": "COPLE TRANSICION 6\" INGLES A METRICO CEMENTABLE"
+  },
+  {
+    "name": "COPLE TRANSICION 6\" INGLES A METRICO CON CAMPANA"
+  },
+  {
+    "name": "COPLE REPARACION METRICO 8\" CON CAMPANA"
+  },
+  {
+    "name": "COPLE REPARACION METRICO 8\" CEMENTABLE"
+  },
+  {
+    "name": "COPLE REPARACION INGLES 8\" CON CAMPANA"
+  },
+  {
+    "name": "COPLE REPARACION INGLES 8\" CEMENTABLE"
+  },
+  {
+    "name": "COPLE REPARACION METRICO 6\" CON CAMPANA"
+  },
+  {
+    "name": "COPLE REPARACION METRICO 6\" CEMENTABLE"
+  },
+  {
+    "name": "COPLE REPARACION INGLES 6\" CON CAMPANA"
+  },
+  {
+    "name": "COPLE REPARACION INGLES 6\" CEMENTABLE"
+  },
+  {
+    "name": "TUBO PVC HIDRAULICO 6\" CALSE 5 CON CAMPANA Y ANILLO"
+  },
+  {
+    "name": "BRIDA 8\" CON TORNILLERIA COMPLETO METRICO"
+  },
+  {
+    "name": "BRIDA 6\" CON TORNILLERIA COMPLETA METRICO"
+  },
+  {
+    "name": "BRIDA 8\" CON TORNILLERIA COMPLETO INGLES"
+  },
+  {
+    "name": "BRIDA 6\" CON TORNILLERIA COMPLETO INGLES"
+  },
+  {
+    "name": "CODO 8\" PVC 90° METRICO CON CAMPANA"
+  },
+  {
+    "name": "CODO 8\" PVC 90°METRICO CEMENTABLE"
+  },
+  {
+    "name": "VALVULA MARIPOSA 8\""
+  },
+  {
+    "name": "VALVULA MARIPOSA 6\""
+  },
+  {
+    "name": "VLAVULA MARIPOSA 4\""
+  },
+  {
+    "name": "MEDIDOR DE FLUJO TAGENCIAL ANSI 150 6\""
+  },
+  {
+    "name": "MEDIDOR DE FLUJO TAGENCIAL ANSI 150 8\""
+  },
+  {
+    "name": "VALVULA MARIPOSA 4\""
+  },
+  {
+    "name": "JUEGO DE CONEXIÓN RAPIDA LATON 3/4\""
+  },
+  {
+    "name": "REDUCCION MIXTA 2\" X 1\" PVC"
+  },
+  {
+    "name": "CODO 4\" 45° PVC"
+  },
+  {
+    "name": "CODO 6\" PVC CED 40"
+  },
+  {
+    "name": "TEE 4\" A 2\" CED 40"
+  },
+  {
+    "name": "TEE 8 X 8 X 8 PVC HIDRAULICO 8\" METRICO CON CAMPANA X ESPIGA"
+  },
+  {
+    "name": "CODO 8\" 90° PVC HIDRAULICO METRICO CON CAMPANA Y LIGA X ESPI"
+  },
+  {
+    "name": "MANTECA VEGETAL INCA"
+  },
+  {
+    "name": "COPLE DE TRANSICION 8\" CAMPANA CON ANILLO METRICO A ESPIGA I"
+  },
+  {
+    "name": "COPLE DE TRANSICION 8\" INGLES A ESPIGA METRICO"
+  },
+  {
+    "name": "JUNTA PARA BRIDA 8\""
+  },
+  {
+    "name": "TORNILLO GALVANIZADO 5/8\" + RONDANA +TUERCA PARA BRIDA DE 6\""
+  },
+  {
+    "name": "TORNILLO GALVANIZADO 5/8\" + RONDANA +TUERCA PARA BRIDA DE 8\""
+  },
+  {
+    "name": "PEGAMENTO PVC EXTRAREFORZADO"
+  },
+  {
+    "name": "PRIMER LIMPIADOR PARA PVC"
+  },
+  {
+    "name": "ESCORFINA MEDIA CAÑA BASTARDA 6\""
+  },
+  {
+    "name": "CODO 90° PVC CED 40"
+  },
+  {
+    "name": "TUBO PVC HIDRAULICO 6\" CLASE 5 CON CAMPANA Y ANILLO"
+  },
+  {
+    "name": "CODO 8\" PVC 90° METRICO CEMENTABLE"
+  },
+  {
+    "name": "ADAPTADOR MACHO PARA MANGUERA 3/4\" X 1/2\""
+  },
+  {
+    "name": "MULTICONECTOR CON VALVULA ESFERA Y TUERCA UNION PARA 34/4\" Y"
+  },
+  {
+    "name": "REDUCCION MIXTA GALVANIZADA 1/4\" X 1/2\""
+  },
+  {
+    "name": "REDUCCION MIXTA GALVANIZADA 1 1/4\" X 1\""
+  },
+  {
+    "name": "REGADERAS CON TUBO 32\""
+  },
+  {
+    "name": "COPLE GUSANO PARA LAY FLAT 6\""
+  },
+  {
+    "name": "CONECTOR RAPIDO DE MANGUERA 3/4\""
+  },
+  {
+    "name": "REDUCCION CAMPANA GALVANIZADA 1 1/2\" X 2\""
+  },
+  {
+    "name": "NIPLE CUERDA CORRIDA GALVANIZADO 3/4\""
+  },
+  {
+    "name": "TAPON PVC HIDRAULICO 8\" INGLES CEMENTABLE"
+  },
+  {
+    "name": "TAPON PVC HIDRAULICO 8\" METRICO (CAMPANA)"
+  },
+  {
+    "name": "TAPON PVC HIDRAULICO 6\" METRICO (CAMPANA)"
+  },
+  {
+    "name": "CODO 90° PVC HIDRAULICO METRICO CEMENTABLE"
+  },
+  {
+    "name": "PUNTA DE BOQUILLA DE PULVERIZADOR DE HIDROLAVADORA 1/4\""
+  },
+  {
+    "name": "MULTICONECTOR CON VALVULA ESFERA Y TUERCA UNION PARA 3/4\" Y"
+  },
+  {
+    "name": "CODO 6\" 90° PVC HIDRAULICO METRICO CEMENTABLE"
+  },
+  {
+    "name": "CODO SANITARIO 200 MM 90°"
+  },
+  {
+    "name": "VALVULA DE COMPUERTA DE BRONCE 3\""
+  },
+  {
+    "name": "REDUCCION BUSHING 4\" X 2\" PVC CED 40"
+  },
+  {
+    "name": "NIPLE 3\" X 4\" PVC CED 40"
+  },
+  {
+    "name": "CODO 4\" 90° PVC CED 40"
+  },
+  {
+    "name": "VALVULA DE ALIVIO 2\""
+  },
+  {
+    "name": "NIPLE 8\" X 8\" PVC CED 40"
+  },
+  {
+    "name": "MIRILLA DE RETROLAVADO 1.5\" MPT"
+  },
+  {
+    "name": "TEE PVC 8\" X 8\" X 3\" CED 40"
+  },
+  {
+    "name": "TEE PVC 4\" X 4\" X 1 1/2\" CED 40"
+  },
+  {
+    "name": "BRIDA 8\" SIN TORNILLERIA CED 40"
+  },
+  {
+    "name": "REDUCCION CEMENTAR 6\" X 3\" PVC"
+  },
+  {
+    "name": "TEE HIDRANTE C7 PVC 200 MM X 8\""
+  },
+  {
+    "name": "ESPIGA ABOCINADA PVC 200 MM X 8\""
+  },
+  {
+    "name": "CAMPANA ABOCINADA PVC 200 MM X 8\""
+  },
+  {
+    "name": "BRIDA 4\" PVC CED 40 SIN TORNILLERIA"
+  },
+  {
+    "name": "TEE 4\" X 4\" X 1\" PVC CED 40"
+  },
+  {
+    "name": "CODO 8\" 90° PVC CED 40"
+  },
+  {
+    "name": "NIPLE 8\" X 8\" PVC CED 80"
+  },
+  {
+    "name": "NIPLE 3\" X 4\" PVC CED 80"
+  },
+  {
+    "name": "REDUCCION BUSHING 4\" X 2\" PVC CED 80"
+  },
+  {
+    "name": "CODO PVC 2\" X 90 CED 40"
+  },
+  {
+    "name": "TUBO COMBO SOLDADO RAIN MAX 4\""
+  },
+  {
+    "name": "ELEVADOR GALVANIZADO 24\" MACHO 1\" X HEMBRA 3/4\""
+  },
+  {
+    "name": "ASPERSOR DE BRONCE 3/4\" CON BOQUILLA DE BRONCE 11/64\" X 1/8\""
+  },
+  {
+    "name": "CODO DE ARRANQUE (VALVULA ABRIDORA) 4\" X 4\""
+  },
+  {
+    "name": "TAPON FINAL ALUMINIO 4\""
+  },
+  {
+    "name": "ABRAZADERA GALVANIZADA 4\""
+  },
+  {
+    "name": "ALDABA DE ALUMINIO PARA ABRAZADERA Y TUBO"
+  },
+  {
+    "name": "CODO DE ARRANQUE (VALVULA ABRIDORA) 4\" X 3\""
+  },
+  {
+    "name": "TAPON FINAL ALUMINIO 2\""
+  },
+  {
+    "name": "CODO DE CAMPO ALDABA 3\""
+  },
+  {
+    "name": "TEE DE CAMPO GANCHO 3\""
+  },
+  {
+    "name": "VALVULA DE ALIVIO 3\""
+  },
+  {
+    "name": "NIPLE PVC 3\" X 4\" CED 80"
+  },
+  {
+    "name": "TUERCA UNION PVC 3\" CED 80"
+  },
+  {
+    "name": "CODO PVC 3\" X 90 CED 40"
+  },
+  {
+    "name": "TUBO PVC 3\" RD 26"
+  },
+  {
+    "name": "BRIDA PVC 6\" CED 80"
+  },
+  {
+    "name": "CODO PVC 8\" X 90"
+  },
+  {
+    "name": "TUBO PVC 8\" RD 26"
+  },
+  {
+    "name": "REDUCCION BUSHING 6\" X 2\""
+  },
+  {
+    "name": "VALVULA DE AIRE DOBLE EFECTO 2\""
+  },
+  {
+    "name": "FILTRO 2\""
+  },
+  {
+    "name": "VALVULA PVC 2\" CON TUERCA CED 80"
+  },
+  {
+    "name": "REDUCCION BUSHING 3\" X 2\" PVC"
+  },
+  {
+    "name": "TUERCA UNION ROSCAR 2\" CED 80"
+  },
+  {
+    "name": "TUERCA UNION CEMENTAR 2\" CED 80"
+  },
+  {
+    "name": "CODO 8\" X 45 PVC"
+  },
+  {
+    "name": "APLICADORES PARA PEGAMENTO"
+  },
+  {
+    "name": "NIPLE PVC 2\" CED 80"
+  },
+  {
+    "name": "EMPAQUE NEOPRENO 6\""
+  },
+  {
+    "name": "TORNILLO GALVANIZADO 3\" X 4\""
+  },
+  {
+    "name": "BRIDA PVC 8\" CED 80"
+  },
+  {
+    "name": "EMPAQUE NEOPRENO 8\""
+  },
+  {
+    "name": "TORNILLO 5/8\" X 5 1/2\""
+  },
+  {
+    "name": "TUERCA 5/8\""
+  },
+  {
+    "name": "RONDANA PLANA 5/8\""
+  },
+  {
+    "name": "RONDANA DE PRESION 5/8\""
+  },
+  {
+    "name": "NIPLE PVC 2\" X 4\" CED 80"
+  },
+  {
+    "name": "CINTILLA WADE RAIN 6000 20 1 LHP LABERINTO"
+  },
+  {
+    "name": "CINTILLA WADE RAIN 6000 20 1 LHP PASTILLA"
+  },
+  {
+    "name": "TEE GALVANIZADA 3/4\""
+  },
+  {
+    "name": "VALVULA ESFERA DE LATON 3/4\""
+  },
+  {
+    "name": "NIPLE GALVANIZADO 3/4\" X 3\""
+  },
+  {
+    "name": "CONECTOR RECTO ROSCA MACHO 3/4\""
+  },
+  {
+    "name": "CINTA DE RIEGO 8 MIL BIG FOOT 3.0 5/8\""
+  },
+  {
+    "name": "REDUCCION BUSHING 6\" X 4\" PVC CED 80"
+  },
+  {
+    "name": "VALVULA DE AIRE 2\""
+  },
+  {
+    "name": "BRIDA 4\" VICTAULIC CED 80"
+  },
+  {
+    "name": "BRIDA 4\" VICTAULIC GLAVANIZADA"
+  },
+  {
+    "name": "MANGUERA DE POLIETILENO 8 MM"
+  },
+  {
+    "name": "COPLE VICTAULIC 8\" CED 80"
+  },
+  {
+    "name": "FERRULA LISA PARA TUERCA UNION 2\" CED 80"
+  },
+  {
+    "name": "FERRULA ROSCADA PARA TUERCA UNION 2\" CED 80"
+  },
+  {
+    "name": "COPLE PVC 6\""
+  },
+  {
+    "name": "TORNILLO GALVANIZADO CON TUERCA 5\" PARA VALVULA MARIPOSA 4\""
+  },
+  {
+    "name": "ADAPTADOR HEMBRA 6\" CED 40"
+  },
+  {
+    "name": "MANGUERA OVAL 4\""
+  },
+  {
+    "name": "CINTILLA TORO 6 MM A 20.75 LPH"
+  },
+  {
+    "name": "CINTILLA TORO 6 MM A 20.05 LPH"
+  },
+  {
+    "name": "TORNILLO GALVANIZADO 5/8\" + RONDANA +TUERCA PARA BRIDA DE 4\""
+  },
+  {
+    "name": "COPLE REPARACION 160 MM"
+  },
+  {
+    "name": "INSERCION 4\""
+  },
+  {
+    "name": "CINTILLA TORO 8 MM 7/8\" A 20 CM 1 LHP"
+  },
+  {
+    "name": "TUBO PVC 6\" RD 26"
+  },
+  {
+    "name": "TUBO PVC 4\" RD 26"
+  },
+  {
+    "name": "INSERCION 6\""
+  },
+  {
+    "name": "TEE HIDRANTE PVC 8\" X 8\""
+  },
+  {
+    "name": "COPLE INSERCION X INSERCION P/MANGUERA 4\""
+  },
+  {
+    "name": "TAPA PVC 2\" ROSCADA"
+  },
+  {
+    "name": "VALVULA ESFERA ROSCADA PVC 2\""
+  },
+  {
+    "name": "REDUCCION BUSHING 2\" X 1 1/2\" GALVANIZADA"
+  },
+  {
+    "name": "NIPLE GALVANIZADO 1 1/2\" X 3"
+  },
+  {
+    "name": "VALVULA MARIPOSA 3\""
+  },
+  {
+    "name": "MANGUERA REFORZADA 1/2\" (3 CAPAS)"
+  },
+  {
+    "name": "CINTILLA TORO 6 MM 5/8\" 1LHP"
+  },
+  {
+    "name": "CINTILLA TORO 8 MM 5/8\" 1LHP"
+  },
+  {
+    "name": "MINI VALVULA LAY FLAT X CINTILLA"
+  },
+  {
+    "name": "VALVULA ESFERA TUERCA UNION SENCILLA 1 1/2\""
+  },
+  {
+    "name": "TAPON HEMBRA ROSCADO PVC  4\""
+  },
+  {
+    "name": "TAPON HEMBRA ROSCADO PVC  3\""
+  },
+  {
+    "name": "TAPON CON ESPIGA PVC 4\""
+  },
+  {
+    "name": "REDUCCION PVC SANITARIO 200 MM X 160 MM"
+  },
+  {
+    "name": "DREN 4\" X 2\" PARA LAY FLAT"
+  },
+  {
+    "name": "VALVULA ESFERA 2\" C-80"
+  },
+  {
+    "name": "COPLE INSERCION X INSERCION P/ MANGUERA 8\""
+  },
+  {
+    "name": "ADAPTADOR INSERCION P/MANGUERA X CEMENTAR PVC 8\""
+  },
+  {
+    "name": "COPLE INSERCION X INSERCION P/ MANGUERA 6\""
+  },
+  {
+    "name": "ADAPTADOR INSERCION P/ MANGUERA X CEMENTAR PVC 4\""
+  },
+  {
+    "name": "COPLE OVAL X CINTA 16 MM"
+  },
+  {
+    "name": "CINTILLA TORO 8 MM 5/8\" A 40 CM 1 LHP"
+  },
+  {
+    "name": "COPLE PVC RD - 26 8\" INGLES"
+  },
+  {
+    "name": "TORNILLO DE 6\" X 5/8\""
+  },
+  {
+    "name": "BRIDA 4\" CON TORNILLERIA COMPLETO"
+  },
+  {
+    "name": "BRIDA 3\" PVC CED 40"
+  },
+  {
+    "name": "COPLE CEMENTAR METRICO 1600 MM"
+  },
+  {
+    "name": "COPLE CEMENTAR 6\" PVC CED 40"
+  },
+  {
+    "name": "COPLE CEMENTAR 3\" PVC CED 40"
+  },
+  {
+    "name": "TUBO PVC 3\" HIDRAULICO"
+  },
+  {
+    "name": "MULTICONECTOR CON VALVULA ESFERA Y TUERCA UNION PARA 3/4\" Y 1\""
+  },
+  {
+    "name": "COPLE GUSANO PARA LAY FLAT 6\" "
+  },
+  {
+    "name": "TEE 8 X 8 X 8 PVC HIDRAULICO 8\" METRICO CON CAMPANA X ESPIGA X ESPIGA"
+  },
+  {
+    "name": "CODO 8\" 90° PVC HIDRAULICO METRICO CON CAMPANA Y LIGA X ESPIGA"
+  },
+  {
+    "name": "COPLE DE TRANSICION 8\" CAMPANA CON ANILLO METRICO A ESPIGA INGLES"
+  },
+  {
+    "name": "PRIMER LIMPIADOR PARA PVC "
+  },
+  {
+    "name": "CODO 8\" 90° PVC CED 40 "
+  },
+  {
+    "name": "TORNILLO GALVANIZADO 3\" X 4\" "
+  },
+  {
+    "name": "CONECTOR RECTO ROSCA MACHO 3/4\" "
+  },
+  {
+    "name": "TEE HIDRANTE PVC 8\" X 8\" "
+  },
+  {
+    "name": "COPLE CINTA X CINTA 7/8\""
+  },
+  {
+    "name": "PONCHADORA PARA MANGUERA OVAL"
+  },
+  {
+    "name": "ADAPTADOR CAMPANA PVC 6\""
+  },
+  {
+    "name": "TEE HIDRANTE 6\" X 6\""
+  },
+  {
+    "name": "COPLE REPARACION PVC METRICO 6\""
+  },
+  {
+    "name": "HIDROTOMA GRIS 3\" X 1\""
+  },
+  {
+    "name": "REDUCCION BUSHING 1\" X 3/4\" GALVANIZADA"
+  },
+  {
+    "name": "TUBO HIDRAULICO RD26 1 1/2\" X 6 MTR"
+  },
+  {
+    "name": "TUBO HIDRAULICO RD26 1\" X 6 MTR"
+  },
+  {
+    "name": "CRUZ PVC C-40 1 1/2\""
+  },
+  {
+    "name": "BOMBA CENTRIFUGA FIX 1.5 HP 110 V "
+  },
+  {
+    "name": "SOPLADOR 1 HP 110 V"
+  },
+  {
+    "name": "TEE CRUZ 2\" PVC CED 80 CEMENTAR"
+  },
+  {
+    "name": "TUBO HIDRAULICO PVC RD26 2\" X 6 MTR"
+  },
+  {
+    "name": "VALVULA MARIPOSA 6\" TIPO FOFO"
+  },
+  {
+    "name": "REDUCCION CEMENTAR 8\" X 4\""
+  },
+  {
+    "name": "MANGUERA NEGRA REFORZADA DE 2\""
+  },
+  {
+    "name": "MANGUERA ANILLADA 1 1/2\""
+  },
+  {
+    "name": "MANOMETRO 0-30 PSI"
+  },
+  {
+    "name": "CAUDALIMETRO DE VENTURY DE 1\""
+  },
+  {
+    "name": "NIPLE PARA MANGUERA 1 1/2\""
+  },
+  {
+    "name": "VALVULA MARIPOSA  8\" TIPO FOFO"
+  },
+  {
+    "name": "NIPLE PARA MANGUERA 2\""
+  },
+  {
+    "name": "CODO CINTA 5/8\" AZUL 1/2\" NPT"
+  },
+  {
+    "name": "TEE CINTA 5/8\" X 5/8\" AZUL X 1/2\" NTP"
+  },
+  {
+    "name": "TAPON 1/2\" PARA SUN FLOW 20 CM"
+  },
+  {
+    "name": "TAPON MACHO ROSCADO 2\" CED 80"
+  },
+  {
+    "name": "MANGUERA LAY LAT 4\" SUN FLOW PERFORADA A CADA 20 CM"
+  },
+  {
+    "name": "CODO 8\" PVC 90° INGLES CEMENTABLE"
+  },
+  {
+    "name": "TAPA DE 6\" C-40"
+  },
+  {
+    "name": "TEE SENCILLA SANIFLOW 1\""
+  },
+  {
+    "name": "REDUCCIÓN BUSHING PVC C40 2\" X 1\" "
+  },
+  {
+    "name": "ADAPTADOR MACHO PVC C40 1\""
+  },
+  {
+    "name": "CODO 90° PVC C40 1\""
+  },
+  {
+    "name": "TEE PVC C40 1\""
+  },
+  {
+    "name": "TAPON CÉDULA 40 DE 6\" PARA CEMENTAR"
+  },
+  {
+    "name": "REDUCCION BUSHING 1\" A 1/2\""
+  },
+  {
+    "name": "HIDRANTE DE 4\""
+  },
+  {
+    "name": "MINI VALVULA CINTA X CINTA 5/8\""
+  },
+  {
+    "name": "VALVULA HIDRANTE 4\""
+  },
+  {
+    "name": "ABRAZADERA SIN FIN 3/8\""
+  },
+  {
+    "name": "TEE MANGUERA INSERCCION 2 SALIDAS 1 1/2\""
+  },
+  {
+    "name": "MINI VALVULA INICIAL CINTA CON GOMA 5/8\""
+  },
+  {
+    "name": "GOMA PARA MINI VALVULA INICIAL A PVC"
+  },
+  {
+    "name": "TUBO PVC 3\" CED 40"
+  },
+  {
+    "name": "TUBO PVC 2\" CED 40"
+  },
+  {
+    "name": "REDUCCION MIXTA PVC 3\" X 2\" CED 40"
+  },
+  {
+    "name": "TEE PARA MANGUERA DE 1/2\""
+  },
+  {
+    "name": "CONECTOR 13 MM C/TUERCA X CINTA 5/8\" (MANGUERA OVAL)"
+  },
+  {
+    "name": "VALVULA DE ALIVIO DE PRESION 3\""
+  },
+  {
+    "name": "VALVULA DE ADMISION Y EXPULSION DE AIRE 2\""
+  },
+  {
+    "name": "COPLE GUSANO PARA LAY FLAT 3\""
+  },
+  {
+    "name": "ADAPTADOR MACHO CONKTA 3/4\""
+  },
+  {
+    "name": "TEE PVC C40 2\""
+  },
+  {
+    "name": "COPLE DE ESPIGA DE 4\""
+  },
+  {
+    "name": "VÁLVULA DE ESFERA CON 1 UNIÓN PARA CEMENTAR"
+  },
+  {
+    "name": "CONECTOR MACHO LATON 3/4\""
+  },
+  {
+    "name": "CONECTOR HEMBRA LATON 3/4"
+  },
+  {
+    "name": "CUERPO QUICK 1/2\" TEE"
+  },
+  {
+    "name": "CUERPO QUICK 1/2\" ELE"
+  },
+  {
+    "name": "ADAPTADOR 2\""
+  },
+  {
+    "name": "CONECTOR MACHO CPVC 1/2\""
+  },
+  {
+    "name": "TEE MANGUERA INSERCIÓN DE 2 SALIDA 1-1/2 PULGADAS"
+  },
+  {
+    "name": "MINIVALVULAS DE 5/8\" DE CINTILLA DE PVC"
+  },
+  {
+    "name": "GOMAS PARA MINI VÁLVULA INICIAL  CINTA A PVC"
+  },
+  {
+    "name": "VALVULA  DE DESCARGA /43040-030500 /FXN FLUSH VALVE*4\" KIT"
+  },
+  {
+    "name": "CONECTOR CEMENTAR / 43040-018381 / FXN SW ADAPTER ASTM 4\"*4\" KIT"
+  },
+  {
+    "name": "FLEXNET COPLE /43040-018300 / FXN COUPLING 4\"*4\" KIT"
+  },
+  {
+    "name": "SPECIAL PRODUC / 32540-100030 DL VALVE RING T 16-1/2\" MTH"
+  },
+  {
+    "name": "SPECIAL PRODUC /32540-100010 DL VALVE RING ELBOW 16-1/2\" MTH"
+  },
+  {
+    "name": "TAPONES/ 42000-027105 /FXN PLUG 0.5\" MTH+O RING/50 BAG"
+  },
+  {
+    "name": "SPECIAL PRODUC /43002-003266 / FXN4\" 1/2\" CONN 0.2 M  100 M"
+  },
+  {
+    "name": "ABRAZADERA /43040-100020 / FXN SS304 CLAMP 4\""
+  },
+  {
+    "name": "VALVULA DE AIRE COMBINADA DE 1/2\"/ 70561-001000 /DT40 PP COMB 1/2\" NPT PN6 LP"
+  },
+  {
+    "name": "KIT DE REPARACIÓN / 42000-007000 / NETAFIX NFP PUNCTURE FIX KIT BOX"
+  },
+  {
+    "name": "PARCHES / 42000-007010 / NETAFIX NFP SPARE PARTS /20 BAG"
+  },
+  {
+    "name": "EMPAQUE 3\" TIPO Z"
+  },
+  {
+    "name": "TUBO ALUMINIO COMPLETO CON ASPERSOR Y ELEVADOR 3X6"
+  },
+  {
+    "name": "TUBO ALUMINIO COMPLETO CON ASPERSOR Y ELEVADOR 3X9"
+  },
+  {
+    "name": "MANGUERA TRAMADA, REFORZADA 3/4\", 100M LARGO"
+  },
+  {
+    "name": "TUBO 3\" PVC SCH40, Pieza DE 6 M"
+  },
+  {
+    "name": "TUBO 2\" PVC SCH40, Pieza DE 6 M"
+  },
+  {
+    "name": "CODO 3\" PVC SCH40"
+  },
+  {
+    "name": "CODO 2\" PVC SCH40"
+  },
+  {
+    "name": "COPLES 3\" PVC SCH40"
+  },
+  {
+    "name": "TEE 2\" PVC"
+  },
+  {
+    "name": "REDUCCION CEMENTAR 3\" X 2\" PVC SCH40"
+  },
+  {
+    "name": "TEE 1/4\" LATON"
+  },
+  {
+    "name": "MANGUERA"
+  },
+  {
+    "name": "COPLE GALVANIZADO 3/4"
+  },
+  {
+    "name": "ADAPTADOR MACHO INSERCION DE 3/4\""
+  },
+  {
+    "name": "TEE DE MEDIA PULGADA PARA CONECCION DE MANGUERA DE 1/2"
+  },
+  {
+    "name": "CONECTORES DE MANGUERA OVAL A COINTILLA"
+  },
+  {
+    "name": "TAPON METALICO DE ROSCA DE 4\""
+  },
+  {
+    "name": "VALVULA DE 3/4\" DE LATON"
+  },
+  {
+    "name": "NIPLE GALVANIZADO DE 3/4\""
+  },
+  {
+    "name": "COPLE 4/3\" PVC"
+  },
+  {
+    "name": "REDUCCION BUSHING 8\" x 4\" PVC CEMENTABLE"
+  },
+  {
+    "name": "CINTILLA AQUATRAX GOTERO A 40 CM (CIEGA) "
+  },
+  {
+    "name": "REDUCCIÓN BUSHIN CEMENTABLE DE 4\" A 3\" (SI)"
+  },
+  {
+    "name": "CODOS DE 4\" (S.I.)"
+  },
+  {
+    "name": "TE DE 4\" (S.I)"
+  },
+  {
+    "name": "TUBO 6MT"
+  },
+  {
+    "name": "COPLE 3/4\""
+  },
+  {
+    "name": "TUBO PVC DE 6\" (INGLES)"
+  },
+  {
+    "name": "GOMA PARA MINI VALVULA INICIAL A PVC 5/8"
+  },
+  {
+    "name": "VALVULA ESFERA PVC CEMENTAR 1\""
+  },
+  {
+    "name": "REDUCCIÓN DE 4\" A 2\" PVC"
+  },
+  {
+    "name": "NIPLE BRONCE 3/4\""
+  },
+  {
+    "name": "MANGUERA REFORZADA 3/4\""
+  },
+  {
+    "name": "FILTRO DE MALLA 3/4 PARA RIEGO"
+  },
+  {
+    "name": "FILTRO DE MALLA 1\" PARA RIEGO"
+  },
+  {
+    "name": "TAPON PVC 8\" METRICO"
+  },
+  {
+    "name": "TAPON PVC 4\" INGLES"
+  },
+  {
+    "name": "ROSCA 3/4"
+  },
+  {
+    "name": "TAPON HIDRAULICO 1\" PCV"
+  },
+  {
+    "name": "TUBO PVC HIDRAULICO METRICO 6\" CLASE 5 CAMPANA Y ANILLO"
+  },
+  {
+    "name": "TUBO PVC HIDRAULICO METRICO 4\" SIN CAMPANA "
+  },
+  {
+    "name": "TUBO PVC HIDRAULICO METRICO 6\" CON CAMPANA "
+  },
+  {
+    "name": "TUBO PVC HIDRAULICO METRICO 9\" CON CAMPANA "
+  },
+  {
+    "name": "TUBO PVC HIDRAULICO METRICO 4\" CON CAMPANA "
+  },
+  {
+    "name": "TUBO PVC HIDRAULICO METRICO 4\" SIN CAMPANA CON LIGA "
+  },
+  {
+    "name": "TUBO PVC HIDRAULICO METRICO 2\" CON CAMPANA "
+  },
+  {
+    "name": "REDUCCION BUSHING 1/2\" X 3/8\""
+  },
+  {
+    "name": "NIPLE 3/8\""
+  },
+  {
+    "name": "COPLE CON CAMPANA DE 3\""
+  },
+  {
+    "name": "VALVULA ESFERA PARA MANERAL DE RIEGO 3/4\""
+  },
+  {
+    "name": "CONEXIONES RAPIDAS TRUPER DE LATON 3/4\""
+  },
+  {
+    "name": "NIPLE 3/4\" DE PLASICO PARA MANGUERA"
+  },
+  {
+    "name": "COPLE CON LIGA Y CAMPANA 3\""
+  },
+  {
+    "name": "CINTILLA AQUATRAX GOTERO A 40 CM (CIEGA)"
+  },
+  {
+    "name": "LASER POINTER"
+  },
+  {
+    "name": "BISAGRA 3\""
+  },
+  {
+    "name": "DISCO DE DIAMANTE RIN CONITINUO"
+  },
+  {
+    "name": "LIMA 8\""
+  },
+  {
+    "name": "PIJA PARA ANAQUEL"
+  },
+  {
+    "name": "TUERCA PARA ANAQUEL "
+  },
+  {
+    "name": "DRON MAVIC DJI AIR  "
+  },
+  {
+    "name": "SELECTOR MANETA LARGA NO LUMINOSO 2 POS. FIJAS  023930  MARC. LEGRAND"
+  },
+  {
+    "name": "SOPORTE P/1 BLOCK  022960 MARC.LEGRAND"
+  },
+  {
+    "name": "BLOCK DE CONTACTO NA  022902 MARC.LEGRAND"
+  },
+  {
+    "name": "SOPORTE P/1 BLOCK 022960 MARC.LEGRAND"
+  },
+  {
+    "name": "BLOCK LUMINOSO LED BLANCO 230V    022940 MARC.LEGRAND"
+  },
+  {
+    "name": "PILOTO INDICADOR VERDE 024162 MARC. LEGRAND"
+  },
+  {
+    "name": "PILOTO INDICADOR AMARILLO 024164 MARC. LEGRAND"
+  },
+  {
+    "name": "PILOTO INDICADOR ROJO 024161 MARC.LEGRAND"
+  },
+  {
+    "name": "HERRAMIENTA APRIETE 024185 MARC.LEGRAND"
+  },
+  {
+    "name": "TERMINAL HEMBRA ENCAPSULADA AZUL 16-14 SERIE 250"
+  },
+  {
+    "name": "TERMINAL HEMBRA ENCAPSULADA AMARILLA 12-10 SERIE 250"
+  }
+]

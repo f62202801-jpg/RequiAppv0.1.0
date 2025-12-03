@@ -1,0 +1,6 @@
+{
+  "appId": "com.lbp.requisiciones",
+  "appName": "Requisiciones",
+  "webDir": "frontend/dist",
+  "bundledWebRuntime": false
+}
