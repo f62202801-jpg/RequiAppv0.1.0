@@ -145,11 +145,11 @@ def init_files():
         # MISMA ESTRUCTURA QUE EL PRIMER CÓDIGO
         ws.append(["master_id",
     datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
-    session["user"],
-    session["name"],
+    "user",
+    "name",
     "departamento",
     "etapa",
-    "proyecto_final",  # 👈 ESTE ES EL BUENO
+    "proyecto_final",  
     "producto",
     "unidad",
     "cantidad",
