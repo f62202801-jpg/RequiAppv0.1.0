@@ -1,13 +1,28 @@
 {
   "Fresa": [
-    "101 - Strawberry"
+    "101 - Strawberry",  "-Proyectos Especiales Fresa-",
+    "25-26OUTCAP01",
+    "25-26OUTCAP02",
+    "25-26OUTCAP03",
+    "25-26OUTCAP04",
+    "25-26OUTCAP05",
+    "25-26OUTCAP06",
+    "25-26OUTCAP07",
+    "25-26OUTCAP08",
+    "25-26OUTCAP09",
+    "25-26OUTCAP10",
+    "25-26OUTCAP11",
+    "25-26OUTCAP12",
+    "25-26OUTCAP13",
+    "25-26OUTCAP14",
+    "25-26OUTCAP15",
+    "25-26OUTCAP16",
+    "25-26OUTCAP17",],
   ],
   "Invernadero": [
-    "103 - Raspberry Increace",
-    "106 - Raspberry Puebla",
-    "ti"
+  "103 - Raspberry Increace", "106 - Raspberry Puebla","110 - Blackberry Increce", "111 - Blueberry Puebla","112 - Third-party nursery – Plantfort","113 - Third-party nursery – NAP", "114 - Indoor","207 - Blackberry Puebla", "210 - Crop Rotation Oats", "211 - Crop Rotation Barley",  "216 - Raspberry Queretaro", "217 - Blackberry Queretaro","218 - Blueberry- Queretaro", "-Proyectos especiales Invernadero-", "218 - Blueberry Queretaro", "25-26INDCAP01", "25-26INDCAP02", "25-26INDCAP03", "25-26INDCAP04", "25-26INDCAP05", "25-26INDCAP06", "25-26INDCAP07", "25-26INDCAP08"
   ],
   "Administracion": [
-    "300 - Board Of Directors, President & Special Projects"
+    "300 - Board Of Directors, President & Special Projects", "301 - Sales", "302 - Outdoor T&E Production", "303 - Indoor T&E Production", "304 - Finance & Controlling", "305 - HR , SSHE and Facility","306 - Procurement & Warehouse","307- Legal"
   ]
 }
