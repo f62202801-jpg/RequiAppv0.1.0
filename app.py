@@ -978,20 +978,24 @@ def forgot():
 
     # ✅ ESTO SIEMPRE DEBE EXISTIR
     return render_template("forgot.html")
+def send_reset_email(to, link):
+    try:
+        msg = Message(
+            subject="Recuperación de contraseña",
+            sender="eoronzor@latinberryplants.com",
+            recipients=[to]
+        )
 
-def send_email(to, link):
-    msg = Message(
-        subject="Recuperación de contraseña",
-        sender="eoronzor@latinberryplants.com",
-        recipients=[to]
-    )
+        msg.html = f"""
+        <h3>Restablecer contraseña</h3>
+        <a href="{link}">Haz clic aquí</a>
+        """
 
-    msg.html = f"""
-    <h3>Restablecer contraseña</h3>
-    <a href="{link}">Haz clic aquí</a>
-    """
+        mail.send(msg)
+        print("✅ Correo enviado correctamente")
 
-    mail.send(msg)
+    except Exception as e:
+        print("❌ ERROR EMAIL:", e)
 
 @app.route("/reset/<token>", methods=["GET","POST"])
 def reset_token(token):
