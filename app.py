@@ -69,7 +69,7 @@ USERS = {
     "Rebecca": {"password": "2053", "email":"rprieto@latinberryplants.com","role": "solicitante", "name": "Rebecca Prieto", "jefe": "Iliana Orozco", "DEPARTMENTS": "Administracion"},
     "Iliana Orozco": {"password": "2054", "email":"iorozco@latinberryplants.com","role": "jefe", "name": "Iliana Orozco", "jefe": "Daniel Nelson", "DEPARTMENTS": "Administracion"},
     #---- Admin 305
-    "Alejandro": {"password": "2060", "achavarria@latinberryplants.com", "role": "solicitante", "name": "Alejandro Chavarria", "jefe": "Alfonso Aquino", "DEPARTMENTS": "Administracion"},
+    "Alejandro": {"password": "2060", "email": "achavarria@latinberryplants.com", "role": "solicitante", "name": "Alejandro Chavarria", "jefe": "Alfonso Aquino", "DEPARTMENTS": "Administracion"},
     "Ana": {"password": "2062", "email" : "aperez@latinberryplants.com", "role": "solicitante", "name": "Ana Teresa Perez", "jefe": "Alfonso Aquino", "DEPARTMENTS": "Administracion"},
     "Armando": {"password": "2063", "email": "afierro@latinberryplants.com","role": "solicitante", "name": "Armando Fierro", "jefe": "Alfonso Aquino", "DEPARTMENTS": "Administracion"},
     "Claudia": {"password": "2064","email": "comartinez@latinberryplants.com", "role": "solicitante", "name": "Claudia Martinez", "jefe": "Alfonso Aquino", "DEPARTMENTS": "Administracion"},
