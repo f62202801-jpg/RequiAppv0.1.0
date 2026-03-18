@@ -200,27 +200,28 @@ def save_projects():
         return False
 
 load_projects()
-
+SMTP_HOST = app.config['MAIL_SERVER']
+SMTP_PORT = app.config['MAIL_PORT']
+SMTP_USER = app.config['MAIL_USERNAME']
+SMTP_PASS = app.config['MAIL_PASSWORD']
 # --- Funciones ---
-def send_email(to_list, subject, body):
-    if not to_list:
-        return
-    recipients = [e.strip() for e in to_list.split(",") if e.strip()]
-    if not (SMTP_HOST and SMTP_USER and SMTP_PASS):
-        print("Correo simulado a:", recipients)
-        print(subject)
-        return
+def send_email(to, subject, body):
     try:
         msg = EmailMessage()
         msg["Subject"] = subject
-        msg["From"] = SMTP_USER
-        msg["To"] = ", ".join(recipients)
+        msg["From"] = app.config['MAIL_USERNAME']
+        msg["To"] = to
         msg.set_content(body)
-        with smtplib.SMTP(SMTP_HOST, SMTP_PORT) as s:
-            s.starttls() 
+
+        with smtplib.SMTP(app.config['MAIL_SERVER'], app.config['MAIL_PORT']) as s:
+            s.starttls()
+            s.login(app.config['MAIL_USERNAME'], app.config['MAIL_PASSWORD'])
             s.send_message(msg)
+
+        print("✅ Correo enviado")
+
     except Exception as e:
-        print("Error enviando correo:", e)
+        print("❌ Error enviando correo:", e)
 
 def get_products():
     if os.path.exists(CATALOG_JSON):
