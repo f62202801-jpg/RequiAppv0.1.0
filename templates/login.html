@@ -1,4 +1,5 @@
-<!doctype html>
+
+      <!doctype html>
 <html lang="es">
 <head>
   <meta charset="utf-8">
@@ -15,111 +16,136 @@
     :root {
       --azul-principal: #3e5f8a;
       --azul-claro: #4f7ab3;
-      --gris-fondo: #f4f6f8;
-      --borde-suave: #e0e6ec;
+      --verde-tint: rgba(116, 116, 116, 0.25);      
+      --verde-borde: rgba(236, 236, 236, 0.35);    
+      --verde-focus: rgba(201, 202, 202, 0.45);    
+      --blanco-focus: rgb(252, 255, 253);    
+      --btns: rgba(144, 146, 144, 0.418);    
     }
 
-    body {
-      margin: 0;
-      height: 100vh;
-      background: linear-gradient(rgba(62, 95, 138, 0.55), rgba(62, 95, 138, 0.75)),
-                  url("{{ url_for('static', filename='img/fondo_login.jpg') }}") no-repeat center center/cover;
-      font-family: 'Inter', 'Segoe UI', system-ui;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-    }
+body {
+  margin: 0;
+  height: 100vh;
+  background-image: url("{{ url_for('static', filename='img/LatinBerry-338.jpg') }}");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  font-family: 'Inter', 'Segoe UI', system-ui;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 
-    .login-card {
-      background: #fff;
-      border-radius: 16px;
-      border: 1px solid var(--borde-suave);
-      box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
-      width: 420px;
-      padding: 2.5rem 2rem;
-      animation: fadeIn 0.8s ease;
-    }
+/* ------------------ LIQUID GLASS ------------------ */
+.login-card {
+  background: rgba(255, 255, 255, 0.18);
+  border-radius: 20px;
+  padding: 2.5rem 2rem;
+  width: 420px;
 
-    .login-card h5 {
-      color: var(--azul-principal);
-      font-weight: 600;
-      margin-bottom: 1rem;
-    }
+  backdrop-filter: blur(18px) saturate(180%);
+  -webkit-backdrop-filter: blur(18px) saturate(180%);
+  border: 1px solid rgba(255, 255, 255, 0.35);
 
-    .form-label {
-      font-weight: 500;
-      color: #333;
-    }
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.30);
 
-    .form-control {
-      border-radius: 10px;
-      border: 1px solid #d8dee4;
-      transition: all 0.25s ease;
-    }
+  animation: fadeIn 0.8s ease;
+}
+/* --------------------------------------------------- */
 
-    .form-control:focus {
-      border-color: var(--azul-claro);
-      box-shadow: 0 0 0 0.2rem rgba(79, 122, 179, 0.25);
-    }
+.login-card h5 {
+  color: var(--blanco-focus);
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
 
-    .btn-login {
-      background-color: var(--azul-principal);
-      border: none;
-      border-radius: 10px;
-      color: #fff;
-      font-weight: 600;
-      padding: 0.7rem;
-      transition: all 0.3s ease;
-    }
+.form-label {
+  font-weight: 500;
+  color: #ffffff;
+}
 
-    .btn-login:hover {
-      background-color: var(--azul-claro);
-      transform: translateY(-2px);
-      box-shadow: 0 4px 10px rgba(62, 95, 138, 0.3);
-    }
+/* ------------------ CAMPOS TEÑIDOS ------------------ */
+.form-control {
+  border-radius: 12px;
+  border: 1px solid var(--verde-borde);
+  padding: 12px;
+  background: var(--verde-tint);         /* efecto teñido */
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  color: #4a6158;                        
+  font-weight: 500;
+  transition: all 0.3s ease;
+}
 
-    .login-Logo {
-      max-width: 140px;
-      filter: drop-shadow(0 2px 3px rgba(0, 0, 0, 0.1));
-    }
+.form-control::placeholder {
+  color: rgba(124, 151, 137, 0.55);
+}
 
-    @keyframes fadeIn {
-      from { opacity: 0; transform: translateY(15px); }
-      to { opacity: 1; transform: translateY(0); }
-    }
+.form-control:focus {
+  background: var(--verde-focus);
+  border-color: #789c8b;
+  box-shadow: 0 0 8px rgba(112, 129, 119, 0.35);
+}
+/* ----------------------------------------------------- */
 
-    .alert {
-      border-radius: 10px;
-      font-size: 0.9rem;
-    }
+.btn-login {
+  background-color: var(--azul-principal);
+  border: none;
+  border-radius: 10px;
+  color: #fff;
+  font-weight: 600;
+  padding: 0.7rem;
+  transition: all 0.3s ease;
+}
 
-    footer {
-      position: absolute;
-      bottom: 10px;
-      width: 100%;
-      text-align: center;
-      color: rgba(255,255,255,0.8);
-      font-size: 0.85rem;
-    }
+.btn-login:hover {
+  background-color: var(--azul-claro);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 10px rgba(255, 255, 255, 0.3);
+}
 
-    footer a {
-      color: rgba(255,255,255,0.9);
-      text-decoration: none;
-      margin-left: 5px;
-    }
+.login-Logo {
+  max-width: 140px;
+  filter: drop-shadow(0 2px 3px rgba(250, 245, 245, 0.1));
+}
 
-    footer a:hover {
-      text-decoration: underline;
-      color: #fff;
-    }
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(15px); }
+  to { opacity: 1; transform: translateY(0); }
+}
 
-    footer svg {
-      width: 14px;
-      height: 14px;
-      vertical-align: middle;
-      margin-right: 4px;
-      fill: currentColor;
-    }
+.alert {
+  border-radius: 10px;
+  font-size: 0.9rem;
+}
+
+footer {
+  position: absolute;
+  bottom: 10px;
+  width: 100%;
+  text-align: center;
+  color: rgba(255,255,255,0.8);
+  font-size: 0.85rem;
+}
+
+footer a {
+  color: rgba(255,255,255,0.9);
+  text-decoration: none;
+  margin-left: 5px;
+}
+
+footer a:hover {
+  text-decoration: underline;
+  color: #fff;
+}
+
+footer svg {
+  width: 14px;
+  height: 14px;
+  vertical-align: middle;
+  margin-right: 4px;
+  fill: currentColor;
+}
   </style>
 
   <script>
@@ -140,7 +166,7 @@
 <body>
   <div class="login-card">
     <div class="text-center mb-3">
-      <img src="{{ url_for('static', filename='logo_login.png') }}" class="login-Logo mb-2">
+      <img src="{{ url_for('static', filename='Logo.png') }}" class="login-Logo mb-2">
       <h5>Acceso al sistema</h5>
     </div>
 
@@ -163,19 +189,18 @@
       </div>
       <button class="btn btn-login w-100">Iniciar sesión</button>
     </form>
+    <a href="{{ url_for('forgot') }}">¿Olvidaste tu contraseña?</a>
   </div>
 
   <footer>
     © {{ current_year }} Latín Berry Plants · Departamento de TI <br>
-    <a href="mailto:ti@latinberryplants.com?subject=Contacto%20Departamento%20TI" title="Enviar correo al Departamento de TI">
+    <a href="mailto:eoronzor@latinberryplants.com?subject=Contacto%20Departamento%20TI" title="Enviar correo al Departamento de TI">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
         <path d="M3 6.5A2.5 2.5 0 0 1 5.5 4h13A2.5 2.5 0 0 1 21 6.5v11A2.5 2.5 0 0 1 18.5 20h-13A2.5 2.5 0 0 1 3 17.5v-11z" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
         <path d="M21 6.5L12 13 3 6.5" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
       </svg>
-      eoronzor@latinberryplants.com
+      ¿Necesitas ayuda? Contáctanos
     </a>
   </footer>
 </body>
 </html>
-
-
