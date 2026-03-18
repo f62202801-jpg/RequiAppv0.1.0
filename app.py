@@ -967,7 +967,8 @@ def forgot():
             token = serializer.dumps(username, salt="reset-password")
             link = url_for("reset_token", token=token, _external=True)
 
-            send_email(user["email"], link)
+            send_email(user["email"],"Recuperación de contraseña",
+                       f"Usa este enlace para cambiar tu contraseña:\n{link}") 
 
             flash("Se envió el correo","success")
             return redirect(url_for("login"))  
@@ -978,24 +979,20 @@ def forgot():
 
     # ✅ ESTO SIEMPRE DEBE EXISTIR
     return render_template("forgot.html")
-def send_reset_email(to, link):
-    try:
-        msg = Message(
-            subject="Recuperación de contraseña",
-            sender="eoronzor@latinberryplants.com",
-            recipients=[to]
-        )
 
-        msg.html = f"""
-        <h3>Restablecer contraseña</h3>
-        <a href="{link}">Haz clic aquí</a>
-        """
+#* def send_email(to, link):
+    #msg = Message(
+      #  subject="Recuperación de contraseña",
+       # sender="eoronzor@latinberryplants.com",
+        #recipients=[to]
+  #  )
 
-        mail.send(msg)
-        print("✅ Correo enviado correctamente")
+   # msg.html = f"""
+   # <h3>Restablecer contraseña</h3>
+   # <a href="{link}">Haz clic aquí</a>
+    #"""
 
-    except Exception as e:
-        print("❌ ERROR EMAIL:", e)
+   # mail.send(msg)
 
 @app.route("/reset/<token>", methods=["GET","POST"])
 def reset_token(token):
