@@ -1,23 +1,22 @@
 from flask import Flask, render_template, request, redirect, session, url_for, send_from_directory, jsonify, flash, send_file
 from flask_cors import CORS
 import os, json, datetime, uuid, smtplib, csv
-from email.message import EmailMessage
+#from email.message import EmailMessage
 import openpyxl
 from openpyxl.drawing.image import Image as XLImage
 from werkzeug.utils import secure_filename
 import pandas as pd
 from itsdangerous import URLSafeTimedSerializer
-from flask_mail import Mail, Message
+#from flask_mail import Mail, Message
+import resend
+import os
+
+resend.api_key = os.environ.get("re_b2LLmBAy_gEWMGLaxYSMzq1zEuyJ97biX")
 
 serializer = URLSafeTimedSerializer("APP_SECRET_KEY_FOR_TOKENS_CHANGE_IN_PROD")
 
 app = Flask(__name__)
-app.config['MAIL_SERVER'] = 'smtp.office365.com'
-app.config['MAIL_PORT'] = 587
-app.config['MAIL_USE_TLS'] = True
-app.config['MAIL_USERNAME'] = 'eoronzor@latinberryplants.com'
-app.config['MAIL_PASSWORD'] = '20940012(EkO)'
-mail = Mail(app)
+
 CORS(app)
 app.secret_key = os.environ.get("APP_SECRET", "CAMBIAR_POR_SECRETO_PROD")
 
@@ -200,29 +199,24 @@ def save_projects():
         return False
 
 load_projects()
-SMTP_HOST = app.config['MAIL_SERVER']
-SMTP_PORT = app.config['MAIL_PORT']
-SMTP_USER = app.config['MAIL_USERNAME']
-SMTP_PASS = app.config['MAIL_PASSWORD']
-# --- Funciones ---
-def send_email(to, subject, body):
+
+def send_reset_email(to, link):
     try:
-        msg = EmailMessage()
-        msg["Subject"] = subject
-        msg["From"] = app.config['MAIL_USERNAME']
-        msg["To"] = to
-        msg.set_content(body)
+        response = resend.Emails.send({
+            "from": "onboarding@resend.dev",
+            "to": [to],
+            "subject": "Recuperación de contraseña",
+            "html": f"""
+                <h2>Recuperación de contraseña</h2>
+                <p>Haz clic en el siguiente enlace:</p>
+                <a href="{link}">{link}</a>
+            """
+        })
 
-        with smtplib.SMTP(app.config['MAIL_SERVER'], app.config['MAIL_PORT']) as s:
-            s.starttls()
-            s.login(app.config['MAIL_USERNAME'], app.config['MAIL_PASSWORD'])
-            s.send_message(msg)
-
-        print("✅ Correo enviado")
+        print("✅ Email enviado:", response)
 
     except Exception as e:
-        print("❌ Error enviando correo:", e)
-
+        print("❌ Error enviando email:", e)
 def get_products():
     if os.path.exists(CATALOG_JSON):
         try:
@@ -968,8 +962,7 @@ def forgot():
             token = serializer.dumps(username, salt="reset-password")
             link = url_for("reset_token", token=token, _external=True)
 
-            send_email(user["email"],"Recuperación de contraseña",
-                       f"Usa este enlace para cambiar tu contraseña:\n{link}") 
+            send_reset_email(user["email"], link)
 
             flash("Se envió el correo","success")
             return redirect(url_for("login"))  
