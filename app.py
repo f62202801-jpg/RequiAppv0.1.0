@@ -43,56 +43,55 @@ ALLOWED_EXT = {"png", "jpg", "jpeg"}
 # --- Usuarios ---
 USERS = {
         # ---- Admin 302 / Fresa 101
-    "Ana Luisa": {"password": "2020", "role": "solicitante", "name": "Ana Luisa Sánchez", "jefe": "Nicolas Garcia", "DEPARTMENTS": "Fresa"},
+    "Ana Luisa": {"password": "2020", "email": "lsbarona@latinberryplants.com","role": "solicitante", "name": "Ana Luisa Sánchez", "jefe": "Nicolas Garcia", "DEPARTMENTS": "Fresa"},
     "Angel Garcia": {"password": "2021", "role": "solicitante", "name": "Angel Garcia", "jefe": "Nicolas Garcia", "DEPARTMENTS": "Fresa"},
-    "Carlos Garcia": {"password": "2022", "role": "solicitante", "name": "Carlos Garcia", "jefe": "Nicolas Garcia", "DEPARTMENTS": "Fresa"},
-    "Catalina Santiago": {"password": "2023", "role": "solicitante", "name": "Catalina Santiago", "jefe": "Nicolas Garcia", "DEPARTMENTS": "Fresa"},
-    "Diana Antonio": {"password": "2024", "role": "solicitante", "name": "Diana Antonio", "jefe": "Nicolas Garcia", "DEPARTMENTS": "Fresa"},
-    "Felix Vazquez": {"password": "2025", "role": "solicitante", "name": "Felix Vazquez", "jefe": "Nicolas Garcia", "DEPARTMENTS": "Fresa"},
-    "Fernando Juarez": {"password": "2026", "role": "solicitante", "name": "Fernando Juarez", "jefe": "Nicolas Garcia", "DEPARTMENTS": "Fresa"},
-    "Juan Ramon": {"password": "2027", "role": "solicitante", "name": "Juan Ramon Martinez", "jefe": "Nicolas Garcia","DEPARTMENTS": "Fresa"},
-    "Luis Angel Garcia": {"password": "2028", "role": "solicitante", "name": "Luis Angel Garcia", "jefe": "Nicolas Garcia", "DEPARTMENTS": "Fresa"},
+    "Carlos Garcia": {"password": "2022", "email":"cgarcialatinberryplants","role": "solicitante", "name": "Carlos Garcia", "jefe": "Nicolas Garcia", "DEPARTMENTS": "Fresa"},
+    "Catalina Santiago": {"password": "2023","email":"csantiagolatinberryplants.com", "role": "solicitante", "name": "Catalina Santiago", "jefe": "Nicolas Garcia", "DEPARTMENTS": "Fresa"},
+    "Diana Antonio": {"password": "2024", "email":"djimenez@latinberryplants.com","role": "solicitante", "name": "Diana Antonio", "jefe": "Nicolas Garcia", "DEPARTMENTS": "Fresa"},
+    "Felix Vazquez": {"password": "2025", "email":"fvazquez@latinberryplants.com","role": "solicitante", "name": "Felix Vazquez", "jefe": "Nicolas Garcia", "DEPARTMENTS": "Fresa"},
+    "Fernando Juarez": {"password": "2026", "email":"fjuarez@latinberryplants.com","role": "solicitante", "name": "Fernando Juarez", "jefe": "Nicolas Garcia", "DEPARTMENTS": "Fresa"},
+    "Juan Ramon": {"password": "2027", "email":"jmartinez@latinberryplants.com","role": "solicitante", "name": "Juan Ramon Martinez", "jefe": "Nicolas Garcia","DEPARTMENTS": "Fresa"},
+    #--"Luis Angel Garcia": {"password": "2028", "role": "solicitante", "name": "Luis Angel Garcia", "jefe": "Nicolas Garcia", "DEPARTMENTS": "Fresa"},
     #--"Misael Beas": {"password": "2029", "role": "solicitante", "name": "Misael Beas", "jefe": "Nicolas Garcia", "DEPARTMENTS": "Fresa"},
-    "Moises Garcia": {"password": "2030", "role": "solicitante", "name": "Moises Garcia", "jefe": "Nicolas Garcia", "DEPARTMENTS": "Fresa"},
-    "Victor Iglesias": {"password": "2031", "role": "solicitante", "name": "Victor Iglesisas", "jefe": "Nicolas Garcia", "DEPARTMENTS": "Fresa"},
-    "Nicolas Garcia": {"password": "2032", "role": "jefe", "name": "Nicolas Garcia", "jefe": "Daniel Nelson", "DEPARTMENTS": "Fresa"},
+    "Moises Garcia": {"password": "2030", "email": "mgarciaperez@latinberryplants.com", "role": "solicitante", "name": "Moises Garcia", "jefe": "Nicolas Garcia", "DEPARTMENTS": "Fresa"},
+    "Victor Iglesias": {"password": "2031", "email": "viglecisas@latinberryplants.com","role": "solicitante", "name": "Victor Iglesisas", "jefe": "Nicolas Garcia", "DEPARTMENTS": "Fresa"},
+    "Guadalupe": {"password": "2041", "email":"gtlalolini@latinberryplants.com","role": "solicitante", "name": "Guadalupe Tlalolini", "jefe": "Nicolas Garcia"", "DEPARTMENTS": "Fresa"},
+    "Nicolas Garcia": {"password": "2032", "email":"ngarcia@latinberryplants.com","role": "jefe", "name": "Nicolas Garcia", "jefe": "Daniel Nelson", "DEPARTMENTS": "Fresa"},
      # -----Invernadero/ admin 303
-    "Diana Manzo": {"password": "2040", "role": "solicitante", "name": "Diana Manzo", "jefe": "Sabastian Aguirre", "DEPARTMENTS": "Invernadero"},
-    "Guadalupe": {"password": "2041", "role": "solicitante", "name": "Guadalupe Tlalolini", "jefe": "Sebastian Aguirre", "DEPARTMENTS": "Invernadero"},
-    "Julieta": {"password": "2042", "role": "solicitante", "name": "Juelieta Delgadillo", "jefe": "Sabastian Aguirre", "DEPARTMENTS": "Invernadero"},
-    "Sonia": {"password": "2043", "role": "solicitante", "name": "Sonia Donje", "jefe": "Sebastian Aguirre", "DEPARTMENTS": "Invernadero"},
-    "Sebastian Aguirre": {"password": "2044", "role": "jefe", "name": "Sebastian Aguirre", "jefe": "Daniel Nelson", "DEPARTMENTS": "Invernadero"},
+    "Diana Manzo": {"password": "2040", "email":"dmanzo@latinberryplans.com","role": "solicitante", "name": "Diana Manzo", "jefe": "Sabastian Aguirre", "DEPARTMENTS": "Invernadero"},
+    "Julieta": {"password": "2042", "email":"jdelgadillo@latinberryplants.com","role": "solicitante", "name": "Juelieta Delgadillo", "jefe": "Sabastian Aguirre", "DEPARTMENTS": "Invernadero"},
+    "Sonia": {"password": "2043", "email":"sdonje@latinberryplants.com","role": "solicitante", "name": "Sonia Donje", "jefe": "Sebastian Aguirre", "DEPARTMENTS": "Invernadero"},
+    "Sebastian Aguirre": {"password": "2044", "email":"saguirre@latinberryplants.com","role": "jefe", "name": "Sebastian Aguirre", "jefe": "Daniel Nelson", "DEPARTMENTS": "Invernadero"},
      #----- 304-Administración
-    "Juanjo": {"password": "2050", "role": "solicitante", "name": "Juan Jose Montiel", "jefe": "Iliana Orozco", "DEPARTMENTS": "Administracion"},
-    "Emid": {"password": "2051", "role": "solicitante", "name": "Emid Tellez", "jefe": "Iliana Orozco", "DEPARTMENTS": "Administracion"},
-    "Jubenal": {"password": "2052", "role": "solicitante", "name": "Jubenal Martinez", "jefe": "Iliana Orozco", "DEPARTMENTS": "Administracion"},
-    "Rebecca": {"password": "2053", "role": "solicitante", "name": "Rebecca Prieto", "jefe": "Iliana Orozco", "DEPARTMENTS": "Administracion"},
-    "Iliana Orozco": {"password": "2054", "role": "jefe", "name": "Iliana Orozco", "jefe": "Daniel Nelson", "DEPARTMENTS": "Administracion"},
+    "Juanjo": {"password": "2050", "email":"jmontiel@latinberryplants.com","role": "solicitante", "name": "Juan Jose Montiel", "jefe": "Iliana Orozco", "DEPARTMENTS": "Administracion"},
+    "Emid": {"password": "2051", "email":"etellez@latinberryplants.com","role": "solicitante", "name": "Emid Tellez", "jefe": "Iliana Orozco", "DEPARTMENTS": "Administracion"},
+    "Jubenal": {"password": "2052", "email":"jbmartinez@latinberryplants.com","role": "solicitante", "name": "Jubenal Martinez", "jefe": "Iliana Orozco", "DEPARTMENTS": "Administracion"},
+    "Rebecca": {"password": "2053", "email":"rprieto@latinberryplants.com","role": "solicitante", "name": "Rebecca Prieto", "jefe": "Iliana Orozco", "DEPARTMENTS": "Administracion"},
+    "Iliana Orozco": {"password": "2054", "email":"iorozco@latinberryplants.com","role": "jefe", "name": "Iliana Orozco", "jefe": "Daniel Nelson", "DEPARTMENTS": "Administracion"},
     #---- Admin 305
-    "Alejandro": {"password": "2060", "role": "solicitante", "name": "Alejandro Chavarria", "jefe": "Alfonso Aquino", "DEPARTMENTS": "Administracion"},
-    "Emid": {"password": "2061", "role": "solicitante", "name": "Emid Tellez", "jefe": "Iliana Orozco", "DEPARTMENTS": "Administracion"},
-    "Ana": {"password": "2062", "role": "solicitante", "name": "Ana Teresa Perez", "jefe": "Alfonso Aquino", "DEPARTMENTS": "Administracion"},
-    "Armando": {"password": "2063", "role": "solicitante", "name": "Armando Fierro", "jefe": "Alfonso Aquino", "DEPARTMENTS": "Administracion"},
-    "Claudia": {"password": "2064", "role": "solicitante", "name": "Claudia Martinez", "jefe": "Alfonso Aquino", "DEPARTMENTS": "Administracion"},
+    "Alejandro": {"password": "2060", "achavarria@latinberryplants.com", "role": "solicitante", "name": "Alejandro Chavarria", "jefe": "Alfonso Aquino", "DEPARTMENTS": "Administracion"},
+    "Ana": {"password": "2062", "email" : "aperez@latinberryplants.com", "role": "solicitante", "name": "Ana Teresa Perez", "jefe": "Alfonso Aquino", "DEPARTMENTS": "Administracion"},
+    "Armando": {"password": "2063", "email": "afierro@latinberryplants.com","role": "solicitante", "name": "Armando Fierro", "jefe": "Alfonso Aquino", "DEPARTMENTS": "Administracion"},
+    "Claudia": {"password": "2064","email": "comartinez@latinberryplants.com", "role": "solicitante", "name": "Claudia Martinez", "jefe": "Alfonso Aquino", "DEPARTMENTS": "Administracion"},
     "Erik": {"password": "2065","email": "eoronzor@latinberryplants.com", "role": "solicitante", "name": "Erik Oronzor", "jefe": "Alfonso Aquino", "DEPARTMENTS": "Administracion"},
-    "Gabriela": {"password": "2066", "role": "solicitante", "name": "Gabriela Moreno", "jefe": "Alfonso Aquino", "DEPARTMENTS": "Administracion"},
-    "Juan Pablo": {"password": "2067", "role": "solicitante", "name": "Juan Pablo Carreón", "jefe": "Alfonso Aquino", "DEPARTMENTS": "Administracion"},
-    "Alfonso Aquino": {"password": "2068", "role": "jefe", "name": "Alfonso Aquino", "jefe": "Pablo Kersey", "DEPARTMENTS": "Administracion"},
+    "Gabriela": {"password": "2066", "email": "gmoreno@latinberryplants.com","role": "solicitante", "name": "Gabriela Moreno", "jefe": "Alfonso Aquino", "DEPARTMENTS": "Administracion"},
+    "Juan Pablo": {"password": "2067", "email" : "jpcarreon@latinberryplants.com","role": "solicitante", "name": "Juan Pablo Carreón", "jefe": "Alfonso Aquino", "DEPARTMENTS": "Administracion"},
+    "Alfonso Aquino": {"password": "2068", "email": "aaquino@latinberryplants.com", "role": "jefe", "name": "Alfonso Aquino", "jefe": "Pablo Kersey", "DEPARTMENTS": "Administracion"},
     # ----- Admin 306
-    "Jesus": {"password": "admin", "role": "admin", "name": "Jose Jesus López", "jefe": "Diana Lopez", "DEPARTMENTS": "Administracion"},
-    #--"Yoalli": {"password": "2070", "role": "solicitante", "name": "Yoalli Gonzalez", "jefe": "Diana Lopez", "DEPARTMENTS": "Administracion"},
-    "Carlos": {"password": "2071", "role": "solicitante", "name": "Carlos Montiel", "jefe": "Diana Lopez", "DEPARTMENTS": "Administracion"},
-    "Miriam": {"password": "2072", "role": "solicitante", "name": "Miriam Jimenez", "jefe": "Diana Lopez", "DEPARTMENTS": "Administracion"},
-    "Raymundo": {"password": "2073", "role": "solicitante", "name": "Raymundo Tellez", "jefe": "Diana Lopez", "DEPARTMENTS": "Administracion"},
-    "Mari José": {"password": "2077", "role": "solicitante", "name": "Mari José Macias", "jefe": "Diana Lopez", "DEPARTMENTS": "Administracion"},
-    "Diana Lopez": {"password": "2074", "role": "jefe", "name": "Diana Lopez", "jefe": "Iliana Orozco", "DEPARTMENTS": "Administracion"},
+    "Jesus": {"password": "admin", "email":"jlopez@latinberryplants.com","role": "admin", "name": "Jose Jesus López", "jefe": "Diana Lopez", "DEPARTMENTS": "Administracion"},
+    "Marijose": {"password": "2070", "email": "mmacias@latinberryplants.com", "role": "solicitante", "name": "Marijose Macias", "jefe": "Diana Lopez", "DEPARTMENTS": "Administracion"},
+    "Carlos": {"password": "2071", "email" : "cmontiel@latinberryplants.com", "role": "solicitante", "name": "Carlos Montiel", "jefe": "Diana Lopez", "DEPARTMENTS": "Administracion"},
+    "Miriam": {"password": "2072", "email":"mhernandez@latinberryplants.com", "role": "solicitante", "name": "Miriam Jimenez", "jefe": "Diana Lopez", "DEPARTMENTS": "Administracion"},
+    "Raymundo": {"password": "2073", "email" : "rtellez@plantsciences.com", "role": "solicitante", "name": "Raymundo Tellez", "jefe": "Diana Lopez", "DEPARTMENTS": "Administracion"},
+    #"Mari José": {"password": "2077", "email": ""role": "solicitante", "name": "Mari José Macias", "jefe": "Diana Lopez", "DEPARTMENTS": "Administracion"},
+    "Diana Lopez": {"password": "2074", "email": "dlopez@latinberryplants.com", "role": "jefe", "name": "Diana Lopez", "jefe": "Iliana Orozco", "DEPARTMENTS": "Administracion"},
     #------- Admin 301
-    "Flavio Lara": {"password": "2080", "role": "jefe", "name": "Flavio Lara", "jefe": "Pablo Kersey", "DEPARTMENTS": "Administracion"},
-    "Pablo Kersey": {"password": "2081", "role": "jefe", "name": "Diana Lopez", "jefe": "Daniel Nelson"},
-    "Iris Alixiel": {"password": "2082", "role": "solcitante", "name": "Iris Alixiel Silva", "jefe": "Flavio Lara", "DEPARTAMENTS": "Administracion"},
-    "Bidrey": {"password": "2083", "role": "solicitante", "name": "Ramona Bidrey Gutiérrez", "jefe": "Flavio Lara", "DEPARTAMENTS": "Administracion"}, 
+    "Flavio Lara": {"password": "2080", "email": "flara@latinberryplants.com","role": "jefe", "name": "Flavio Lara", "jefe": "Pablo Kersey", "DEPARTMENTS": "Administracion"},
+    "Pablo Kersey": {"password": "2081", "email": "pkersey@latinberryplants.com","role": "jefe", "name": "Diana Lopez", "jefe": "Daniel Nelson"},
+    "Iris Alixiel": {"password": "2082", "email": "isilva@latinberryplants.com","role": "solcitante", "name": "Iris Alixiel Silva", "jefe": "Flavio Lara", "DEPARTAMENTS": "Administracion"},
+    "Bidrey": {"password": "2083", "email": "bgutierrez@latinberryplants.com","role": "solicitante", "name": "Ramona Bidrey Gutiérrez", "jefe": "Flavio Lara", "DEPARTAMENTS": "Administracion"}, 
     #------- Aprovador Daniel
-    "Daniel Nelson": {"password": "2082", "role": "jefe", "name": "Daniel Nelson", "jefe": "Daniel Nelson"},
+    "Daniel Nelson": {"password": "2082", "email": "dnelson@latinberryplants.com", "role": "jefe", "name": "Daniel Nelson", "jefe": "Daniel Nelson"},
 
 }
 
@@ -215,10 +214,10 @@ def send_reset_email(to, link):
             """
         })
 
-        print("✅ Email enviado:", response)
+        print("Email enviado:", response)
 
     except Exception as e:
-        print("❌ Error enviando email:", e)
+        print("Error enviando email:", e)
 def get_products():
     if os.path.exists(CATALOG_JSON):
         try:
@@ -973,7 +972,7 @@ def forgot():
             flash("Usuario no encontrado","danger")
             return redirect(url_for("forgot"))  
 
-    # ✅ ESTO SIEMPRE DEBE EXISTIR
+    # ESTO SIEMPRE DEBE EXISTIR
     return render_template("forgot.html")
 
 #* def send_email(to, link):
