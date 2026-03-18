@@ -8,10 +8,12 @@ from werkzeug.utils import secure_filename
 import pandas as pd
 from itsdangerous import URLSafeTimedSerializer
 #from flask_mail import Mail, Message
-import resend
-import os
 
-resend.api_key = os.environ.get("re_b2LLmBAy_gEWMGLaxYSMzq1zEuyJ97biX")
+import resend
+
+resend.api_key = "re_b2LLmBAy_gEWMGLaxYSMzq1zEuyJ97biX"
+
+#resend.api_key = os.environ.get("re_b2LLmBAy_gEWMGLaxYSMzq1zEuyJ97biX")
 
 serializer = URLSafeTimedSerializer("APP_SECRET_KEY_FOR_TOKENS_CHANGE_IN_PROD")
 
