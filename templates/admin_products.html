@@ -1,108 +1,171 @@
-<!-- templates/admin_products.html -->
 <!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Administrar Productos</title>
+
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
 
   <style>
+    /* ============================================================
+       PALETA LIQUID GLASS – PROFESIONAL
+    ============================================================ */
     :root {
-      --azul-principal: #3e5f8a;
-      --azul-claro: #4f7ab3;
-      --gris-fondo: #f4f6f8;
-      --borde-suave: #e0e6ec;
+      --primary: #20201f;
+      --primary-light: #000811;
+      --danger: #e63946;
+
+      --glass-bg: rgba(255,255,255,0.55);
+      --glass-border: rgba(255,255,255,0.35);
+      --glass-shadow: 0 10px 30px rgba(0,0,0,0.15);
+      --text-dark: #243447;
     }
+
     body {
-      background-color: var(--gris-fondo);
-      font-family: 'Inter', 'Segoe UI', system-ui;
-    }
-    .strawberry-bar {
-      background-color: var(--azul-principal);
-      background-image: linear-gradient(135deg, rgba(255,255,255,0.08), rgba(255,255,255,0.05)), url("{{ url_for('static', filename='img/fresa_pattern.svg') }}");
-      background-size: 220px;
-      background-repeat: repeat;
+      min-height: 100vh;
+      background-image: url("{{ url_for('static', filename='img/fondo.png') }}");
+      background-size: cover;
       background-position: center;
-      color: #fff !important;
-      border-bottom: 3px solid var(--azul-claro);
-      box-shadow: 0 3px 6px rgba(0,0,0,0.15);
-      animation: movePattern 60s linear infinite;
+      background-attachment: fixed;
+      font-family: 'Inter', 'Segoe UI', system-ui;
+      color: var(--text-dark);
     }
+
+    /* ============================================================
+       NAVBAR LIQUID GLASS
+    ============================================================ */
+    .strawberry-bar {
+      background: rgba(255,255,255,0.18);
+      backdrop-filter: blur(10px);
+      -webkit-backdrop-filter: blur(10px);
+      border-bottom: 1px solid rgba(255,255,255,0.25);
+      box-shadow: 0 4px 14px rgba(0,0,0,0.2);
+    }
+
     .strawberry-bar .navbar-brand {
       font-weight: 600;
-      color: #fff !important;
-      letter-spacing: 0.5px;
+      letter-spacing: .4px;
+      color: #000 !important;
     }
+
     .strawberry-bar .btn-light {
-      background-color: rgba(255,255,255,0.9);
+      background: rgba(255,255,255,0.75);
       border: none;
-      color: var(--azul-principal);
+      backdrop-filter: blur(6px);
     }
+
     .strawberry-bar .btn-light:hover {
-      background-color: #fff;
+      background: #fff;
       transform: translateY(-1px);
-      box-shadow: 0 2px 6px rgba(0,0,0,0.15);
     }
+
     .strawberry-bar .btn-danger {
-      background-color: #e63946;
+      background-color: var(--danger);
       border: none;
     }
-    .strawberry-bar .btn-danger:hover {
-      background-color: #c62835;
-    }
-    @keyframes movePattern {
-      from { background-position:0 0; }
-      to { background-position:400px 300px; }
-    }
+
+    /* ============================================================
+       TARJETAS – GLASSMORPHISM
+    ============================================================ */
     .card {
-      border-radius: 14px;
-      border: 1px solid var(--borde-suave);
-      box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+      background: var(--glass-bg);
+      backdrop-filter: blur(14px);
+      -webkit-backdrop-filter: blur(14px);
+      border: 1px solid var(--glass-border);
+      border-radius: 18px;
+      box-shadow: var(--glass-shadow);
+      animation: fadeIn .7s ease;
     }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(10px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+
     .card-header {
-      background-color: var(--azul-principal);
-      color: #fff;
+      background: transparent;
+      border-bottom: 1px solid rgba(0,0,0,0.08);
+      font-weight: 600;
+      color: var(--primary);
+    }
+
+    h3 {
+      font-weight: 600;
+      color: var(--primary);
+    }
+
+    /* ============================================================
+       INPUTS
+    ============================================================ */
+    .form-control {
+      border-radius: 10px;
+      border: 1px solid rgba(0,0,0,0.15);
+      background: rgba(255,255,255,0.85);
+    }
+
+    .form-control:focus {
+      border-color: var(--primary-light);
+      box-shadow: 0 0 0 4px rgba(95,143,199,0.25);
+    }
+
+    /* ============================================================
+       BOTONES
+    ============================================================ */
+    .btn-success {
+      background-color: var(--primary);
+      border: none;
+      border-radius: 10px;
       font-weight: 500;
     }
-    h3 {
-      color: var(--azul-principal);
-      font-weight: 600;
-      margin-bottom: 20px;
-    }
-    .btn-success {
-      background-color: var(--azul-principal);
-      border: none;
-    }
+
     .btn-success:hover {
-      background-color: var(--azul-claro);
+      background-color: var(--primary-light);
     }
-    .btn-primary {
-      background-color: var(--azul-principal);
-      border: none;
-    }
-    .btn-primary:hover {
-      background-color: var(--azul-claro);
-    }
+
     .btn-outline-primary {
-      border-color: var(--azul-claro);
-      color: var(--azul-principal);
+      border-color: var(--primary);
+      color: var(--primary);
+      border-radius: 8px;
     }
+
     .btn-outline-primary:hover {
-      background-color: var(--azul-claro);
+      background-color: var(--primary);
       color: #fff;
     }
-    footer {
-      background-color: var(--azul-principal);
-      color: #fff;
-      text-align: center;
-      padding: 10px 0;
-      margin-top: 30px;
-      font-size: 0.95rem;
+
+    .btn-outline-danger {
+      border-radius: 8px;
+    }
+
+    /* ============================================================
+       TABLA
+    ============================================================ */
+    .table {
+      background: rgba(10, 10, 10, 0.6);
+      border-radius: 12px;
+      overflow: hidden;
+    }
+
+    .table thead {
+      background: rgba(255,255,255,0.8);
+    }
+
+    /* ============================================================
+       MODAL GLASS
+    ============================================================ */
+    .modal-content {
+      background: var(--glass-bg);
+      backdrop-filter: blur(16px);
+      border-radius: 16px;
+      border: 1px solid var(--glass-border);
+    }
+
+    .modal-header {
+      border-bottom: 1px solid rgba(0,0,0,0.08);
     }
   </style>
 </head>
-<body>
 
 <!-- Barra superior -->
 <nav class="navbar shadow-sm strawberry-bar">
