@@ -1,11 +1,3 @@
-# app.py 
-# Single-file Flask application with:
-# - Requisitions (create)
-# - Mis requisiciones (view)
-# - Autorizaciones (jefes y admin)
-# - Admin: manage catalog, upload images, download & clear requisitions (saved to static/descargas)
-# - Projects can be added as "proyecto especial" and persisted to projects.json
-
 from flask import Flask, render_template, request, redirect, session, url_for, send_from_directory, jsonify, flash, send_file
 from flask_cors import CORS
 import os, json, datetime, uuid, smtplib, csv
@@ -14,8 +6,18 @@ import openpyxl
 from openpyxl.drawing.image import Image as XLImage
 from werkzeug.utils import secure_filename
 import pandas as pd
+from itsdangerous import URLSafeTimedSerializer
+from flask_mail import Mail, Message
+
+serializer = URLSafeTimedSerializer("APP_SECRET_KEY_FOR_TOKENS_CHANGE_IN_PROD")
 
 app = Flask(__name__)
+app.config['MAIL_SERVER'] = 'smtp.office365.com'
+app.config['MAIL_PORT'] = 587
+app.config['MAIL_USE_TLS'] = True
+app.config['MAIL_USERNAME'] = 'eoronzor@latinberryplants.com'
+app.config['MAIL_PASSWORD'] = '20940012(EkO)'
+mail = Mail(app)
 CORS(app)
 app.secret_key = os.environ.get("APP_SECRET", "CAMBIAR_POR_SECRETO_PROD")
 
@@ -35,76 +37,62 @@ os.makedirs(DOWNLOADS_FOLDER, exist_ok=True)
 
 ALLOWED_EXT = {"png", "jpg", "jpeg"}
 
-# --- Configuración correo (opcional) ---
-SMTP_HOST = os.environ.get("SMTP_HOST", "")
-SMTP_PORT = int(os.environ.get("SMTP_PORT", 587) or 587)
-SMTP_USER = os.environ.get("SMTP_USER", "eoronzor@latinberryplants.com")
-SMTP_PASS = os.environ.get("SMTP_PASS", "20940012(EkO)")
-NOTIFY_EMAILS = os.environ.get("NOTIFY_EMAILS", "eoronzor@latinberryplants.com")
+
 
 # --- Usuarios ---
 USERS = {
-    "erik": {
-        "password": "1234",
-        "role": "solicitante",
-        "name": "Erik Oronzor",
-        "jefe": "Alfonso"
-    },
-    "juanjo": {
-        "password": "juan123",
-        "role": "solicitante",
-        "name": "Juan José M.",
-        "jefe": "iliana"
-    },
-    "Emid": {
-        "password": "123",
-        "role": "solicitante",
-        "name": "Emid Tellez",
-        "jefe": "marcosb"   
-    },
-    "jesus": {
-        "password": "admin",
-        "role": "admin",
-        "name": "José Jesús López",
-        "jefe":"Diana"
-    },
-    "Yoalli": {
-        "password": "1212",
-        "role": "solicitante",
-        "name": "Yoalli Gonzalez",
-        "jefe": "Diana"
-    },
-    "Iliana": {
-        "password": "2324",
-        "role": "jefe",
-        "name": "Iliana Orozco"
-    },
-    # --- Jefes inmediatos/Aprovadores ---
-    "marcosb": {
-        "password": "12345",
-        "role": "jefe",
-        "name": "Marcos Barrera"
-    },
-    "Iliana": {
-        "password": "123",
-        "role": "jefe",
-        "name": "Iliana Orozco"
-    },
-    "Alfonso": {
-        "password": "2025",
-        "role": "jefe",
-        "name": "Alfonso Aquino"
-    },
-    "Rebecca": {
-        "password":"jefe",
-        "role":"jefe",
-        "name":"Rebecca Prieto"
-    },
-    "Diana": {
-        "password":"2020",
-        "role":"jefe",
-        "name":"Diana López"
-    }
+        # ---- Admin 302 / Fresa 101
+    "Ana Luisa": {"password": "2020", "role": "solicitante", "name": "Ana Luisa Sánchez", "jefe": "Nicolas Garcia", "DEPARTMENTS": "Fresa"},
+    "Angel Garcia": {"password": "2021", "role": "solicitante", "name": "Angel Garcia", "jefe": "Nicolas Garcia", "DEPARTMENTS": "Fresa"},
+    "Carlos Garcia": {"password": "2022", "role": "solicitante", "name": "Carlos Garcia", "jefe": "Nicolas Garcia", "DEPARTMENTS": "Fresa"},
+    "Catalina Santiago": {"password": "2023", "role": "solicitante", "name": "Catalina Santiago", "jefe": "Nicolas Garcia", "DEPARTMENTS": "Fresa"},
+    "Diana Antonio": {"password": "2024", "role": "solicitante", "name": "Diana Antonio", "jefe": "Nicolas Garcia", "DEPARTMENTS": "Fresa"},
+    "Felix Vazquez": {"password": "2025", "role": "solicitante", "name": "Felix Vazquez", "jefe": "Nicolas Garcia", "DEPARTMENTS": "Fresa"},
+    "Fernando Juarez": {"password": "2026", "role": "solicitante", "name": "Fernando Juarez", "jefe": "Nicolas Garcia", "DEPARTMENTS": "Fresa"},
+    "Juan Ramon": {"password": "2027", "role": "solicitante", "name": "Juan Ramon Martinez", "jefe": "Nicolas Garcia","DEPARTMENTS": "Fresa"},
+    "Luis Angel Garcia": {"password": "2028", "role": "solicitante", "name": "Luis Angel Garcia", "jefe": "Nicolas Garcia", "DEPARTMENTS": "Fresa"},
+    #--"Misael Beas": {"password": "2029", "role": "solicitante", "name": "Misael Beas", "jefe": "Nicolas Garcia", "DEPARTMENTS": "Fresa"},
+    "Moises Garcia": {"password": "2030", "role": "solicitante", "name": "Moises Garcia", "jefe": "Nicolas Garcia", "DEPARTMENTS": "Fresa"},
+    "Victor Iglesias": {"password": "2031", "role": "solicitante", "name": "Victor Iglesisas", "jefe": "Nicolas Garcia", "DEPARTMENTS": "Fresa"},
+    "Nicolas Garcia": {"password": "2032", "role": "jefe", "name": "Nicolas Garcia", "jefe": "Daniel Nelson", "DEPARTMENTS": "Fresa"},
+     # -----Invernadero/ admin 303
+    "Diana Manzo": {"password": "2040", "role": "solicitante", "name": "Diana Manzo", "jefe": "Sabastian Aguirre", "DEPARTMENTS": "Invernadero"},
+    "Guadalupe": {"password": "2041", "role": "solicitante", "name": "Guadalupe Tlalolini", "jefe": "Sebastian Aguirre", "DEPARTMENTS": "Invernadero"},
+    "Julieta": {"password": "2042", "role": "solicitante", "name": "Juelieta Delgadillo", "jefe": "Sabastian Aguirre", "DEPARTMENTS": "Invernadero"},
+    "Sonia": {"password": "2043", "role": "solicitante", "name": "Sonia Donje", "jefe": "Sebastian Aguirre", "DEPARTMENTS": "Invernadero"},
+    "Sebastian Aguirre": {"password": "2044", "role": "jefe", "name": "Sebastian Aguirre", "jefe": "Daniel Nelson", "DEPARTMENTS": "Invernadero"},
+     #----- 304-Administración
+    "Juanjo": {"password": "2050", "role": "solicitante", "name": "Juan Jose Montiel", "jefe": "Iliana Orozco", "DEPARTMENTS": "Administracion"},
+    "Emid": {"password": "2051", "role": "solicitante", "name": "Emid Tellez", "jefe": "Iliana Orozco", "DEPARTMENTS": "Administracion"},
+    "Jubenal": {"password": "2052", "role": "solicitante", "name": "Jubenal Martinez", "jefe": "Iliana Orozco", "DEPARTMENTS": "Administracion"},
+    "Rebecca": {"password": "2053", "role": "solicitante", "name": "Rebecca Prieto", "jefe": "Iliana Orozco", "DEPARTMENTS": "Administracion"},
+    "Iliana Orozco": {"password": "2054", "role": "jefe", "name": "Iliana Orozco", "jefe": "Daniel Nelson", "DEPARTMENTS": "Administracion"},
+    #---- Admin 305
+    "Alejandro": {"password": "2060", "role": "solicitante", "name": "Alejandro Chavarria", "jefe": "Alfonso Aquino", "DEPARTMENTS": "Administracion"},
+    "Emid": {"password": "2061", "role": "solicitante", "name": "Emid Tellez", "jefe": "Iliana Orozco", "DEPARTMENTS": "Administracion"},
+    "Ana": {"password": "2062", "role": "solicitante", "name": "Ana Teresa Perez", "jefe": "Alfonso Aquino", "DEPARTMENTS": "Administracion"},
+    "Armando": {"password": "2063", "role": "solicitante", "name": "Armando Fierro", "jefe": "Alfonso Aquino", "DEPARTMENTS": "Administracion"},
+    "Claudia": {"password": "2064", "role": "solicitante", "name": "Claudia Martinez", "jefe": "Alfonso Aquino", "DEPARTMENTS": "Administracion"},
+    "Erik": {"password": "2065","email": "eoronzor@latinberryplants.com", "role": "solicitante", "name": "Erik Oronzor", "jefe": "Alfonso Aquino", "DEPARTMENTS": "Administracion"},
+    "Gabriela": {"password": "2066", "role": "solicitante", "name": "Gabriela Moreno", "jefe": "Alfonso Aquino", "DEPARTMENTS": "Administracion"},
+    "Juan Pablo": {"password": "2067", "role": "solicitante", "name": "Juan Pablo Carreón", "jefe": "Alfonso Aquino", "DEPARTMENTS": "Administracion"},
+    "Alfonso Aquino": {"password": "2068", "role": "jefe", "name": "Alfonso Aquino", "jefe": "Pablo Kersey", "DEPARTMENTS": "Administracion"},
+    # ----- Admin 306
+    "Jesus": {"password": "admin", "role": "admin", "name": "Jose Jesus López", "jefe": "Diana Lopez", "DEPARTMENTS": "Administracion"},
+    #--"Yoalli": {"password": "2070", "role": "solicitante", "name": "Yoalli Gonzalez", "jefe": "Diana Lopez", "DEPARTMENTS": "Administracion"},
+    "Carlos": {"password": "2071", "role": "solicitante", "name": "Carlos Montiel", "jefe": "Diana Lopez", "DEPARTMENTS": "Administracion"},
+    "Miriam": {"password": "2072", "role": "solicitante", "name": "Miriam Jimenez", "jefe": "Diana Lopez", "DEPARTMENTS": "Administracion"},
+    "Raymundo": {"password": "2073", "role": "solicitante", "name": "Raymundo Tellez", "jefe": "Diana Lopez", "DEPARTMENTS": "Administracion"},
+    "Mari José": {"password": "2077", "role": "solicitante", "name": "Mari José Macias", "jefe": "Diana Lopez", "DEPARTMENTS": "Administracion"},
+    "Diana Lopez": {"password": "2074", "role": "jefe", "name": "Diana Lopez", "jefe": "Iliana Orozco", "DEPARTMENTS": "Administracion"},
+    #------- Admin 301
+    "Flavio Lara": {"password": "2080", "role": "jefe", "name": "Flavio Lara", "jefe": "Pablo Kersey", "DEPARTMENTS": "Administracion"},
+    "Pablo Kersey": {"password": "2081", "role": "jefe", "name": "Diana Lopez", "jefe": "Daniel Nelson"},
+    "Iris Alixiel": {"password": "2082", "role": "solcitante", "name": "Iris Alixiel Silva", "jefe": "Flavio Lara", "DEPARTAMENTS": "Administracion"},
+    "Bidrey": {"password": "2083", "role": "solicitante", "name": "Ramona Bidrey Gutiérrez", "jefe": "Flavio Lara", "DEPARTAMENTS": "Administracion"}, 
+    #------- Aprovador Daniel
+    "Daniel Nelson": {"password": "2082", "role": "jefe", "name": "Daniel Nelson", "jefe": "Daniel Nelson"},
+
 }
 
 
@@ -116,9 +104,26 @@ STAGES = {
 }
 # Default projects_by_dept (can be extended with projects.json)
 PROJECTS_BY_DEPT = {
-    "Fresa": ["101 - Strawberry"],
-    "Invernadero": ["103 - Raspberry Increace", "106 - Raspberry Puebla","110 - Blackberry Increce", "111 - Blueberry Puebla","207 - Blackberry Puebla", "210 - Crop Rotation Oats", "211 - Crop Rotation Barley", "212 - TNP Plantfor", "213 - TNP NAP", "216 - Raspberry Queretaro", "217 - Blackberry Queretaro", "218 - Blueberry Queretaro"],
-    "Administracion": ["300 - Board Of Directors, President & Special Projects", "301 - Sales", "302 - Outdoor T&E Production", "303 - Indoor T&E Production", "304 - Finance & Controlling", "305 - HR , SSHE and Facility","306 - Procurement & Warehouse","307- Legal", "308 - IT"]
+    "Fresa": ["101 - Strawberry",  "-Proyectos Especiales Fresa-",
+    "25-26OUTCAP01",
+    "25-26OUTCAP02",
+    "25-26OUTCAP03",
+    "25-26OUTCAP04",
+    "25-26OUTCAP05",
+    "25-26OUTCAP06",
+    "25-26OUTCAP07",
+    "25-26OUTCAP08",
+    "25-26OUTCAP09",
+    "25-26OUTCAP10",
+    "25-26OUTCAP11",
+    "25-26OUTCAP12",
+    "25-26OUTCAP13",
+    "25-26OUTCAP14",
+    "25-26OUTCAP15",
+    "25-26OUTCAP16",
+    "25-26OUTCAP17",],
+    "Invernadero": ["103 - Raspberry Increace", "106 - Raspberry Puebla","110 - Blackberry Increce", "111 - Blueberry Puebla","112 - Third-party nursery – Plantfort","113 - Third-party nursery – NAP", "114 - Indoor","207 - Blackberry Puebla", "210 - Crop Rotation Oats", "211 - Crop Rotation Barley",  "216 - Raspberry Queretaro", "217 - Blackberry Queretaro","218 - Blueberry- Queretaro", "-Proyectos especiales Invernadero-", "218 - Blueberry Queretaro", "25-26INDCAP01", "25-26INDCAP02", "25-26INDCAP03", "25-26INDCAP04", "25-26INDCAP05", "25-26INDCAP06", "25-26INDCAP07", "25-26INDCAP08"],
+    "Administracion": ["300 - Board Of Directors, President & Special Projects", "301 - Sales", "302 - Outdoor T&E Production", "303 - Indoor T&E Production", "304 - Finance & Controlling", "305 - HR , SSHE and Facility","306 - Procurement & Warehouse","307- Legal"]
 }
 
 
@@ -127,19 +132,43 @@ UNITS = ["Bulto","Gramos","Pieza", "Caja", "Metro","Mililitro", "Litro", "Kilogr
 LOCATIONS =["Cowork Puebla", "Cowork Guadalajara","Ocotepec", "Praderas", "Purisima de Cubos","San Martin", "San Roque","Santa Julia 1","Santa Julia 2","Santa Julia 3","Santa Julia 4","Santa Julia 5","Santa Julia 6","Santa Lugarda", "SCC", "Zamora"]
 
 
+
 # --- Inicialización de archivos ---
 def init_files():
     if not os.path.exists(REQUISITIONS_FILE):
         wb = openpyxl.Workbook()
+
+        # Hoja principal
         ws = wb.active
         ws.title = "Requisiciones"
-        ws.append(["ID", "Fecha", "Usuario", "Solicitante", "Departamento", "Etapa", "Proyecto",
-                   "Producto", "Unidad", "Cantidad", "Ubicacion", "Motivo", "Jefe",
-                   "Estatus", "Fecha Autorizacion", "Comentarios Jefe", "ImageFile"])
+
+        # MISMA ESTRUCTURA QUE EL PRIMER CÓDIGO
+        ws.append(["master_id",
+    datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+    session["user"],
+    session["name"],
+    "departamento",
+    "etapa",
+    "proyecto_final",  # 👈 ESTE ES EL BUENO
+    "producto",
+    "unidad",
+    "cantidad",
+    "ubicacion",
+    "motivo",
+    "jefe_name",
+    "Pendiente",
+    "",
+    "",
+    "image_filename"
+])
+
+        # Hoja de imágenes
         ws2 = wb.create_sheet("Images")
         ws2.append(["ID", "ImageFile"])
+
         wb.save(REQUISITIONS_FILE)
-    # ensure projects.json exists
+
+    # asegurar que exista projects.json
     if not os.path.exists(PROJECTS_JSON):
         with open(PROJECTS_JSON, "w", encoding="utf-8") as f:
             json.dump(PROJECTS_BY_DEPT, f, ensure_ascii=False, indent=2)
@@ -570,45 +599,43 @@ def logout():
 def solicitud():
     if "user" not in session:
         return redirect(url_for("login"))
-    products = get_products()
-    load_projects()  # refresh projects from disk
-    if request.method=="POST":
-        departamento=request.form.get("departamento")
-        etapa=request.form.get("etapa")
-        proyecto=request.form.get("proyecto","")
-        proyecto_especial = request.form.get("proyecto_especial","").strip()
-        # if proyecto is __other__ or proyecto_especial provided, use proyecto_especial
-        if proyecto == "__other__" and proyecto_especial:
-            proyecto = proyecto_especial
-            # persist new project under departamento
-            PROJECTS_BY_DEPT.setdefault(departamento, [])
-            if proyecto not in PROJECTS_BY_DEPT[departamento]:
-                PROJECTS_BY_DEPT[departamento].append(proyecto)
-                save_projects()
-        elif proyecto_especial:
-            proyecto = proyecto_especial
-            PROJECTS_BY_DEPT.setdefault(departamento, [])
-            if proyecto not in PROJECTS_BY_DEPT[departamento]:
-                PROJECTS_BY_DEPT[departamento].append(proyecto)
-                save_projects()
 
-        ubicacion=request.form.get("ubicacion")
-        motivo=request.form.get("motivo","")
+    user_info = USERS.get(session["user"], {})
+    user_department = user_info.get("DEPARTMENTS")  # 👈 importante
+
+    products = get_products()
+    load_projects()
+
+    if request.method=="POST":
+        departamento = request.form.get("departamento")
+        etapa = request.form.get("etapa")
+        
+    
+        ubicacion = request.form.get("ubicacion")
+        motivo = request.form.get("motivo","")
         lines_text=request.form.get("products_json","").strip()
         if not lines_text:
             flash("Agrega al menos un producto","danger")
             return redirect(url_for("solicitud"))
         master_id=int(datetime.datetime.now().timestamp())
-        wb=openpyxl.load_workbook(REQUISITIONS_FILE)
-        ws=wb["Requisiciones"]
+        from openpyxl import load_workbook
+
+        def get_sheet():
+            wb = load_workbook(REQUISITIONS_FILE)
+            ws = wb["Requisiciones"]
+            return wb, ws
+
+        wb, ws = get_sheet()
         jefe_key = USERS.get(session["user"], {}).get("jefe", "")
         jefe_name = USERS.get(jefe_key, {}).get("name", jefe_key if jefe_key else "")
         lines=[l.strip() for l in lines_text.splitlines() if l.strip()]
         for idx,line in enumerate(lines):
-            parts=[p.strip() for p in line.split("|")]
-            producto=parts[0] if len(parts)>0 else ""
-            unidad=parts[1] if len(parts)>1 else ""
-            cantidad=parts[2] if len(parts)>2 else ""
+            parts = [p.strip() for p in line.split("|")]
+
+            producto = parts[0] if len(parts) > 0 else ""
+            proyecto_final = parts[1] if len(parts) > 1 else ""   # 👈 AQUÍ ESTÁ LA CLAVE
+            unidad = parts[2] if len(parts) > 2 else ""
+            cantidad = parts[3] if len(parts) > 3 else ""
             image_filename=""
             file_field=f"image_{idx}"
             if file_field in request.files:
@@ -630,14 +657,23 @@ def solicitud():
                     except:
                         pass
             ws.append([master_id,datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
-                       session["user"],session["name"],departamento,etapa,proyecto,
+           session["user"],session["name"],departamento,etapa,proyecto_final,
                        producto,unidad,cantidad,ubicacion,motivo,jefe_name,
                        "Pendiente","","",image_filename])
         wb.save(REQUISITIONS_FILE)
         flash("Requisición enviada correctamente","success")
         return redirect(url_for("solicitud"))
-    return render_template("solicitud.html", products=products, departments=DEPARTMENTS,
-                           stages=STAGES, projects_by_dept=PROJECTS_BY_DEPT, units=UNITS, locations=LOCATIONS, USERS=USERS)
+    return render_template(
+    "solicitud.html",
+    products=products,
+    departments=DEPARTMENTS,
+    stages=STAGES,
+    projects_by_dept=PROJECTS_BY_DEPT,
+    units=UNITS,
+    locations=LOCATIONS,
+    USERS=USERS,
+    user_department=user_department  
+)
 
 @app.route("/mis_requisiciones", methods=["GET","POST"])
 def mis_requisiciones():
@@ -885,7 +921,7 @@ def download_and_clear_requisitions():
     # Leer todas las requisiciones actuales
     wb = openpyxl.load_workbook(REQUISITIONS_FILE, data_only=True)
     ws = wb["Requisiciones"]
-    headers = [c for c in ws[1]]
+    headers = [c.value for c in ws[1]]
     rows = [list(r) for r in ws.iter_rows(min_row=2, values_only=True)]
 
     if not rows:
@@ -921,6 +957,64 @@ def download_and_clear_requisitions():
     flash(f"Archivo guardado en: static/descargas/{os.path.basename(outpath)}. Requisiciones limpiadas.", "success")
     # Ofrecer descarga al admin
     return send_file(outpath, as_attachment=True)
+@app.route("/forgot", methods=["GET","POST"])
+def forgot():
+    if request.method == "POST":
+        username = request.form.get("usuario")
+        user = USERS.get(username)
+
+        if user and user.get("email"):
+            token = serializer.dumps(username, salt="reset-password")
+            link = url_for("reset_token", token=token, _external=True)
+
+            send_email(user["email"], link)
+
+            flash("Se envió el correo","success")
+            return redirect(url_for("login"))  
+
+        else:
+            flash("Usuario no encontrado","danger")
+            return redirect(url_for("forgot"))  
+
+    # ✅ ESTO SIEMPRE DEBE EXISTIR
+    return render_template("forgot.html")
+
+def send_email(to, link):
+    msg = Message(
+        subject="Recuperación de contraseña",
+        sender="eoronzor@latinberryplants.com",
+        recipients=[to]
+    )
+
+    msg.html = f"""
+    <h3>Restablecer contraseña</h3>
+    <a href="{link}">Haz clic aquí</a>
+    """
+
+    mail.send(msg)
+
+@app.route("/reset/<token>", methods=["GET","POST"])
+def reset_token(token):
+    try:
+        username = serializer.loads(token, salt="reset-password", max_age=3600)
+    except:
+        return "Link inválido o expirado"
+
+    if request.method == "POST":
+        new_pass = request.form.get("password")
+
+        if username in USERS:
+            USERS[username]["password"] = new_pass
+            flash("Contraseña actualizada","success")
+            return redirect(url_for("login"))
+
+    return f"""
+    <form method="post">
+        <h3>Nueva contraseña para {username}</h3>
+        <input name="password" type="password" required>
+        <button>Cambiar contraseña</button>
+    </form>
+    """
 
 if __name__=="__main__":
     app.run(host="0.0.0.0", port=5000, debug=True)
