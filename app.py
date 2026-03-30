@@ -860,56 +860,59 @@ def autorizaciones():
     user_role = session.get("role")
     user_name = USERS.get(session.get("user"), {}).get("name", "")
 
-    # Determinar si es jefe (actual: si algún usuario tiene su 'jefe' igual a este username)
-    is_jefe = False
-    for k,v in USERS.items():
-        if v.get('jefe') == session.get('user'):
-            is_jefe = True
-            break
+    # Determinar si es jefe
+    is_jefe = any(v.get("jefe") == session.get("user") for v in USERS.values())
+
     if user_role not in ["admin"] and not is_jefe:
         flash("Acceso denegado: esta sección es solo para jefes o administradores.", "danger")
         return redirect(url_for("solicitud"))
 
     wb = openpyxl.load_workbook(REQUISITIONS_FILE)
     ws = wb["Requisiciones"]
-if request.method == "POST":
-    req_id = request.form.get("req_id")
-    decision = request.form.get("decision")
-    comentario = request.form.get("comentario", "")
-    updated = False
 
-    for row in ws.iter_rows(min_row=2):
-        if str(row[0].value) == str(req_id):
+    # ---- POST (Aprobar / Rechazar) ----
+    if request.method == "POST":
+        req_id = request.form.get("req_id")
+        decision = request.form.get("decision")
+        comentario = request.form.get("comentario", "")
+        updated = False
 
-            if decision == "aprobar":
-                row[13].value = "Aprobada"
+        for row in ws.iter_rows(min_row=2):
+            if str(row[0].value) == str(req_id):
 
-            elif decision == "rechazar":
-                row[13].value = "Rechazada"
+                if decision == "aprobar":
+                    row[13].value = "Aprobada"
 
-            updated = True
-            break
+                elif decision == "rechazar":
+                    row[13].value = "Rechazada"
 
-        row[14].value = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-        row[15].value = comentario
-        updated = True
-                
+                # Fecha autorización
+                row[14].value = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+
+                # Comentario
+                row[15].value = comentario
+
+                updated = True
+                break
+
         if updated:
             wb.save(REQUISITIONS_FILE)
             flash("Estatus actualizado correctamente.", "success")
         else:
             flash("No se encontró la requisición.", "danger")
+
         return redirect(url_for("autorizaciones"))
 
-    # Mostrar requisiciones pendientes del jefe o admin
+    # ---- GET (mostrar pendientes) ----
     rows = []
     wb_ro = openpyxl.load_workbook(REQUISITIONS_FILE, data_only=True)
     ws_ro = wb_ro["Requisiciones"]
+
     for row in ws_ro.iter_rows(min_row=2, values_only=True):
-        # admin ve todo, jefe ve los que tengan como Jefe su nombre
         if user_role == "admin" or row[12] == user_name:
             if row[13] == "Pendiente":
                 rows.append(row)
+
     return render_template("autorizaciones.html", requisiciones=rows)
 
 # --------------------------
@@ -917,60 +920,56 @@ if request.method == "POST":
 # --------------------------
 @app.route("/download_and_clear_requisitions")
 def download_and_clear_requisitions():
-    if "user" not in session or session.get("role")!="admin":
+    if "user" not in session or session.get("role") != "admin":
         flash("Acceso denegado.", "danger")
         return redirect(url_for("login"))
 
-    # Leer todas las requisiciones actuales
-    wb = openpyxl.load_workbook(REQUISITIONS_FILE, data_only=True)
-    ws = wb["Requisiciones"]
-    headers = [c.value for c in ws[1]]
-    rows = [
-    list(r) for r in ws.iter_rows(min_row=2, values_only=True)
-    if r[13] in ["Aprobada", "Rechazada"]
-    ]
+    try:
+        wb = openpyxl.load_workbook(REQUISITIONS_FILE, data_only=True)
+        ws = wb["Requisiciones"]
 
-    if not rows:
-        flash("No hay requisiciones para descargar.", "info")
-        return redirect(url_for("autorizaciones"))
+        headers = [c.value for c in ws[1]]
 
-   # Ahora limpiar la hoja Requisiciones (dejar solo la fila de encabezado)
-try:
-    pendientes = [
-        list(r) for r in ws.iter_rows(min_row=2, values_only=True)
-        if r[13] == "Pendiente"
-    ]
+        aprobadas_rechazadas = [
+            list(r) for r in ws.iter_rows(min_row=2, values_only=True)
+            if r[13] in ["Aprobada", "Rechazada"]
+        ]
 
-    wb2 = openpyxl.Workbook()
-    ws2 = wb2.active
-    ws2.append(headers)
+        if not aprobadas_rechazadas:
+            flash("No hay requisiciones para descargar.", "info")
+            return redirect(url_for("autorizaciones"))
 
-    for row in pendientes:
-        ws2.append(row)
+        # ---- Crear archivo Excel para descarga ----
+        df = pd.DataFrame(aprobadas_rechazadas, columns=headers)
+        timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
+        outpath = os.path.join(DOWNLOADS_FOLDER, f"solicitudes_{timestamp}.xlsx")
+        df.to_excel(outpath, index=False)
 
-    wb2.save("nuevo_archivo.xlsx")
+        # ---- Mantener solo pendientes en archivo original ----
+        pendientes = [
+            list(r) for r in ws.iter_rows(min_row=2, values_only=True)
+            if r[13] == "Pendiente"
+        ]
 
-except Exception as e:
-    print("Error limpiando hoja:", e)
-    flash("Error limpiando requisiciones.", "danger")
-    return redirect(url_for("autorizaciones"))
+        wb2 = openpyxl.Workbook()
+        ws2 = wb2.active
+        ws2.title = "Requisiciones"
+        ws2.append(headers)
 
-wb2 = openpyxl.Workbook()
-ws2 = wb2.active
-ws2.title = "Requisiciones"
-ws2.append(headers)
+        for r in pendientes:
+            ws2.append(r)
 
-for r in pendientes:
-    ws2.append(r)
-
-    
-        # Also recreate Images sheet
+        # Recrear hoja Images
         ws_img = wb2.create_sheet("Images")
         ws_img.append(["ID", "ImageFile"])
+
         wb2.save(REQUISITIONS_FILE)
+
+        return send_file(outpath, as_attachment=True)
+
     except Exception as e:
-        print("Error limpiando Requisiciones:", e)
-        flash("Error al limpiar las requisiciones.", "danger")
+        print("Error procesando descarga:", e)
+        flash("Error al generar el archivo.", "danger")
         return redirect(url_for("autorizaciones"))
 
     flash(f"Archivo guardado en: static/descargas/{os.path.basename(outpath)}. Requisiciones limpiadas.", "success")
