@@ -918,7 +918,10 @@ def download_and_clear_requisitions():
     wb = openpyxl.load_workbook(REQUISITIONS_FILE, data_only=True)
     ws = wb["Requisiciones"]
     headers = [c.value for c in ws[1]]
-    rows = [list(r) for r in ws.iter_rows(min_row=2, values_only=True)]
+    rows = [
+    list(r) for r in ws.iter_rows(min_row=2, values_only=True)
+    if r[13] in ["Aprobada", "Rechazada"]
+    ]
 
     if not rows:
         flash("No hay requisiciones para descargar.", "info")
@@ -937,10 +940,20 @@ def download_and_clear_requisitions():
 
     # Ahora limpiar la hoja Requisiciones (dejar solo la fila de encabezado)
     try:
-        wb2 = openpyxl.Workbook()
-        ws2 = wb2.active
-        ws2.title = "Requisiciones"
-        ws2.append(headers)
+        pendientes = [
+    list(r) for r in ws.iter_rows(min_row=2, values_only=True)
+    if r[13] == "Pendiente"
+]
+
+wb2 = openpyxl.Workbook()
+ws2 = wb2.active
+ws2.title = "Requisiciones"
+ws2.append(headers)
+
+for r in pendientes:
+    ws2.append(r)
+
+    
         # Also recreate Images sheet
         ws_img = wb2.create_sheet("Images")
         ws_img.append(["ID", "ImageFile"])
