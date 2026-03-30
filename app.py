@@ -872,18 +872,23 @@ def autorizaciones():
 
     wb = openpyxl.load_workbook(REQUISITIONS_FILE)
     ws = wb["Requisiciones"]
-
     if request.method == "POST":
-        req_id = request.form.get("req_id")
-        decision = request.form.get("decision")
-        comentario = request.form.get("comentario", "")
-        updated = False
-        for row in ws.iter_rows(min_row=2):
-            if str(row[0].value) == str(req_id):
-               if decision == "aprobar":
-                  row[13].value = "Aprobada"
-                     elif decision == "rechazar":
-                      row[13].value = "Rechazada"
+    req_id = request.form.get("req_id")
+    decision = request.form.get("decision")
+    comentario = request.form.get("comentario", "")
+    updated = False
+
+    for row in ws.iter_rows(min_row=2):
+        if str(row[0].value) == str(req_id):
+
+            if decision == "aprobar":
+                row[13].value = "Aprobada"
+
+            elif decision == "rechazar":
+                row[13].value = "Rechazada"
+
+            updated = True
+            break
 
         row[14].value = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         row[15].value = comentario
