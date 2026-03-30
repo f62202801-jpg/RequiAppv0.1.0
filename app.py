@@ -598,7 +598,7 @@ def solicitud():
         return redirect(url_for("login"))
 
     user_info = USERS.get(session["user"], {})
-    user_department = user_info.get("DEPARTMENTS")  # 👈 importante
+    user_department = user_info.get("DEPARTMENTS")  
 
     products = get_products()
     load_projects()
@@ -630,7 +630,7 @@ def solicitud():
             parts = [p.strip() for p in line.split("|")]
 
             producto = parts[0] if len(parts) > 0 else ""
-            proyecto_final = parts[1] if len(parts) > 1 else ""   # 👈 AQUÍ ESTÁ LA CLAVE
+            proyecto_final = parts[1] if len(parts) > 1 else ""   
             unidad = parts[2] if len(parts) > 2 else ""
             cantidad = parts[3] if len(parts) > 3 else ""
             image_filename=""
