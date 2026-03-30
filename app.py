@@ -934,23 +934,26 @@ def download_and_clear_requisitions():
         flash("No hay requisiciones para descargar.", "info")
         return redirect(url_for("autorizaciones"))
 
-    # Crear DataFrame y guardarlo en static/descargas
-    try:
-        df = pd.DataFrame(rows, columns=headers)
-        timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
-        outpath = os.path.join(DOWNLOADS_FOLDER, f"solicitudes_{timestamp}.xlsx")
-        df.to_excel(outpath, index=False)
-    except Exception as e:
-        print("Error creando Excel:", e)
-        flash("Error generando el archivo Excel.", "danger")
-        return redirect(url_for("autorizaciones"))
+   # Ahora limpiar la hoja Requisiciones (dejar solo la fila de encabezado)
+try:
+    pendientes = [
+        list(r) for r in ws.iter_rows(min_row=2, values_only=True)
+        if r[13] == "Pendiente"
+    ]
 
-    # Ahora limpiar la hoja Requisiciones (dejar solo la fila de encabezado)
-    try:
-        pendientes = [
-    list(r) for r in ws.iter_rows(min_row=2, values_only=True)
-    if r[13] == "Pendiente"
-]
+    wb2 = openpyxl.Workbook()
+    ws2 = wb2.active
+    ws2.append(headers)
+
+    for row in pendientes:
+        ws2.append(row)
+
+    wb2.save("nuevo_archivo.xlsx")
+
+except Exception as e:
+    print("Error limpiando hoja:", e)
+    flash("Error limpiando requisiciones.", "danger")
+    return redirect(url_for("autorizaciones"))
 
 wb2 = openpyxl.Workbook()
 ws2 = wb2.active
