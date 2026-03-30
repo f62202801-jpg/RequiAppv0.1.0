@@ -872,7 +872,7 @@ def autorizaciones():
 
     wb = openpyxl.load_workbook(REQUISITIONS_FILE)
     ws = wb["Requisiciones"]
-    if request.method == "POST":
+if request.method == "POST":
     req_id = request.form.get("req_id")
     decision = request.form.get("decision")
     comentario = request.form.get("comentario", "")
