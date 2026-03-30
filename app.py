@@ -11,6 +11,7 @@ from itsdangerous import URLSafeTimedSerializer
 
 import resend
 
+
 resend.api_key = "re_b2LLmBAy_gEWMGLaxYSMzq1zEuyJ97biX"
 
 #resend.api_key = os.environ.get("re_b2LLmBAy_gEWMGLaxYSMzq1zEuyJ97biX")
