@@ -878,15 +878,17 @@ def autorizaciones():
         comentario = request.form.get("comentario", "")
         updated = False
         for row in ws.iter_rows(min_row=2):
-            if str(row[0].value) == str(req_id):
-                if decision == "aprobar":
-                    row[13].value = "Aprobada"
-                elif decision == "rechazar":
-                    row[13].value = "Rechazada"
-                row[14].value = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-                row[15].value = comentario
-                updated = True
-                break
+        if str(row[0].value) == str(req_id):
+
+        if decision == "aprobar":
+            row[13].value = "Aprobada"
+        elif decision == "rechazar":
+            row[13].value = "Rechazada"
+
+        row[14].value = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        row[15].value = comentario
+        updated = True
+                
         if updated:
             wb.save(REQUISITIONS_FILE)
             flash("Estatus actualizado correctamente.", "success")
